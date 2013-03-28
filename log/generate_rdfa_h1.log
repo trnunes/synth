@@ -1,0 +1,9 @@
+GENERATING RDFA H1 FOR: http://sr#o_SemanticWebApplicati_320f
+LABEL: Semantic Web Applications
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Semantic Web Applications</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Semantic Web Applications</span></h1> 
+      URI: (<a href="http://sr#o_SemanticWebApplicati_320f" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SemanticWebApplicati_320f</a>)
+    

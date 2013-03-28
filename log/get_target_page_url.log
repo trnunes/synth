@@ -1,0 +1,28 @@
+target_resource: http://sr#o_FOAF_9abc
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::Ontology]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Twine
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/TripIt
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/1
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/2
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Seminar
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d

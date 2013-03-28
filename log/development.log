@@ -1,0 +1,148 @@
+# Logfile created on Thu Mar 28 11:29:30 -0300 2013
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-03-28 11:29:49) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 339ms (View: 332 | 200 OK [http://localhost/]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-03-28 11:33:54) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 414ms (View: 405 | 200 OK [http://localhost/]
+
+
+Processing ApplicationsController#activate (for 127.0.0.1 at 2013-03-28 11:33:59) [POST]
+  Parameters: {"authenticity_token"=>"wWvu74gBnlmWy9s1u/2DhQH06VgdOKp6RA0RTaGjG20=", "id"=>"semantic_web_applications_wiki"}
+Redirected to http://localhost:3000/applications
+Completed in 1296ms | 302 Found [http://localhost/applications/activate/semantic_web_applications_wiki]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-03-28 11:34:01) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 174ms (View: 166 | 200 OK [http://localhost/applications]
+
+
+Processing ExecuteController#init (for 127.0.0.1 at 2013-03-28 11:34:10) [GET]
+Redirected to http://localhost:3000/execute/context/http%3A%2F%2Fbase%23c11f6410-1197-11e2-b893-bc773740354f?node=http%3A%2F%2Fsr%23o_SemanticWebApplicati_320f&firstchar=S
+Completed in 106ms | 302 Found [http://localhost/execute/init]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-03-28 11:34:10) [GET]
+  Parameters: {"node"=>"http://sr#o_SemanticWebApplicati_320f", "firstchar"=>"S", "id"=>"http://base#c11f6410-1197-11e2-b893-bc773740354f"}
+Completed in 22648ms (View: 4 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%23c11f6410-1197-11e2-b893-bc773740354f?node=http%3A%2F%2Fsr%23o_SemanticWebApplicati_320f&firstchar=S]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-03-28 11:34:33) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 37ms (View: 7 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-03-28 11:34:33) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 34ms (View: 6 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2013-03-28 11:34:33) [GET]
+
+ActionController::RoutingError (No route matches "/images/semWikiLogo.png" with {:method=>:get}):
+  org/jruby/RubyProc.java:268:in `call'
+  org/jruby/RubyProc.java:228:in `call'
+  org/jruby/RubyArray.java:1603:in `each'
+  c:/jruby-1.6.3/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/jruby-1.6.3/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/jruby-1.6.3/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  org/jruby/RubyProc.java:268:in `call'
+  org/jruby/RubyProc.java:232:in `call'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-03-28 11:45:35) [GET]
+  Parameters: {"node"=>"http://sr#o_SemanticWebApplicati_320f", "firstchar"=>"S", "id"=>"http://base#c11f6410-1197-11e2-b893-bc773740354f"}
+Completed in 37ms (View: 9 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%23c11f6410-1197-11e2-b893-bc773740354f?node=http%3A%2F%2Fsr%23o_SemanticWebApplicati_320f&firstchar=S]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-03-28 11:45:35) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 65ms (View: 21 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-03-28 11:45:35) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 31ms (View: 5 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-03-28 11:48:24) [GET]
+  Parameters: {"node"=>"http://sr#o_SemanticWebApplicati_320f", "firstchar"=>"S", "interface_name"=>"EditWikiPage", "id"=>"http://base#c11f6410-1197-11e2-b893-bc773740354f"}
+Completed in 14539ms (View: 2 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%23c11f6410-1197-11e2-b893-bc773740354f?node=http%3A%2F%2Fsr%23o_SemanticWebApplicati_320f&firstchar=S&interface_name=EditWikiPage]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-03-28 11:48:38) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 50ms (View: 5 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2013-03-28 11:48:39) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquerynew/jquery1.5.js" with {:method=>:get}):
+  org/jruby/RubyProc.java:268:in `call'
+  org/jruby/RubyProc.java:228:in `call'
+  org/jruby/RubyArray.java:1603:in `each'
+  c:/jruby-1.6.3/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/jruby-1.6.3/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/jruby-1.6.3/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  org/jruby/RubyProc.java:268:in `call'
+  org/jruby/RubyProc.java:232:in `call'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-03-28 11:48:39) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 24ms (View: 4 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2013-03-28 11:48:39) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquerynew/auto.js" with {:method=>:get}):
+  org/jruby/RubyProc.java:268:in `call'
+  org/jruby/RubyProc.java:228:in `call'
+  org/jruby/RubyArray.java:1603:in `each'
+  c:/jruby-1.6.3/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/jruby-1.6.3/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/jruby-1.6.3/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  org/jruby/RubyProc.java:268:in `call'
+  org/jruby/RubyProc.java:232:in `call'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-03-28 11:51:04) [GET]
+  Parameters: {"node"=>"http://sr#o_SemanticWebApplicati_320f", "firstchar"=>"S", "interface_name"=>"EditWikiPage", "id"=>"http://base#c11f6410-1197-11e2-b893-bc773740354f"}
+Completed in 29ms (View: 9 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%23c11f6410-1197-11e2-b893-bc773740354f?node=http%3A%2F%2Fsr%23o_SemanticWebApplicati_320f&firstchar=S&interface_name=EditWikiPage]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-03-28 11:51:04) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 53ms (View: 7 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-03-28 11:51:04) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 35ms (View: 6 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ResourcesController#search_property (for 127.0.0.1 at 2013-03-28 11:51:16) [GET]
+Completed in 106ms (View: 37 | 200 OK [http://localhost/resources/search_property]
+
+
+Processing ResourcesController#search_property (for 127.0.0.1 at 2013-03-28 11:51:20) [GET]
+  Parameters: {"d"=>nil}
+Completed in 26ms (View: 8 | 200 OK [http://localhost/resources/search_property?d]
+
+
+Processing ResourcesController#search_property (for 127.0.0.1 at 2013-03-28 11:51:26) [GET]
+  Parameters: {"d"=>nil}
+Completed in 24ms (View: 8 | 200 OK [http://localhost/resources/search_property?d]

@@ -1,0 +1,538 @@
+<style type="text/css">
+  TABLE {
+      font-family: georgia, serif;
+      font-size: 10pt;
+      padding: 5px;
+      width: 200px;
+  }
+  TH {
+      padding-top: 10px;
+  }
+  TD {
+      border-top: solid 1px #eee;
+  }
+  H1 {
+      font-size: 18pt;
+  }
+  H4 {
+      color: #999;
+      background-color: #fee;
+      border: solid 1px #caa;
+      margin: 10px 15px 5px 10px;
+      padding: 5px;
+  }
+  P {
+      margin: 2px 5px 2px 5px;
+  }
+  TD.example1 PRE {
+      background-color: #FEE;
+      font-family: georgia, serif;
+      font-size: 8pt;
+      padding: 5px;
+      padding: 5px;
+  }
+  TD.example3 {
+      border: solid 1px #DDD;
+      background-color: #EEE;
+      font-size: 8pt;
+      padding: 5px;
+  }
+  .big {
+      font-size: 12pt;
+  }
+  #big-red {
+      font-size: 12pt;
+      color: red;
+  }
+  #big-red2 {
+      font-size: 15pt;
+      color: red;
+  }
+  </style>
+<notextile>
+<table>
+  <tr><th colspan='3'><h1>Mediawiki Quick Reference</h1></th></tr>
+  <tr><th colspan='3'>
+    Sections: <a href='#writing-in-textile'>Writing in Textile</a> |
+    <a href='#quick-block-modifiers'>Quick Block Modifiers</a> | 
+    <a href='#quick-phrase-modifiers'>Quick Phrase Modifiers</a> | 
+    <a href='#attributes'>Attributes</a> | 
+    <a href='#lists'>Lists</a> | 
+    <a href='#external-references'>References</a> | 
+    <a href='#tables'>Tables</a> | 
+    <a href='#datatype_semantic_markups'>Dataype Semantic Markups</a> | 
+    <a href='#namespaces'>Namespaces</a> | 
+    <a href='#internal_links'>Internal Links</a> | 
+    <a href='#semantic_markups'>Semantic Markups</a>
+  </th></tr>
+
+<tr><th colspan='5'><a name='writing-in-textile'>Writing in Textile</a></th></tr>
+
+<tr>
+  <td class='example1'>
+    <pre>A single paragraph.<br /><br />Followed by another.</pre></td>
+    <td>?</td>
+    
+  <td class='example2'>
+    <p>A single paragraph.</p>
+
+    <p>Followed by another.</p>
+  </td>
+</tr>
+
+<tr>
+  <td class='example1'>
+    <pre>I am <b>very</b> serious.<br /><br /><pre><br />  I am <b>very</b> serious.<br /></pre></pre>
+  </td>
+  
+  <td>?</td>
+
+  <td class='example2'>
+    <p>I am <b>very</b> serious.</p>
+    <pre>
+      I am <b>very</b> serious.
+    </pre>
+  </td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>I spoke.<br />And none replied.</pre></td>
+
+  <td>?</td>
+
+  <td class='example2'><p>I spoke. And none replied.</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>"Observe!"</pre></td>
+  <td>?</td>
+  <td class='example2'><p>“Observe!”</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>Observe -- very nice!</pre></td>
+  <td>?</td>
+  <td class='example2'><p>Observe—very nice!</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>Observe - tiny and brief.</pre></td>
+  <td>?</td>
+  <td class='example2'><p>Observe – tiny and brief.</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>Observe...</pre></td>
+  <td>?</td>
+  <td class='example2'><p>Observe…</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>Observe: 2 x 2.</pre></td>
+  <td>?</td>
+  <td class='example2'><p>Observe: 2?2.</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>one(TM), two(R), three(C).</pre></td>
+  <td>?</td>
+  <td class='example2'><p>one™, two?, three?.</p></td>
+</tr>
+
+<tr>
+  <th colspan='5'><a name='quick-block-modifiers'>Quick Block Modifiers</a></th>
+</tr>
+
+<tr>
+  <td class='example1'><pre>==Header 1==</pre></td>
+  <td>?</td>
+  <td class='example2'><h1>Header 1</h1></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>===Header 2===</pre></td>
+  <td>?</td>
+  <td class='example2'><h2>Header 2</h2></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>====Header 3====</pre></td>
+  <td>?</td>
+  <td class='example2'><h3>Header 3</h3></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>An old text<br /><br /><blockquote>A block quotation.</blockquote><br /><br />Any old text</pre></td>
+  <td>?</td>
+
+  <td class='example2'><p>An old text</p>
+
+    <blockquote>
+        <p>A block quotation.</p>
+    </blockquote>
+
+    <p>Any old text</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>This is covered elsewhere<sup>1</sup>.</pre></td>
+  <td>?</td>
+  <td class='example2'><p>This is covered elsewhere<sup><a href="#fn1">1</a></sup>.</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre><sup>1</sup>Down here, in fact.</pre></td>
+  <td>?</td>
+  <td class='example2'><p id="fn1"><sup>1</sup> Down here, in fact.</p></td>
+</tr>
+
+<tr>
+  <th colspan='5'><a name='quick-phrase-modifiers'>Quick Phrase Modifiers</a></th>
+</tr>
+
+<tr>
+  <td class='example1'><pre>I ''believe'' every word.</pre></td>
+  <td>?</td>
+  <td class='example2'><p>I <em>believe</em> every word.</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>And then? She *fell*!</pre></td>
+  <td>?</td>
+  <td class='example2'><p>And then? She <strong>fell</strong>!</p></td>
+</tr>
+
+
+<tr>
+  <td class='example1'><pre><cite>Cat's Cradle?? by Vonnegut</cite></pre></td>
+  <td>?</td>
+  <td class='example2'><p><cite>Cat’s Cradle</cite> by Vonnegut</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>I'm <s>sure</s> not sure.</pre></td>
+  <td>?</td>
+  <td class='example2'><p>I’m <del>sure</del> not sure.</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>You are a <ins>pleasant</ins> child.</pre></td>
+  <td>?</td>
+  <td class='example2'><p>You are a <ins>pleasant</ins> child.</p></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>x<sub>1</sub> x<sub>2</sub> x<sub>3</sub></pre></td>
+  <td>?</td>
+  <td class='example2'><p>x<sub>1</sub> x<sub>2</sub> x<sub>3</sub></p></td>
+</tr>
+
+
+<tr><th colspan='5'><a name='attributes'>Attributes</a></th></tr>
+
+<tr>
+  <td class='example1'><pre><pre><br /><code><br />  a.gsub!( /</, '' )<br /></code><br /></pre><br /></pre></td>
+  <td>?</td>
+  <td class='example2'><pre>
+    <code>
+     a.gsub!( /</, '' )
+    </code>
+  </pre></td>
+</tr>
+
+
+<tr>
+  <th colspan='5'><a name='lists'>Lists</a></th>
+</tr>
+
+<tr>
+  <td class='example1'><pre># A first item<br /># A second item<br /># A third</pre></td>
+  <td>?</td>
+  <td class='example2'><ol>
+    <li>A first item</li>
+        <li>A second item</li>
+        <li>A third</li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td class='example1'>
+    <pre>
+    # Fuel could be:<br />
+    ## Coal<br />
+    ## Gasoline<br />
+    ## Electricity<br />
+    # Humans need only:<br />
+    ## Water<br />
+    ## Protein
+    </pre>
+  </td>
+  
+  <td>?</td>
+  
+  <td class='example2'><ol>
+
+    <li>Fuel could be:
+    <ol>
+    <li>Coal</li>
+        <li>Gasoline</li>
+        <li>Electricity</li>
+    </ol>
+    </li>
+        <li>Humans need only:
+    <ol>
+
+    <li>Water</li>
+        <li>Protein</li>
+    </ol></li>
+    </ol>
+  </td>
+</tr>
+
+<tr>
+  <td class='example1'>
+    <pre>
+    * A first item<br />
+    * A second item<br />
+    * A third
+    </pre>
+  </td>
+  <td>?</td>
+  <td class='example2'><ul>
+    <li>A first item</li>
+
+        <li>A second item</li>
+        <li>A third</li>
+    </ul>
+  </td>
+</tr>
+
+<tr>
+  <td class='example1'>
+    <pre>
+    * Fuel could be:<br />
+    ** Coal<br />
+    ** Gasoline<br />
+    ** Electricity<br />
+    * Humans need only:<br />
+    ** Water<br />
+    ** Protein
+    </pre>
+  </td>
+  
+  <td>?</td>
+  
+  <td class='example2'><ul>
+    <li>Fuel could be:
+    <ul>
+
+    <li>Coal</li>
+        <li>Gasoline</li>
+        <li>Electricity</li>
+    </ul>
+    </li>
+        <li>Humans need only:
+    <ul>
+    <li>Water</li>
+
+        <li>Protein</li>
+    </ul></li>
+    </ul>
+  </td>
+</tr>
+
+<tr>
+  <th colspan='5'><a name='external-references'>References</a></th>
+</tr>
+
+
+<tr>
+  <td class='example1'>
+    <pre>I am crazy about [http://hobix.com Hobix]
+    </pre>
+  </td>
+  <td>?</td>
+  <td class='example2'><p>I am crazy about <a href="http://hobix.com">Hobix</a></td>
+</tr>
+
+<tr>
+  <td class='example1'>
+    <pre>You can find Hobix in [http://hobix.com]
+    </pre>
+  </td>
+  <td>?</td>
+  <td class='example2'><p>You can find Hobix in  <a href="http://hobix.com">http://hobix.com</a></td>
+</tr>
+
+<tr>
+  <td class='example1'><pre>[[File:http://www.tecweb.inf.puc-rio.br/tw-images/LogoTecWebSmall.png]]</pre></td>
+  <td>?</td>
+  <td class='example2'><p><img src="http://www.tecweb.inf.puc-rio.br/tw-images/LogoTecWebSmall.png" alt="" /></p></td>
+</tr>
+<tr><td class='example1'><pre>[[File:Rails.png|alt=Rails.|Rails.]]</pre></td><td>?</td><td class='example2'><p><img src="../../images/rails.png" title="Rails." alt="Rails." /></p></td></tr>
+<tr><td class='example1'><pre>[[File:Rails.png|link=http://hobix.com/]]</pre></td><td>?</td><td class='example2'><p><a href="http://hobix.com/"><img src="../../images/rails.png" alt="" /></a></p></td></tr>
+<tr><td class='example1'><pre>[[File:Rails.png|right|Rails.]]<br /><br />And others sat all round the small<br />machine and paid it to sing to them.</pre></td><td>?</td><td class='example2'><p style="float:right"><img src="../../images/rails.png" alt="" /></p>
+
+  <p>And others sat all round the small
+machine and paid it to sing to them.</p></td></tr>
+<tr><td class='example1'><pre>We use CSS(Cascading Style Sheets).</pre></td><td>?</td><td class='example2'><p>We use <acronym title="Cascading Style Sheets">CSS</acronym>.</p></td></tr>
+<tr><th colspan='5'><a name='tables'>Tables</a></th></tr>
+<tr>
+  <td class='example1'>
+    <pre>
+    {|<br />
+      |-<br />
+      | name | age | sex |<br />
+      |-<br />
+      | joan | 24 | f |<br />
+      |-<br />
+      | archie | 29 | m |<br />
+      |-<br />
+      | bella | 45 | f |
+    |}
+    </pre>
+  </td>
+  
+  <td>?</td>
+  <td class='example2'><table>
+      <tr>
+
+          <td> name </td>
+          <td> age </td>
+          <td> sex </td>
+      </tr>
+      <tr>
+          <td> joan </td>
+
+          <td> 24 </td>
+          <td> f </td>
+      </tr>
+      <tr>
+          <td> archie </td>
+          <td> 29 </td>
+
+          <td> m </td>
+      </tr>
+      <tr>
+          <td> bella </td>
+          <td> 45 </td>
+          <td> f </td>
+
+      </tr>
+  </table></td></tr>
+<tr>
+  <td class='example1'>
+    <pre>
+    {|<br/>
+      ! name ! age ! sex <br />
+      |-<br/>
+      | joan | 24 | f |<br />
+      |-<br/>
+      | archie | 29 | m |<br />
+      |-<br/>
+      | bella | 45 | f |
+    |}
+    </pre>    
+  </td>
+  
+  <td>?</td>
+  
+  <td class='example2'><table>
+      <tr>
+          <th>name </th>
+          <th>age </th>
+
+          <th>sex </th>
+      </tr>
+      <tr>
+          <td> joan </td>
+          <td> 24 </td>
+          <td> f </td>
+
+      </tr>
+      <tr>
+          <td> archie </td>
+          <td> 29 </td>
+          <td> m </td>
+      </tr>
+
+      <tr>
+          <td> bella </td>
+          <td> 45 </td>
+          <td> f </td>
+      </tr>
+  </table></td></tr>
+
+<tr>
+  <td class='example1'>
+    <pre>
+    {| <br/>
+      ! attribute list<br />
+      |-<br/>
+      | align="left" | align left <br />
+      |-<br/>
+      | align="right" | align right<br />    
+      |-<br/>
+      | align="center" center<br />
+    |}
+    </pre>
+  </td>
+  <td>?</td>
+  
+  <td class='example2'><table>
+      <tr>
+          <th>attribute list </th>
+      </tr>
+
+      <tr>
+          <td style="text-align:left;">align left </td>
+      </tr>
+      <tr>
+          <td style="text-align:right;">align right</td>
+      </tr>
+      <tr>
+          <td style="text-align:center;">center </td>
+
+      </tr>
+  </table>
+  </td>
+  
+</tr>
+
+<tr><th colspan='5'><a name='datatype_semantic_markups'>Datatype Semantic Markups</a></th></tr>
+<tr>
+<td class='example1'><pre>His name is [[name=John]] and he is [[age=32]] years old.</pre></td>
+<td>-></td>
+  <td class='example2'><p>His name is John and he is 32 years old.</p></td>
+</tr>
+
+<tr><th colspan='5'><a name='namespaces'>Namespaces</a></th></tr>
+<tr>
+<td class='example1'><pre>His name is [[FOAF::name=John]] and he is [[SWWIKI::age=32]] years old.</pre></td>
+<td>-></td>
+  <td class='example2'><p>His name is John and he is 32 years old.</p></td>
+</tr>
+
+<tr><th colspan='5'><a name='internal_links'>Internal Links</a></th></tr>
+<tr>
+<td class='example1'><pre>FOAF is an [[Ontology]] to describe people.</pre></td>
+<td>-></td>
+  <td class='example2'><p>FOAF is an <a href="/execute/render_target_page?wikiLabel=Ontology&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23Ontology&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">Ontology</a> to describe people.</p></td>
+</tr>
+<tr>
+
+<tr><th colspan='5'><a name='semantic_markups'>Semantic Links</a></th></tr>
+<tr>
+<td class='example1'><pre>FOAF is an [[RDF::type->Ontology]] to describe people.</pre></td>
+<td>-></td>
+  <td class='example2'><p>FOAF is an <a href="/execute/render_target_page?wikiLabel=Ontology&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23Ontology&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">Ontology</a> to describe people.</p></td>
+</tr>
+
+<tr>
+<td class='example1'><pre>FOAF is one of the [[ontologies|RDF::type->Ontology]] that can be found in the Web of Data</pre></td>
+<td>-></td>
+  <td class='example2'><p>FOAF is one of the <a href="/execute/render_target_page?wikiLabel=Ontology&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23Ontology&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">ontologies</a> that can be found in the Web of Data.</p></td>
+</tr>
+</table>
+</notextile>

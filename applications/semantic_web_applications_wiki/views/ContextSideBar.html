@@ -1,0 +1,51 @@
+<div id="sidebar">
+  <h2><%= @context.context_title %></h2>
+  
+  <% unless @context.parameters.empty? %>
+    <h3>Parameters</h3>	  
+    <p class="news">
+    <% for name, value in @context.parameters do %>
+       <strong><%= name %>: </strong><%= value.is_a?(RDFS::Resource) ? (value.rdfs::label.first || value.compact_uri) : value %>
+       </br>
+    <% end %>
+    </p>
+  <% end %>
+
+  <h3 style="margin: 0;">Filter</h3>		
+  <input id="input_filter" name="" type="text" value="filter" />
+  
+  <h2>Context Index</h2> 
+  <ul class="subnav">
+  <% for entry in @context.index.entries do %>
+    <% for name, attribute in entry.attributes_hash do %>
+      <% if @current_node.uri == entry.uri %>
+         <li class="entry"><%= truncate(attribute.label.to_s, :length => 27) %></li>
+      <% else %>
+         <li class="entry"><%= link_to "<b>&raquo;</b>#{truncate(attribute.label.to_s, :length => 27)}", attribute.target_url, :title => attribute.label %></li>
+      <% end %>
+    <% end %>
+  <% end %>
+  </ul>
+
+</div>
+<script>
+
+$(document).ready(function(){
+
+  $('#input_filter').keyup(function() {
+     var value = $(this).val().trim();
+     if(value == ""){
+       $('.entry').show();            
+     }
+     else
+    {
+      var re = new RegExp(value,"i");
+      $('.entry').hide()
+      $('.entry').filter(function() {
+        return re.test($(this).text()) 
+      }).show();
+      }     
+  });
+ });
+
+</script>

@@ -1,0 +1,562 @@
+Aplicações na web semântica utilizam as tecnologias subjacentes para oferecer funcionalidades "mais ricas".
+
+Veja exemplos em
+[http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php]
+
+Esta apresentação mostra um exemplo de "Address book" usando <a href="/execute/render_target_page?wikiLabel=FOAF&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fsr%23o_FOAF_9abc&tgtclass=http%3A%2F%2Fsr%23AbstractModel">FOAF</a>, e discutindo vários aspectos das tecnologias de Web Semântica:
+[http://blogs.sun.com/bblfish/entry/building_secure_and_distributed_social Building Secure and Distributed Social Network Applications].
+
+<hr>
+'''Hazel:'''
+
+'''Semantic Apps:'''
+
+'''<a href="/execute/render_target_page?wikiLabel=True Knowledge&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fsr%23o_TrueKnowledge_fb71&tgtclass=http%3A%2F%2Fsr%23AbstractModel">TrueKnowledge</a>''' ([http://www.trueknowledge.com/ http://www.trueknowledge.com/])
+Venture funded UK semantic search engine TrueKnowledge unveiled a demo of its private beta earlier this month. It reminded Marshall Kirkpatrick of the still-unlaunched Powerset, but it's also reminiscent of the very real Ask.com "smart answers". TrueKnowledge combines natural language analysis, an internal knowledge base and external databases to offer immediate answers to various questions. Instead of just pointing you to web pages where the search engine believes it can find your answer, it will offer you an explicit answer and explain the reasoning patch by which that answer was arrived at. There's also an interesting looking API at the center of the product. "Direct answers to humans and machine questions" is the company's tagline.
+
+Founder William Tunstall-Pedoe said he's been working on the software for the past 10 years, really putting time into it since coming into initial funding in early 2005.
+
+
+'''<a href="/execute/render_target_page?wikiLabel=Twine&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2FTwine&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">Twine</a>''' ([http://www.twine.com/ http://www.twine.com/])
+Twine claims to be the first mainstream Semantic Web app, although it is still in private beta. See our in-depth review. Twine automatically learns about you and your interests as you populate it with content - a "Semantic Graph". When you put in new data, Twine picks out and tags certain content with semantic tags - e.g. the name of a person. An important point is that Twine creates new semantic and rich data. But it's not all user-generated. They've also done machine learning against Wikipedia to 'learn' about new concepts. And they will eventually tie into services like Freebase. At the Web 2.0 Summit, founder Nova Spivack compared Twine to Google, saying it is a "bottom-up, user generated crawl of the Web".
+
+
+'''<a href="/execute/render_target_page?wikiLabel=TripIt&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2FTripIt&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">TripIt</a>''' ([http://www.tripit.com/ http://www.tripit.com/])
+Tripit is an app that manages your travel planning. Emre Sokullu reviewed it when it presented at TechCrunch40 in September. With TripIt, you forward incoming bookings to plans@tripit.com and the system manages the rest. Their patent pending "itinerator" technology is a baby step in the semantic web - it extracts useful infomation from these mails and makes a well structured and organized presentation of your travel plan. It pulls out information from Wikipedia for the places that you visit. It uses microformats - the iCal format, which is well integrated into GCalendar and other calendar software.
+
+The company claimed at TC40 that "instead of dealing with 20 pages of planning, you just print out 3 pages and everything is done for you". Their future plans include a recommendation engine which will tell you where to go and who to meet.
+
+
+
+<hr>
+Andréia:
+
+'''Freebase''' ([http://www.freebase.com]) an open database of the world’s information, free for anyone to query, contribute to, built applications on top of, or integrate into their websites. Drawing from large open data sets like Wikipedia, it contains structured information on many popular topics, like movies, music, people and locations—all reconciled and freely available via an open API.
+
+Wikipedia arranges information in the form of articles. Freebase lists facts and statistics. Freebase’s list form is good not only for people who like to glance at facts, but also for people who want to use the data to build other web sites and software.
+
+While information in Freebase appears to be structured much like a conventional database, it’s actually built on a system that allows
+any user to contribute to the schemas. Schemas are the frameworks that hold data and help determine the relationships between separate pieces of information.
+
+Apps built on top of Freebase:
+* Architecture GIS App - architectural map mashup
+* Cinespin - graphical browser for filmes, actors and directors
+* History Of Sciences - displays a timeline of famous Scientists in the History of Sciences
+
+'''AdaptiveBlue SmartLinks''' ([http://www.adaptiveblue.com/smartlinks_sites.html]) a piece of javascript code that can turn ordinary links to sites like Amazon.com, Yahoo! Finance, IMDb and Last fm into more powerful links. It adds a smart link launcher near the regular link in a page that open a popup-like window with preview information about a song, a book or a movie and a set of shortcuts to various tasks. 
+
+'''PowerSet''' ([http://www.powerset.com/]) a natural language search engine that reads and understands every sentence on the Web. Unlike traditional keyword search that only indexes the keywords that appear on a page, Powerset indexes the meaning of the sentences in each page. By matching the meaning of the query against the meaning of sentences in our index, Powerset can often return better, more accurate results and even return results that aren’t possible with traditional keyword search.
+
+These are demonstrations of PowerSet technology based on the indexing of Wikipedia:
+* Wiki Search - Powerset uses linguistic analyses of both your query and Wikipedia to find the best matches.
+* Power Mouse - an application that let you examine how structured information is extracted from open text. PowerMouse is not intended as a search application per se, but allows you to search for and navigate through facts encoded in our Wikipedia index.
+
+<hr>
+Marcelo:
+
+'''Hakia''' ([http://www.hakia.com/]) Hakia is one of the more promising  Alt Search Engines around, with a focus on natural language processing methods to try and deliver 'meaningful' search results. Hakia attempts to analyze the concept of a search query, in particular by doing sentence analysis. Most other major search engines, including Google, analyze keywords. The company told us in a March interview that the future of search engines will go beyond keyword analysis - search engines will talk back to you and in effect become your search assistant. One point worth noting here is that, currently, Hakia has limited post-editing/human interaction for the editing of hakia Galleries, but the rest of the engine is 100% computer powered.
+
+'''Talis''' ([http://www.talis.com/platform/index.shtml]) Talis is a 40-year old UK software company which has created a semantic web application platform. They are a bit different from the other 9 companies profiled here, as Talis has released a platform and not a single product. The Talis platform is kind of a mix between Web 2.0 and the Semantic Web, in that it enables developers to create apps that allow for sharing, remixing and re-using data. Talis believes that Open Data is a crucial component of the Web, yet there is also a need to license data in order to ensure its openness. Talis has developed its own content license, called the Talis Community License, and recently they funded some legal work around the Open Data Commons License.
+
+<hr>
+João:
+
+'''Spock''' ([http://www.spock.com]) : Spock is a search engine that helps you find friends and colleagues on the Web. When you search, Spock will personalize your results to include information about friends and colleagues. Enhance your search experience by establishing a trust relationship with others on Spock. By connecting with trusted contacts you can search within their network to rediscover people you've lost touch with and make new acquaintances through friends. 
+
+Spock combines two very powerful forces. First, our technology organizes web content about people into easily understood search results. We search for information on biography pages, social networks, news sites, blogs, directories... pretty much every place imaginable on the internet. Second, the Spock community contributes information to help enhance the search experience. Spock users can add tags, pictures, and web links or simply vote on existing information to increase its relevance. By contributing information about people in your life you improve the search experience not only for yourself, but for everyone. 
+
+
+
+'''Open Calais''' ([http://www.OpenCalais.com]) The Calais Web service enables publishers, bloggers and sites of all kinds to automatically metatag the people, places, facts and events in their content to increase its search relevance and accessibility on the Web. It also lets content consumers, such as search engines, news portals, bookmarking services and RSS readers, submit content for automatic semantic metatagging that is performed in well under a second. 
+
+The Calais Web service returns content in an open, interoperable and entirely portable format, with a unique identifier that can be easily integrated into social networks, widgets and semantic applications like Powerset, Freebase, Twine, Hakia, Wikia, Blue Organizer and more. 
+
+
+'''Gnosis''' ([https://addons.mozilla.org/pt-PT/firefox/addon/3999 https://addons.mozilla.org/pt]) : ClearForest Gnosis is the cutting edge of real time semantic processing for the web. By evaluating the pages you read - as you read them - Gnosis immediately locates key information such as people, organizations, companies, products and geographies hidden within the text. Gnosis uses the the Open Calais web service to retrieve information to enhance the browsing experience. 
+
+
+<hr>
+
+'''Bidu:'''
+
+'''Swoogle''' ([http://swoogle.umbc.edu/]) woogle is a search engine for Semantic Web documents, terms and data found on the Web. Swoogle employs a system of crawlers to discover RDF documents and HTML documents with embedded RDF content. Swoogle reasons about these documents and their constituent parts (e.g., terms and triples) and records and indexes meaningful metadata about them in its database.
+
+Swoogle provides services to human users through a browser interface and to software agents via web services. Several techniques are used to rank query results inspired by the PageRank algorithm developed at Google but adapted to the semantics and use patterns found in semantic web documents.
+
+Swoogle was developed at and is hosted by the University of Maryland, Baltimore County (UMBC) with funding from the US DARPA and National Science Foundation agencies.
+
+'''IGlue''' ([http://blog.iglueit.com/]) It is an online interface that is a search engine and content organizer, capable of intelligently rearranging and defragmenting the internet’s broken up data piles, establishing interlinked entities based hierarchies in the process. It organizes interrelated images, videos, people, concepts, notions, ideas and geographical places into cohesive data structures.
+
+The heart of iGlue is what we call the hyper-data model. With the help of hyper-data any text, data, image, video or any other database entry can become a data junction. iGlue reads and understand the web pages meaningful content and then with a single click it organizes and builds an interlinked net of data relating to that chosen content. The building blocks of this data net are the individual data junctions linked together like Lego pieces.
+
+'''Semantic MediaWiki''' ([http://semantic-mediawiki.org]) Semantic MediaWiki (SMW) is a semantic wiki engine that enables users to add semantic data to wiki pages. This data can then be used for better searching, browsing, and exchanging of information.
+
+Using this semantic data, SMW addresses core problems of today’s wikis: 
+
+* Consistency of content: The same information often occurs on many pages. How can one ensure that information in different parts of the system is consistent, especially as it can be changed in a distributed way?
+ 
+* Accessing knowledge: Large wikis have thousands of pages. Finding and comparing information from different pages is challenging and time-consuming.
+ 
+* Reusing knowledge: Many wikis are driven by the wish to make information accessible to many people. But the rigid, text-based content of classical wikis can only be used by reading pages in a browser or similar application.
+
+<hr>
+
+'''Danielle:'''
+
+'''OntoWiki''' ([http://demo.ontowiki.net/])OntoWiki facilitates the visual presentation of a knowledge base as an information map, with different views on instance data. It enables intuitive authoring of semantic content, with an inline editing mode for editing RDF content. It fosters social collaboration aspects by keeping track of changes, allowing to comment and discuss every single part of a knowledge base, enabling to rate and measure the popularity of content and honoring the activity of users. OntoWiki enhances the browsing and retrieval by offering semantic enhanced search strategies.
+
+The semantic search is currently implemented as a search in the local RDF store. In conjunction with a crawler, which searches, downloads, and stores arbitrary RDF documents from the web, OntoWiki can be easily transformed in a Semantic Web search engine.
+
+'''Squiggle''' ([http://swa.cefriel.it/Squiggle]) Squiggle is a framework that supports the building of a domain-aware semantic search engine. Squiggle represents an abstraction for people who want to build a search engine in a particular domain and do not want to deal with low-level indexing and storing processes.
+The Squiggle framework is domain independent and can thus be instantiated with and adapted to any domain specific context and ontology. Among the constituents of Squiggle, Sesame is used as the semantic engine that queries the knowledge base, described in RDF with regard to the SKOS model, whereas the syntactic search engine Lucene is used, among other things, to quickly perform text searches in literals, which is something that semantic search tools typically cannot do well. Therefore the Squiggle architecture lends itself well both to overcome the limitations of purely syntactic approaches and to improve the performance of semantic engines.
+
+Squiggle is indeed a semantic application, since its design heavily grounds on a common model, provided by SKOS, which permeates all its structure; Squigle assumes SKOS as its application ontology and, therefore, is naturally able to exploit SKOS’ semantics. Squiggle’s semantic annotation process is very minimalist; it expects resources to be already annotated with keywords and it searches in the Domain Knowledge repository for concepts whose SKOS labels match those keywords. 
+The default implementation of Conceptual Indexing is straightforward: first
+the input information is scanned and analyzed in order to identify and extract
+the concepts that characterize it; then, these concepts are stored in the index for subsequent search and
+retrieval (indexing process).The index consists of three parts:
+# the main part is a Lucene index, that indexes all the textual parts and the URIs of the identified concepts, which are helpful in the syntactic searching phase;
+
+
+2. the "semantic" part is a Sesame repository, that contains all the triples that the search engine will need at runtime, when answering final user’s queries;
+
+
+3. another smaller Lucene index with the role of supporting Sesame repository, that indexes all the labels contained in IDK, in order to speed up their retrieval at search-time.
+
+Squiggle Music ([http://squiggle.cefriel.it/music/]) is a music search engine on the Web that allows its users to retrieve (information about) songs by keyword searching. Its searching capabilities include semantic features allowing term disambiguation and query expansion.
+
+<hr>
+'''Mauricio:'''
+
+'''Faviki''' ([http://www.faviki.com]) Faviki is one application that uses DBpedia terms for the annotation of Web content. Faviki is a social bookmarking tool which allows you to tag Web pages you want to remember with Wikipedia terms. It actually uses URLS in the DBpedia namespace that correspond to Wikipedia pages. 
+
+This means that everybody uses the same names for tags from the world's largest collection of knowledge.
+
+
+
+'''In which sense is it a semantic web application?'''
+
+
+It is a semantic web application because it uses the semantic web infrastructure on its most important feature – bookmark tagging. When the user types a term to tags its bookmark, Faviki uses the RDF database from DBPedia to complete the term and associates this bookmark with the RDF resource that represents the term.
+
+
+'''Retrevo''' ([http://www.retrevo.com]) Retrevo is one of the more advanced vertical search engines, because it uses sophisticated mining and crawling technologies. Instead of just giving you a list of search results, Retrevo creates the feel of a specialized application which has a semantic understanding of the electronics space.
+
+If you are shopping for an electronics item, you will find the Reviews and Articles section helpful. This section brings together gadget reviews from places like CNET. If you already own the item, then use the Manufacturer Info section to get access to product manuals.
+
+Relevancy, semantics and presentation are the things that make Retrevo compelling. Could you do the same (re)search for Sony Digital Camera on Google? Absolutely. But it will take you much longer and you are not going to enjoy the experience. Retrevo proves the case for vertical search in a simple and effective way.
+
+
+
+'''In which sense is it a semantic web application?'''
+
+
+Its is a semantic web application that uses the '''top-down approach''' described by Alex Iskold at 
+<a href="/execute/render_target_page?wikiLabel=1&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2F1&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">1</a>. Using mining and crawling technologies, this application makes connections between a lot of data from several sources to provide  information that have meaning for the end user.
+</em></p></blockquote>
+
+'''Musicovery''' ([http://www.musicovery.com]) Musicovery is an interactive and customised webradio. Listeners can intuitively find music matching their mood. The more they listen and rate songs, the more radio programmes get personalized.
+
+Musicovery provides dance mix with the ability to specify the desired dance tempo and similar artist features, as well as the option of a low fidelity free service or a premium service with better sound. Users have the option to limit the selection to a specific year or range of years, as well as to deselect any genre, and genres are color-keyed to the graphic interface.
+
+Musicovery relies on the two proprietary technologies developed by its founders:
+
+* The "mood pad" technology: a music description methodology that enables to position any song on a 2 dimension continuous space (the "mood pad"); songs are described with 40 musical parameters; The technology is the result of 3 year research on music description and human acoustic perception.
+* A graphical interface based on Liveplasma technology. The Liveplasma technology creates a graphical map of possible tastes, with songs most likely to please the user appearing closer to the current song on the visual map than songs less similar.
+
+
+'''In which sense is it a semantic web application?'''
+
+
+Even though there are few information about the technology behind muscovery.com, it can be considered a semantic web application as defined by Richard MacManus at 
+<a href="/execute/render_target_page?wikiLabel=2&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2F2&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">2</a>,  because it '''determine the meaning''' of data (musical genre, mood, popularity, etc) and then '''create connections''' (a musical graph oriented by the proximity of the musical characteristics) for the users.
+
+
+
+# [http://www.readwriteweb.com/archives/the_top http://www.readwriteweb.com/archives/the_top-down_semantic_web.php]
+
+
+
+# [http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php]
+
+<hr>
+'''Mark:'''
+
+'''Sindice''' ([http://sindice.com/]) Sindice, developed by DERI Ireland, is a lookup index for Semantic Web documents built on data intensive cluster computing techniques. Sindice currently indexes over 30 million RDF and Microformats documents and allows the following kinds of searches: 
+* search keywords and URIs;
+* perform a property-value pair lookup;
+* triple queries using a proprietary query language.
+
+'''Watson''' ([http://watson.kmi.open.ac.uk/WatsonWUI/]): http://watson.kmi.open.ac.uk/WatsonWUI/] Watson is a semantic web search engine that allows you to search through ontologies and semantic documents using keywords. At the moment, you can enter a set of keywords (e.g. "cat dog old_lady"), and obtain a list of URIs of semantic documents in which the keywords appear as identifiers or in literals of classes, properties, and individuals. You can also use wildcards in the keywords (e.g., "ca? dog'''"). Developed by KMi, UK.
+
+'''Bibster''' ([http://bibster.semanticweb.org/]) Bibster is a Java-based system which assists researchers in managing, searching, and sharing bibliographic metadata (e.g. from BibTeX files) in a peer-to-peer network.
+
+The advantage of the system is it provides the possibility to search on a distributed peer-to-peer network using Semantic Web technologies. It provides an easy way to share data with other researchers. 
+
+Bibster exploits ontologies in data-storage, query formulation,
+query-routing and answer presentation: When bibliographic entries are
+made available for use in Bibster, they are structured and classified according to two diferent ontologies: an application ontology and a domain ontology. Bibster makes a rather strong commitment to the application ontology, but the domain ontology can be easily substituted to allow for the adaption to diferent domains. Bibster uses the "Semantic Web for Research Communities" (SWRC)
+ontology as application ontology while the domain ontology is used for classification of metadata entries, enabling advanced querying and browsing. It describes topic hierarchies using relations such as subTopic, relatedTopic, etc. In Bibster, the "ACM Topic Hierarchy" is used as the default domain ontology. This topic hierarchy describes specific categories of literature for the Computer Science domain. It covers large areas of computer science, containing over 1287 topics ordered using taxonomic relations, e.g.: subTopic(Artificial Intelligence, Knowledge Representation Formalisms).
+Bibster relies on BibToOnto ([https://sourceforge.net/projects/bibtoonto/]) to automatically extract an ontology-based representation of the bibliographic metadata from plain BibTeX files. It also automatically classifies bibliographic entries according to the "ACM Topic Hierarchy". This ontological structure is then exploited to help users formulate their queries. Subsequently, the ontologies are used to improve query routing across the peer-to-peer network.
+Finally, the ontologies are used to post-process the returned answers
+in order to do duplicate detection.
+
+'''Artemis''' ([http://www.srdc.metu.edu.tr/webpage/projects/artemis/index.html]) Artemis project provides the interoperability of medical information systems through semantically enriched Web services.
+
+Artemis project exploits ontologies based on the domain knowledge exposed by the healthcare information standards through standard bodies like HL7, CEN TC251, ISO TC215 and GEHR.
+
+Artemis Web service architecture does not propose globally agreed ontologies;
+rather healthcare institutes reconcile their semantic differences through a mediator component. The mediator component uses ontologies based on prominent healthcare standards as references to facilitate semantic mediation among involved institutes. Mediators have a peer-to-peer communication architecture to provide scalability and to facilitate the discovery of other mediators. The overall architecture of the system is adapted from the Semantic Web enabled Web services proposal.
+
+<hr>
+'''anacrl:'''
+
+'''SSWAP''' ([http://sswap.info/index.jsp]) the SSWAP (Simple Semantic Web Architecture and Protocol) is an architecture, protocol, and platform for semantically integrating disparate data and services. SSWAP is currently driving bioinformatic integration in the plant community under the Virtual Plant Information Network, an NSF-funded semantic web services project. For the biologist, it acts as a “search engine”, helping them discover all resource providers capable of executing the operation they wish to undertake. It uses OWL, so it defines terms such as what it means to be a web resource, who provides that resource, and how the resource maps its input to its output.  SSWAP does not define the particulars of the resource—such as if ‘gene’ stands for REV7 or Gene Hackman or Gene Simmons, but it enables you to do so.  
+
+SSWAP is an architecture because it establishes how data, service, and ontology providers, as well as clients and discovery servers can interact to allow for the description, querying, discovery, invocation, and response of semantic web services. 
+
+SSWAP is a protocol for semantic web services because it gives everyone a common set of terms with specific meaning to allow you to describe and engage in discovering  and sharing data and services.
+
+
+'''Semantic Grid''' ([http://www.semanticgrid.org/]) the Semantic Grid is is basically the same as the Semantic Web except that the former shares resources in accordance to certain architectures and standard grid infrastructures. It is characterised as an open system in which information, software components and computational resources are described using the semantic data model. It is an extension of the current Grid in which information and services are given well-defined meaning, better enabling computers and people to work in cooperation. 
+
+This makes it easier for resources to be discovered and joined up automatically, which helps bring resources together to create virtual organizations. The descriptions constitute metadata and are typically represented using the technologies of the Semantic Web, such as the Resource Description Framework (RDF).
+
+This notion of the Semantic Grid was first articulated in the context of e-Science, observing that such an approach is necessary to achieve a high degree of easy-to-use and seamless automation enabling flexible collaborations and computations on a global scale. 
+
+Some characteristics are: use of standardised languages, Grid Aware Ontology Services, Agent-based techniques for coordination and cooperation, combinations of ontology engineering and agent systems development methodologies, P2P Techniques to support large scale, dynamic, heterogeneous resources and access.
+
+<hr>
+'''cviana:'''
+
+'''SWSE''' ([http://swse.deri.org/]) SWSE (Semantic Web Search Engine) is a search engine for the RDF Web on the Web, and provides the equivalent services a search engine currently provides for the HTML Web. The system explores and indexes the Semantic Web and provides an easy-to-use interface.
+
+In specific, SWSE uses a version of one crawler called [http://iswc2006.semanticweb.org/items/Harth2006dq.pdf MultiCrawler] to crawl the Semantic Web. MultiCrawler transforms all crawled documents to RDF and creates an index over them. The focus is to find and transform Semantic Web documents, like RDF files and RSS feeds.
+SWSE indexes RDF data which is retrieved from many data sources. The main sources are OWL, RDF and RSS files.
+
+The components of SWSE are:
+
+* Crawler ([http://iswc2006.semanticweb.org/items/Harth2006dq.pdf MultiCrawler]) - Java;
+* Repository ([http://videolectures.net/iswc07_harth_frs/ apresentation], [http://iswc2007.semanticweb.org/papers/211.pdf YARS2]) - Java;
+
+
+* Ranking ([http://sw.deri.org/2005/07/n3rank/paper/paper.pdf ReconRank]) - Java;
+
+
+* Server-side user interface - Java;
+
+
+* Client-side user interface - XML/XSLT/CSS/Javascript.
+
+One can submit its URIs to SWSE as [http://www.sitemaps.org/ Sitemaps]. Theses Sitemaps can be submited in two different ways:
+
+''' By '''HTTP GET''' request: Issue your request to the following URL: [http://swse.deri.org/ping?sitemap=sitemap_url http://swse.deri.org/ping?sitemap=sitemap_url]
+
+
+For example: 
+If your Sitemap is located at [http://swse.deri.org/ping?sitemap=http://www.myhomepage.com/mysitemap.gz http://www.myhomepage.com/mysitemap.gz":http://www.myhomepage.com/mysitemap.gz then your URL will become "http://swse.deri.org/ping?sitemap=http://www.myhomepage.com/mysitemap.gz]
+
+
+* By [http://swse.deri.org/ping: Web Interface] Sitemap or RDF files.
+
+
+'''Falcons''' ([http://iws.seu.edu.cn/services/falcons/objectsearch/index.jsp http://iws.seu.edu.cn/services/falcons/objectsearch/index.jsp]) Falcons is a keyword-based search engine for the Semantic Web, equipped with browsing capability. It provides keyword-based search for URIs identifying objects and concepts (classes and properties) on the Semantic Web. It also provides a summarization for each entity (object, class, property) for rapid understanding.
+
+Falcons browse the entities from the salient RDF sentences (triples) about the entity that are selected and organized according to the vocabularies that the predicates of these sentences (triples) come from. Each sentence (triple) is associated with its provenance (an RDF/XML document), which is listed at the right side of the page. The user can proceed to browse related entities by clicking on the reading glasses.
+
+Falcons parses RDF/XML documents using Jena, stores data in MySQL, and indexes data using Lucene.
+
+Falcons provides URI submission by [http://iws.seu.edu.cn/services/falcons/submiturl/ web interface] URL of an RDF/XML document.
+
+<hr>
+'''Japa:'''
+
+'''Twine''' ([http://www.twine.com/]): Twine is a new service that helps you organize, share and discover information around your interests, with networks of like-minded people. Powered by semantic understanding, Twine automatically organizes information, learns about interests and makes recommendations. The more you use Twine, the better it gets to know you and the more useful it becomes. Twine is derived from the simplicity of three-part RDF statements, often called triples or tuples. In fact, all information in Twine - whether about a particular object, person, note, bookmark, tag, email message, or even a video - is expressed in a set of tuples.
+
+'''Freebase''' ([http://www.freebase.com/]) Freebase is a databse with a flexible schema and a very user friendly web front end. The data in the database is offered via an API, so that information from Freebase can be included in external applications. The web front end looks nice, is intuitive for simple things, and works for the not so simple things. In the background you basically have a huge graph, and the user surfs from node to node. Everything can be interconnected with named links, called properties. Individuals are called topics.
+
+
+<hr>
+'''Luana:'''
+
+'''Qitera''' ([http://www.qitera.com/]) Qitera is a web service empowering you to build and access your personal knowledge (the geeks call it “knowledge graph”). So you can organize, remix and search all the data dealing with the companies, business partners, friends or projects you track in a more productive way. Additionally, we let you share your wisdom with your peers and publish to blogs, websites and cell phones.
+Qitera is your personal storage space where you can store and retrieve all your important content. With our powerful semantic web technology at your disposal, you can do a lot more with your content than just store and access. Organizing and filtering your information by topic, time, author or any other parameter of your choice is easy with Qitera. You now have complete control over your stored information and search activities.
+
+'''TrueKnowledge''' ([http://www.trueknowledge.com/]) 
+True Knowledge is a pioneer in a new class of Internet search technology that's aimed at dramatically improving the experience of finding known facts on the Web. Our first service - the True Knowledge Answer Engine - is a major step toward fulfilling a longstanding Internet industry goal: providing consumers with instant answers to complex questions, with a single click.
+
+Picking up where search engines leave off, True Knowledge's path-breaking Answer Engine automates the laborious, time-consuming work that users generally must do to get final answers to their questions. True Knowledge does this by structuring data in a way that enables computers to work and think like humans do, drawing inferences and conclusions when needed to find the information that's requested. Another key differentiator:
+
+<a href="/execute/render_target_page?wikiLabel=Seminar&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2FSeminar&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">Seminar</a>
+UNESCAPED: <p>
+Aplicações na web semântica utilizam as tecnologias subjacentes para oferecer funcionalidades "mais ricas".</p>
+
+<p>Veja exemplos em
+<a href="http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php" target="_blank">http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php</a></p>
+
+<p>Esta apresentação mostra um exemplo de "Address book" usando <a href="/execute/render_target_page?wikiLabel=FOAF&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fsr%23o_FOAF_9abc&tgtclass=http%3A%2F%2Fsr%23AbstractModel">FOAF</a>, e discutindo vários aspectos das tecnologias de Web Semântica:
+<a href="http://blogs.sun.com/bblfish/entry/building_secure_and_distributed_social" target="_blank">Building Secure and Distributed Social Network Applications</a>.</p>
+
+<p><hr />
+<b>Hazel:</b></p>
+
+<p><b>Semantic Apps:</b></p>
+
+<p><b><a href="/execute/render_target_page?wikiLabel=True Knowledge&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fsr%23o_TrueKnowledge_fb71&tgtclass=http%3A%2F%2Fsr%23AbstractModel">TrueKnowledge</a></b> (<a href="http://www.trueknowledge.com/" target="_blank">http://www.trueknowledge.com/</a>)
+Venture funded UK semantic search engine TrueKnowledge unveiled a demo of its private beta earlier this month. It reminded Marshall Kirkpatrick of the still-unlaunched Powerset, but it's also reminiscent of the very real Ask.com "smart answers". TrueKnowledge combines natural language analysis, an internal knowledge base and external databases to offer immediate answers to various questions. Instead of just pointing you to web pages where the search engine believes it can find your answer, it will offer you an explicit answer and explain the reasoning patch by which that answer was arrived at. There's also an interesting looking API at the center of the product. "Direct answers to humans and machine questions" is the company's tagline.</p>
+
+<p>Founder William Tunstall-Pedoe said he's been working on the software for the past 10 years, really putting time into it since coming into initial funding in early 2005.</p>
+
+<p><b><a href="/execute/render_target_page?wikiLabel=Twine&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2FTwine&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">Twine</a></b> (<a href="http://www.twine.com/" target="_blank">http://www.twine.com/</a>)
+Twine claims to be the first mainstream Semantic Web app, although it is still in private beta. See our in-depth review. Twine automatically learns about you and your interests as you populate it with content - a "Semantic Graph". When you put in new data, Twine picks out and tags certain content with semantic tags - e.g. the name of a person. An important point is that Twine creates new semantic and rich data. But it's not all user-generated. They've also done machine learning against Wikipedia to 'learn' about new concepts. And they will eventually tie into services like Freebase. At the Web 2.0 Summit, founder Nova Spivack compared Twine to Google, saying it is a "bottom-up, user generated crawl of the Web".</p>
+
+<p><b><a href="/execute/render_target_page?wikiLabel=TripIt&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2FTripIt&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">TripIt</a></b> (<a href="http://www.tripit.com/" target="_blank">http://www.tripit.com/</a>)
+Tripit is an app that manages your travel planning. Emre Sokullu reviewed it when it presented at TechCrunch40 in September. With TripIt, you forward incoming bookings to plans@tripit.com and the system manages the rest. Their patent pending "itinerator" technology is a baby step in the semantic web - it extracts useful infomation from these mails and makes a well structured and organized presentation of your travel plan. It pulls out information from Wikipedia for the places that you visit. It uses microformats - the iCal format, which is well integrated into GCalendar and other calendar software.</p>
+
+<p>The company claimed at TC40 that "instead of dealing with 20 pages of planning, you just print out 3 pages and everything is done for you". Their future plans include a recommendation engine which will tell you where to go and who to meet.</p>
+
+<p><hr />
+Andréia:</p>
+
+<p><b>Freebase</b> (<a href="http://www.freebase.com" target="_blank">http://www.freebase.com</a>) an open database of the world’s information, free for anyone to query, contribute to, built applications on top of, or integrate into their websites. Drawing from large open data sets like Wikipedia, it contains structured information on many popular topics, like movies, music, people and locations—all reconciled and freely available via an open API.</p>
+
+<p>Wikipedia arranges information in the form of articles. Freebase lists facts and statistics. Freebase’s list form is good not only for people who like to glance at facts, but also for people who want to use the data to build other web sites and software.</p>
+
+<p>While information in Freebase appears to be structured much like a conventional database, it’s actually built on a system that allows
+any user to contribute to the schemas. Schemas are the frameworks that hold data and help determine the relationships between separate pieces of information.</p>
+
+<p>Apps built on top of Freebase:
+<ul><li> Architecture GIS App - architectural map mashup
+</li><li> Cinespin - graphical browser for filmes, actors and directors
+</li><li> History Of Sciences - displays a timeline of famous Scientists in the History of Sciences
+</li></ul> 
+<b>AdaptiveBlue SmartLinks</b> (<a href="http://www.adaptiveblue.com/smartlinks_sites.html" target="_blank">http://www.adaptiveblue.com/smartlinks_sites.html</a>) a piece of javascript code that can turn ordinary links to sites like Amazon.com, Yahoo! Finance, IMDb and Last fm into more powerful links. It adds a smart link launcher near the regular link in a page that open a popup-like window with preview information about a song, a book or a movie and a set of shortcuts to various tasks. </p>
+
+<p><b>PowerSet</b> (<a href="http://www.powerset.com/" target="_blank">http://www.powerset.com/</a>) a natural language search engine that reads and understands every sentence on the Web. Unlike traditional keyword search that only indexes the keywords that appear on a page, Powerset indexes the meaning of the sentences in each page. By matching the meaning of the query against the meaning of sentences in our index, Powerset can often return better, more accurate results and even return results that aren’t possible with traditional keyword search.</p>
+
+<p>These are demonstrations of PowerSet technology based on the indexing of Wikipedia:
+<ul><li> Wiki Search - Powerset uses linguistic analyses of both your query and Wikipedia to find the best matches.
+</li><li> Power Mouse - an application that let you examine how structured information is extracted from open text. PowerMouse is not intended as a search application per se, but allows you to search for and navigate through facts encoded in our Wikipedia index.
+</li></ul> 
+<hr />
+Marcelo:</p>
+
+<p><b>Hakia</b> (<a href="http://www.hakia.com/" target="_blank">http://www.hakia.com/</a>) Hakia is one of the more promising  Alt Search Engines around, with a focus on natural language processing methods to try and deliver 'meaningful' search results. Hakia attempts to analyze the concept of a search query, in particular by doing sentence analysis. Most other major search engines, including Google, analyze keywords. The company told us in a March interview that the future of search engines will go beyond keyword analysis - search engines will talk back to you and in effect become your search assistant. One point worth noting here is that, currently, Hakia has limited post-editing/human interaction for the editing of hakia Galleries, but the rest of the engine is 100% computer powered.</p>
+
+<p><b>Talis</b> (<a href="http://www.talis.com/platform/index.shtml" target="_blank">http://www.talis.com/platform/index.shtml</a>) Talis is a 40-year old UK software company which has created a semantic web application platform. They are a bit different from the other 9 companies profiled here, as Talis has released a platform and not a single product. The Talis platform is kind of a mix between Web 2.0 and the Semantic Web, in that it enables developers to create apps that allow for sharing, remixing and re-using data. Talis believes that Open Data is a crucial component of the Web, yet there is also a need to license data in order to ensure its openness. Talis has developed its own content license, called the Talis Community License, and recently they funded some legal work around the Open Data Commons License.</p>
+
+<p><hr />
+João:</p>
+
+<p><b>Spock</b> (<a href="http://www.spock.com" target="_blank">http://www.spock.com</a>) : Spock is a search engine that helps you find friends and colleagues on the Web. When you search, Spock will personalize your results to include information about friends and colleagues. Enhance your search experience by establishing a trust relationship with others on Spock. By connecting with trusted contacts you can search within their network to rediscover people you've lost touch with and make new acquaintances through friends. </p>
+
+<p>Spock combines two very powerful forces. First, our technology organizes web content about people into easily understood search results. We search for information on biography pages, social networks, news sites, blogs, directories... pretty much every place imaginable on the internet. Second, the Spock community contributes information to help enhance the search experience. Spock users can add tags, pictures, and web links or simply vote on existing information to increase its relevance. By contributing information about people in your life you improve the search experience not only for yourself, but for everyone. </p>
+
+<p><b>Open Calais</b> (<a href="http://www.OpenCalais.com" target="_blank">http://www.OpenCalais.com</a>) The Calais Web service enables publishers, bloggers and sites of all kinds to automatically metatag the people, places, facts and events in their content to increase its search relevance and accessibility on the Web. It also lets content consumers, such as search engines, news portals, bookmarking services and RSS readers, submit content for automatic semantic metatagging that is performed in well under a second. </p>
+
+<p>The Calais Web service returns content in an open, interoperable and entirely portable format, with a unique identifier that can be easily integrated into social networks, widgets and semantic applications like Powerset, Freebase, Twine, Hakia, Wikia, Blue Organizer and more. </p>
+
+<p><b>Gnosis</b> (<a href="https://addons.mozilla.org/pt-PT/firefox/addon/3999" target="_blank">https://addons.mozilla.org/pt</a>) : ClearForest Gnosis is the cutting edge of real time semantic processing for the web. By evaluating the pages you read - as you read them - Gnosis immediately locates key information such as people, organizations, companies, products and geographies hidden within the text. Gnosis uses the the Open Calais web service to retrieve information to enhance the browsing experience. </p>
+
+<p><hr /></p>
+
+<p><b>Bidu:</b></p>
+
+<p><b>Swoogle</b> (<a href="http://swoogle.umbc.edu/" target="_blank">http://swoogle.umbc.edu/</a>) woogle is a search engine for Semantic Web documents, terms and data found on the Web. Swoogle employs a system of crawlers to discover RDF documents and HTML documents with embedded RDF content. Swoogle reasons about these documents and their constituent parts (e.g., terms and triples) and records and indexes meaningful metadata about them in its database.</p>
+
+<p>Swoogle provides services to human users through a browser interface and to software agents via web services. Several techniques are used to rank query results inspired by the PageRank algorithm developed at Google but adapted to the semantics and use patterns found in semantic web documents.</p>
+
+<p>Swoogle was developed at and is hosted by the University of Maryland, Baltimore County (UMBC) with funding from the US DARPA and National Science Foundation agencies.</p>
+
+<p><b>IGlue</b> (<a href="http://blog.iglueit.com/" target="_blank">http://blog.iglueit.com/</a>) It is an online interface that is a search engine and content organizer, capable of intelligently rearranging and defragmenting the internet’s broken up data piles, establishing interlinked entities based hierarchies in the process. It organizes interrelated images, videos, people, concepts, notions, ideas and geographical places into cohesive data structures.</p>
+
+<p>The heart of iGlue is what we call the hyper-data model. With the help of hyper-data any text, data, image, video or any other database entry can become a data junction. iGlue reads and understand the web pages meaningful content and then with a single click it organizes and builds an interlinked net of data relating to that chosen content. The building blocks of this data net are the individual data junctions linked together like Lego pieces.</p>
+
+<p><b>Semantic MediaWiki</b> (<a href="http://semantic-mediawiki.org" target="_blank">http://semantic-mediawiki.org</a>) Semantic MediaWiki (SMW) is a semantic wiki engine that enables users to add semantic data to wiki pages. This data can then be used for better searching, browsing, and exchanging of information.</p>
+
+<p>Using this semantic data, SMW addresses core problems of today’s wikis: </p>
+
+<p><ul><li> Consistency of content: The same information often occurs on many pages. How can one ensure that information in different parts of the system is consistent, especially as it can be changed in a distributed way?</p>
+
+<p></li></ul> <pre> </pre></p>
+
+<p><ul><li> Accessing knowledge: Large wikis have thousands of pages. Finding and comparing information from different pages is challenging and time-consuming.</p>
+
+<p></li></ul> <pre> </pre></p>
+
+<p><ul><li> Reusing knowledge: Many wikis are driven by the wish to make information accessible to many people. But the rigid, text-based content of classical wikis can only be used by reading pages in a browser or similar application.
+</li></ul> 
+<hr /></p>
+
+<p><b>Danielle:</b></p>
+
+<p><b>OntoWiki</b> (<a href="http://demo.ontowiki.net/" target="_blank">http://demo.ontowiki.net/</a>)OntoWiki facilitates the visual presentation of a knowledge base as an information map, with different views on instance data. It enables intuitive authoring of semantic content, with an inline editing mode for editing RDF content. It fosters social collaboration aspects by keeping track of changes, allowing to comment and discuss every single part of a knowledge base, enabling to rate and measure the popularity of content and honoring the activity of users. OntoWiki enhances the browsing and retrieval by offering semantic enhanced search strategies.</p>
+
+<p>The semantic search is currently implemented as a search in the local RDF store. In conjunction with a crawler, which searches, downloads, and stores arbitrary RDF documents from the web, OntoWiki can be easily transformed in a Semantic Web search engine.</p>
+
+<p><b>Squiggle</b> (<a href="http://swa.cefriel.it/Squiggle" target="_blank">http://swa.cefriel.it/Squiggle</a>) Squiggle is a framework that supports the building of a domain-aware semantic search engine. Squiggle represents an abstraction for people who want to build a search engine in a particular domain and do not want to deal with low-level indexing and storing processes.
+The Squiggle framework is domain independent and can thus be instantiated with and adapted to any domain specific context and ontology. Among the constituents of Squiggle, Sesame is used as the semantic engine that queries the knowledge base, described in RDF with regard to the SKOS model, whereas the syntactic search engine Lucene is used, among other things, to quickly perform text searches in literals, which is something that semantic search tools typically cannot do well. Therefore the Squiggle architecture lends itself well both to overcome the limitations of purely syntactic approaches and to improve the performance of semantic engines.</p>
+
+<p>Squiggle is indeed a semantic application, since its design heavily grounds on a common model, provided by SKOS, which permeates all its structure; Squigle assumes SKOS as its application ontology and, therefore, is naturally able to exploit SKOS’ semantics. Squiggle’s semantic annotation process is very minimalist; it expects resources to be already annotated with keywords and it searches in the Domain Knowledge repository for concepts whose SKOS labels match those keywords. 
+The default implementation of Conceptual Indexing is straightforward: first
+the input information is scanned and analyzed in order to identify and extract
+the concepts that characterize it; then, these concepts are stored in the index for subsequent search and
+retrieval (indexing process).The index consists of three parts:
+<ol><li> the main part is a Lucene index, that indexes all the textual parts and the URIs of the identified concepts, which are helpful in the syntactic searching phase;
+</li></ol> </p>
+
+<p>2. the "semantic" part is a Sesame repository, that contains all the triples that the search engine will need at runtime, when answering final user’s queries;</p>
+
+<p>3. another smaller Lucene index with the role of supporting Sesame repository, that indexes all the labels contained in IDK, in order to speed up their retrieval at search-time.</p>
+
+<p>Squiggle Music (<a href="http://squiggle.cefriel.it/music/" target="_blank">http://squiggle.cefriel.it/music/</a>) is a music search engine on the Web that allows its users to retrieve (information about) songs by keyword searching. Its searching capabilities include semantic features allowing term disambiguation and query expansion.</p>
+
+<p><hr />
+<b>Mauricio:</b></p>
+
+<p><b>Faviki</b> (<a href="http://www.faviki.com" target="_blank">http://www.faviki.com</a>) Faviki is one application that uses DBpedia terms for the annotation of Web content. Faviki is a social bookmarking tool which allows you to tag Web pages you want to remember with Wikipedia terms. It actually uses URLS in the DBpedia namespace that correspond to Wikipedia pages. </p>
+
+<p>This means that everybody uses the same names for tags from the world's largest collection of knowledge.</p>
+
+<p><b>In which sense is it a semantic web application?</b></p>
+
+<p>It is a semantic web application because it uses the semantic web infrastructure on its most important feature – bookmark tagging. When the user types a term to tags its bookmark, Faviki uses the RDF database from DBPedia to complete the term and associates this bookmark with the RDF resource that represents the term.</p>
+
+<p><b>Retrevo</b> (<a href="http://www.retrevo.com" target="_blank">http://www.retrevo.com</a>) Retrevo is one of the more advanced vertical search engines, because it uses sophisticated mining and crawling technologies. Instead of just giving you a list of search results, Retrevo creates the feel of a specialized application which has a semantic understanding of the electronics space.</p>
+
+<p>If you are shopping for an electronics item, you will find the Reviews and Articles section helpful. This section brings together gadget reviews from places like CNET. If you already own the item, then use the Manufacturer Info section to get access to product manuals.</p>
+
+<p>Relevancy, semantics and presentation are the things that make Retrevo compelling. Could you do the same (re)search for Sony Digital Camera on Google? Absolutely. But it will take you much longer and you are not going to enjoy the experience. Retrevo proves the case for vertical search in a simple and effective way.</p>
+
+<p><b>In which sense is it a semantic web application?</b></p>
+
+<p>Its is a semantic web application that uses the <b>top-down approach</b> described by Alex Iskold at 
+<a href="/execute/render_target_page?wikiLabel=1&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2F1&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">1</a>. Using mining and crawling technologies, this application makes connections between a lot of data from several sources to provide  information that have meaning for the end user.
+</em></p></blockquote></p>
+
+<p><b>Musicovery</b> (<a href="http://www.musicovery.com" target="_blank">http://www.musicovery.com</a>) Musicovery is an interactive and customised webradio. Listeners can intuitively find music matching their mood. The more they listen and rate songs, the more radio programmes get personalized.</p>
+
+<p>Musicovery provides dance mix with the ability to specify the desired dance tempo and similar artist features, as well as the option of a low fidelity free service or a premium service with better sound. Users have the option to limit the selection to a specific year or range of years, as well as to deselect any genre, and genres are color-keyed to the graphic interface.</p>
+
+<p>Musicovery relies on the two proprietary technologies developed by its founders:</p>
+
+<p><ul><li> The "mood pad" technology: a music description methodology that enables to position any song on a 2 dimension continuous space (the "mood pad"); songs are described with 40 musical parameters; The technology is the result of 3 year research on music description and human acoustic perception.
+</li><li> A graphical interface based on Liveplasma technology. The Liveplasma technology creates a graphical map of possible tastes, with songs most likely to please the user appearing closer to the current song on the visual map than songs less similar.
+</li></ul> </p>
+
+<p><b>In which sense is it a semantic web application?</b></p>
+
+<p>Even though there are few information about the technology behind muscovery.com, it can be considered a semantic web application as defined by Richard MacManus at 
+<a href="/execute/render_target_page?wikiLabel=2&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2F2&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">2</a>,  because it <b>determine the meaning</b> of data (musical genre, mood, popularity, etc) and then <b>create connections</b> (a musical graph oriented by the proximity of the musical characteristics) for the users.</p>
+
+<p><ol><li> <a href="http://www.readwriteweb.com/archives/the_top" target="_blank">http://www.readwriteweb.com/archives/the_top-down_semantic_web.php</a>
+</li></ol> </p>
+
+<p><ol><li> <a href="http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php" target="_blank">http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php</a>
+</li></ol> 
+<hr />
+<b>Mark:</b></p>
+
+<p><b>Sindice</b> (<a href="http://sindice.com/" target="_blank">http://sindice.com/</a>) Sindice, developed by DERI Ireland, is a lookup index for Semantic Web documents built on data intensive cluster computing techniques. Sindice currently indexes over 30 million RDF and Microformats documents and allows the following kinds of searches: 
+<ul><li> search keywords and URIs;
+</li><li> perform a property-value pair lookup;
+</li><li> triple queries using a proprietary query language.
+</li></ul> 
+<b>Watson</b> (<a href="http://watson.kmi.open.ac.uk/WatsonWUI/" target="_blank">http://watson.kmi.open.ac.uk/WatsonWUI/</a>): <a href="http://watson.kmi.open.ac.uk/WatsonWUI/]">http://watson.kmi.open.ac.uk/WatsonWUI/]</a> Watson is a semantic web search engine that allows you to search through ontologies and semantic documents using keywords. At the moment, you can enter a set of keywords (e.g. "cat dog old_lady"), and obtain a list of URIs of semantic documents in which the keywords appear as identifiers or in literals of classes, properties, and individuals. You can also use wildcards in the keywords (e.g., "ca? dog'''"). Developed by KMi, UK.</p>
+
+<p><b>Bibster</b> (<a href="http://bibster.semanticweb.org/" target="_blank">http://bibster.semanticweb.org/</a>) Bibster is a Java-based system which assists researchers in managing, searching, and sharing bibliographic metadata (e.g. from BibTeX files) in a peer-to-peer network.</p>
+
+<p>The advantage of the system is it provides the possibility to search on a distributed peer-to-peer network using Semantic Web technologies. It provides an easy way to share data with other researchers. </p>
+
+<p>Bibster exploits ontologies in data-storage, query formulation,
+query-routing and answer presentation: When bibliographic entries are
+made available for use in Bibster, they are structured and classified according to two diferent ontologies: an application ontology and a domain ontology. Bibster makes a rather strong commitment to the application ontology, but the domain ontology can be easily substituted to allow for the adaption to diferent domains. Bibster uses the "Semantic Web for Research Communities" (SWRC)
+ontology as application ontology while the domain ontology is used for classification of metadata entries, enabling advanced querying and browsing. It describes topic hierarchies using relations such as subTopic, relatedTopic, etc. In Bibster, the "ACM Topic Hierarchy" is used as the default domain ontology. This topic hierarchy describes specific categories of literature for the Computer Science domain. It covers large areas of computer science, containing over 1287 topics ordered using taxonomic relations, e.g.: subTopic(Artificial Intelligence, Knowledge Representation Formalisms).
+Bibster relies on BibToOnto (<a href="https://sourceforge.net/projects/bibtoonto/" target="_blank">https://sourceforge.net/projects/bibtoonto/</a>) to automatically extract an ontology-based representation of the bibliographic metadata from plain BibTeX files. It also automatically classifies bibliographic entries according to the "ACM Topic Hierarchy". This ontological structure is then exploited to help users formulate their queries. Subsequently, the ontologies are used to improve query routing across the peer-to-peer network.
+Finally, the ontologies are used to post-process the returned answers
+in order to do duplicate detection.</p>
+
+<p><b>Artemis</b> (<a href="http://www.srdc.metu.edu.tr/webpage/projects/artemis/index.html" target="_blank">http://www.srdc.metu.edu.tr/webpage/projects/artemis/index.html</a>) Artemis project provides the interoperability of medical information systems through semantically enriched Web services.</p>
+
+<p>Artemis project exploits ontologies based on the domain knowledge exposed by the healthcare information standards through standard bodies like HL7, CEN TC251, ISO TC215 and GEHR.</p>
+
+<p>Artemis Web service architecture does not propose globally agreed ontologies;
+rather healthcare institutes reconcile their semantic differences through a mediator component. The mediator component uses ontologies based on prominent healthcare standards as references to facilitate semantic mediation among involved institutes. Mediators have a peer-to-peer communication architecture to provide scalability and to facilitate the discovery of other mediators. The overall architecture of the system is adapted from the Semantic Web enabled Web services proposal.</p>
+
+<p><hr />
+<b>anacrl:</b></p>
+
+<p><b>SSWAP</b> (<a href="http://sswap.info/index.jsp" target="_blank">http://sswap.info/index.jsp</a>) the SSWAP (Simple Semantic Web Architecture and Protocol) is an architecture, protocol, and platform for semantically integrating disparate data and services. SSWAP is currently driving bioinformatic integration in the plant community under the Virtual Plant Information Network, an NSF-funded semantic web services project. For the biologist, it acts as a “search engine”, helping them discover all resource providers capable of executing the operation they wish to undertake. It uses OWL, so it defines terms such as what it means to be a web resource, who provides that resource, and how the resource maps its input to its output.  SSWAP does not define the particulars of the resource—such as if ‘gene’ stands for REV7 or Gene Hackman or Gene Simmons, but it enables you to do so.  </p>
+
+<p>SSWAP is an architecture because it establishes how data, service, and ontology providers, as well as clients and discovery servers can interact to allow for the description, querying, discovery, invocation, and response of semantic web services. </p>
+
+<p>SSWAP is a protocol for semantic web services because it gives everyone a common set of terms with specific meaning to allow you to describe and engage in discovering  and sharing data and services.</p>
+
+<p><b>Semantic Grid</b> (<a href="http://www.semanticgrid.org/" target="_blank">http://www.semanticgrid.org/</a>) the Semantic Grid is is basically the same as the Semantic Web except that the former shares resources in accordance to certain architectures and standard grid infrastructures. It is characterised as an open system in which information, software components and computational resources are described using the semantic data model. It is an extension of the current Grid in which information and services are given well-defined meaning, better enabling computers and people to work in cooperation. </p>
+
+<p>This makes it easier for resources to be discovered and joined up automatically, which helps bring resources together to create virtual organizations. The descriptions constitute metadata and are typically represented using the technologies of the Semantic Web, such as the Resource Description Framework (RDF).</p>
+
+<p>This notion of the Semantic Grid was first articulated in the context of e-Science, observing that such an approach is necessary to achieve a high degree of easy-to-use and seamless automation enabling flexible collaborations and computations on a global scale. </p>
+
+<p>Some characteristics are: use of standardised languages, Grid Aware Ontology Services, Agent-based techniques for coordination and cooperation, combinations of ontology engineering and agent systems development methodologies, P2P Techniques to support large scale, dynamic, heterogeneous resources and access.</p>
+
+<p><hr />
+<b>cviana:</b></p>
+
+<p><b>SWSE</b> (<a href="http://swse.deri.org/" target="_blank">http://swse.deri.org/</a>) SWSE (Semantic Web Search Engine) is a search engine for the RDF Web on the Web, and provides the equivalent services a search engine currently provides for the HTML Web. The system explores and indexes the Semantic Web and provides an easy-to-use interface.</p>
+
+<p>In specific, SWSE uses a version of one crawler called <a href="http://iswc2006.semanticweb.org/items/Harth2006dq.pdf" target="_blank">MultiCrawler</a> to crawl the Semantic Web. MultiCrawler transforms all crawled documents to RDF and creates an index over them. The focus is to find and transform Semantic Web documents, like RDF files and RSS feeds.
+SWSE indexes RDF data which is retrieved from many data sources. The main sources are OWL, RDF and RSS files.</p>
+
+<p>The components of SWSE are:</p>
+
+<p><ul><li> Crawler (<a href="http://iswc2006.semanticweb.org/items/Harth2006dq.pdf" target="_blank">MultiCrawler</a>) - Java;
+</li><li> Repository (<a href="http://videolectures.net/iswc07_harth_frs/" target="_blank">apresentation</a>, <a href="http://iswc2007.semanticweb.org/papers/211.pdf" target="_blank">YARS2</a>) - Java;
+</li></ul> </p>
+
+<p><ul><li> Ranking (<a href="http://sw.deri.org/2005/07/n3rank/paper/paper.pdf" target="_blank">ReconRank</a>) - Java;
+</li></ul> </p>
+
+<p><ul><li> Server-side user interface - Java;
+</li></ul> </p>
+
+<p><ul><li> Client-side user interface - XML/XSLT/CSS/Javascript.
+</li></ul> 
+One can submit its URIs to SWSE as <a href="http://www.sitemaps.org/" target="_blank">Sitemaps</a>. Theses Sitemaps can be submited in two different ways:</p>
+
+<p><b> By </b>HTTP GET''' request: Issue your request to the following URL: <a href="http://swse.deri.org/ping?sitemap=sitemap_url" target="_blank">http://swse.deri.org/ping?sitemap=sitemap_url</a></p>
+
+<p>For example: 
+If your Sitemap is located at <a href="http://swse.deri.org/ping?sitemap=http://www.myhomepage.com/mysitemap.gz" target="_blank">http://www.myhomepage.com/mysitemap.gz":http://www.myhomepage.com/mysitemap.gz then your URL will become "http://swse.deri.org/ping?sitemap=http://www.myhomepage.com/mysitemap.gz</a></p>
+
+<p><ul><li> By <a href="http://swse.deri.org/ping:" target="_blank">Web Interface</a> Sitemap or RDF files.
+</li></ul> </p>
+
+<p><b>Falcons</b> (<a href="http://iws.seu.edu.cn/services/falcons/objectsearch/index.jsp" target="_blank">http://iws.seu.edu.cn/services/falcons/objectsearch/index.jsp</a>) Falcons is a keyword-based search engine for the Semantic Web, equipped with browsing capability. It provides keyword-based search for URIs identifying objects and concepts (classes and properties) on the Semantic Web. It also provides a summarization for each entity (object, class, property) for rapid understanding.</p>
+
+<p>Falcons browse the entities from the salient RDF sentences (triples) about the entity that are selected and organized according to the vocabularies that the predicates of these sentences (triples) come from. Each sentence (triple) is associated with its provenance (an RDF/XML document), which is listed at the right side of the page. The user can proceed to browse related entities by clicking on the reading glasses.</p>
+
+<p>Falcons parses RDF/XML documents using Jena, stores data in MySQL, and indexes data using Lucene.</p>
+
+<p>Falcons provides URI submission by <a href="http://iws.seu.edu.cn/services/falcons/submiturl/" target="_blank">web interface</a> URL of an RDF/XML document.</p>
+
+<p><hr />
+<b>Japa:</b></p>
+
+<p><b>Twine</b> (<a href="http://www.twine.com/" target="_blank">http://www.twine.com/</a>): Twine is a new service that helps you organize, share and discover information around your interests, with networks of like-minded people. Powered by semantic understanding, Twine automatically organizes information, learns about interests and makes recommendations. The more you use Twine, the better it gets to know you and the more useful it becomes. Twine is derived from the simplicity of three-part RDF statements, often called triples or tuples. In fact, all information in Twine - whether about a particular object, person, note, bookmark, tag, email message, or even a video - is expressed in a set of tuples.</p>
+
+<p><b>Freebase</b> (<a href="http://www.freebase.com/" target="_blank">http://www.freebase.com/</a>) Freebase is a databse with a flexible schema and a very user friendly web front end. The data in the database is offered via an API, so that information from Freebase can be included in external applications. The web front end looks nice, is intuitive for simple things, and works for the not so simple things. In the background you basically have a huge graph, and the user surfs from node to node. Everything can be interconnected with named links, called properties. Individuals are called topics.</p>
+
+<p><hr />
+<b>Luana:</b></p>
+
+<p><b>Qitera</b> (<a href="http://www.qitera.com/" target="_blank">http://www.qitera.com/</a>) Qitera is a web service empowering you to build and access your personal knowledge (the geeks call it “knowledge graph”). So you can organize, remix and search all the data dealing with the companies, business partners, friends or projects you track in a more productive way. Additionally, we let you share your wisdom with your peers and publish to blogs, websites and cell phones.
+Qitera is your personal storage space where you can store and retrieve all your important content. With our powerful semantic web technology at your disposal, you can do a lot more with your content than just store and access. Organizing and filtering your information by topic, time, author or any other parameter of your choice is easy with Qitera. You now have complete control over your stored information and search activities.</p>
+
+<p><b>TrueKnowledge</b> (<a href="http://www.trueknowledge.com/" target="_blank">http://www.trueknowledge.com/</a>) 
+True Knowledge is a pioneer in a new class of Internet search technology that's aimed at dramatically improving the experience of finding known facts on the Web. Our first service - the True Knowledge Answer Engine - is a major step toward fulfilling a longstanding Internet industry goal: providing consumers with instant answers to complex questions, with a single click.</p>
+
+<p>Picking up where search engines leave off, True Knowledge's path-breaking Answer Engine automates the laborious, time-consuming work that users generally must do to get final answers to their questions. True Knowledge does this by structuring data in a way that enables computers to work and think like humans do, drawing inferences and conclusions when needed to find the information that's requested. Another key differentiator:</p>
+
+<p><a href="/execute/render_target_page?wikiLabel=Seminar&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fswwiki%2Fresource%2FSeminar&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23WikiPage">Seminar</a></p>
+EXECUTION TIME: 3.056

@@ -1,0 +1,13 @@
+<div id="header">		
+  <form action="<%= Operations.search_url%>" method="post">
+    <%= token_tag() %> 
+    <input value="Search" name="label_string"/>
+  </form>
+		
+   <br>
+   <%if @header_link%>
+     <a href="<%= @header_link %>"><%= @header_link_name%></a>
+   <%end%>
+		
+   <%= include 'DefaultLandmarksConcrete' %>										
+</div>

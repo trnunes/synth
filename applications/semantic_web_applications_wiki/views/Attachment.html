@@ -1,0 +1,6 @@
+<div id="attachments">
+  <div style="text-align: center;"> Attachments </div>
+<% @current_node.swwiki::hasAttachment.to_a.each{ |attach| %>
+  <a href="<%= attach.swwiki::link %>"><%= attach.swwiki::attachmentName %></a> <br/>
+<% } %>
+</div>
