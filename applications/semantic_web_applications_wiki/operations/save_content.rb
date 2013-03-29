@@ -55,9 +55,29 @@ def create_empty_wikipage(resource_uri, wikilabel)
   
 end
 
+
 def add_datatype_value(source_page, datatype_property, data_value)
 
-  Operations.add_wiki_triple({:subject=>source_page.uri, :predicate=>datatype_property.uri, :object=>data_value, :is_resource=>0})
+  # The wiki language should allow the definition of cardinality for the propertys
+  # The navigational properties bellow must have cardinality of 1.
+  
+  if (datatype_property == SHDM::context_query)
+  
+    source_page.shdm::context_query = data_value
+    
+  elsif (datatype_property == SHDM::context_title)
+  
+    source_page.shdm::context_title = data_value    
+    
+  elsif(datatype_property == SHDM::landmark_position)
+    
+    source_page.shdm::landmark_position = data_value
+  
+  else
+  
+    Operations.add_wiki_triple({:subject=>source_page.uri, :predicate=>datatype_property.uri, :object=>data_value, :is_resource=>0})    
+    
+  end
   
 end
 
@@ -179,18 +199,37 @@ def handle_query_property(query_property)
 end
 
 def create_interctx(interctx_page)
+ log_save("CONTEXTS ALREADY CREATED")
   ## context_title
   ## klass
   ## property
   ## index_label
+  log_save interctx_page.rdfs::label.to_a.first.to_s
+  interctx_page.swwiki::domain_class ||= SWWIKI::WikiPage
+  
+  interctx_page.swwiki::title_of_context = interctx_page.rdfs::label.to_a.first.to_s if interctx_page.swwiki::title_of_context.to_a.empty?
+  
+  interctx_page.swwiki::index_label = interctx_page.rdfs::label.to_a.first.to_s if interctx_page.swwiki::index_label.to_a.empty?
+  
+  # log_save("CONTEXTS ALREADY CREATED")
   require 'uuidtools'
   id = UUIDTools::UUID.random_create.to_s
   context_title = interctx_page.swwiki::title_of_context.to_a.last.to_s
-  klass = interctx_page.swwiki::domain_class.to_a.last.to_s
+  # klass = interctx_page.swwiki::domain_class.to_a.last.to_s
+  klass = SWWIKI::WikiPage
   property = interctx_page.swwiki::property.to_a.last.to_s
-  index_label = interctx_page.swwiki::index_label.to_a.last.to_s
   
-  property = property.split("::")[0].downcase + "::"+ property.split("::")[1]
+  if(property.empty?)
+    return
+  end
+  
+  index_label = interctx_page.swwiki::index_label.to_a.last.to_s
+  log_save("CONTEXTS ALREADY CREATED 6")
+  if(property.include?("::"))
+    property = property.split("::")[0].downcase + "::"+ property.split("::")[1]
+  else
+    property = "swwiki::#{property}"
+  end
   
   if (!interctx_page.swwiki::inter_context.to_a.empty?)    
     log_save("CONTEXTS ALREADY CREATED")
@@ -272,7 +311,7 @@ def create_interctx(interctx_page)
     log_save("passei por index")
 
     
-    inctxClass.shdm::in_context_class_class = eval(klass)
+    inctxClass.shdm::in_context_class_class = SWWIKI::WikiPage
     inctxClass.shdm::in_context_class_context = SHDM::Context.new("http://shdm#anyContext")
     inctxClass.save
     log_save("passei por context in context class")
@@ -318,7 +357,7 @@ end
         
         if semantic_markup[:propertyName].to_s.include?("landmark_context")
           handle_landmark(source_page, target_page)
-        end
+        end        
         
       else
         handle_datatype_property_value(source_page, domain_property, semantic_markup[:value])
@@ -339,7 +378,7 @@ end
   source_page.save
   
   log_save(source_page.classes.inspect)
-  if(source_page.classes.include?(SWWIKIRES::InterContext))
+  if(source_page.classes.include?(SWWIKIRES::InterContextIndex))
     log_save "is interctx"
     create_interctx(source_page)
   end

@@ -1,0 +1,41 @@
+PARAMS: {"authenticity_token"=>"wWvu74gBnlmWy9s1u/2DhQH06VgdOKp6RA0RTaGjG20=", "node_id"=>"/execute/context/http%3A%2F%2Fbase%23c11f6410-1197-11e2-b893-bc773740354f?node=http%3A%2F%2Fsr%23o_TrueKnowledge_fb71&firstchar=T", "current_node"=>{"wikiLabel"=>"True Knowledge", "content"=>"Tópicos: [[has_topic->Semantic Web]], [[has_topic->Knowledge Search]], [[test_prop->Test1]]\r\nO principal objetivo da aplicação é proporcionar um novo tipo de experiência de pesquisa onde os usuários possam acessar o conhecimento simplesmente solicitando a informação que necessitam de uma forma completamente natural, ou seja, exatamente como se estivessem conversando com outro ser humano.\r\n\r\nEm vez de uma lista de links que podem ou não ser relevantes para a consulta, a experiência do usuário é uma resposta imediata, dando-lhes exatamente a informação que está sendo buscada.\r\n\r\nÉ utilizada uma tecnologia semântica que, segundo os autores, vem sido desenvolvida há muitos anos. Esta tecnologia compreende o que o usuário está questionando, representa o conhecimento de uma forma que o sistema possa entender/processar e pode combinar o conhecimento existente para inferir novos fatos e responder a perguntas que nunca haviam sido feitas antes.\r\n\r\nA plataforma possui um banco de dados de fatos, contendo uma representação unificada de conhecimento do mundo, a qual contém informações factuais e de senso comum.\r\n\r\nSegundo os autores, já é possível responder trilhões de perguntas e como essa base de conhecimento cresce, é possível adquirir conhecimento e responder cada vez mais perguntas.\r\n\r\n\r\n• Vídeo demonstrativo da aplicação chamada EVI:\r\nhttp://www.youtube.com/watch?v=TrCK0ya097Q\r\n\r\n• Página da empresa:\r\nhttp://www.trueknowledge.com\r\n\r\n• Página do aplicativo disponível na AppStore e na Android Market:\r\nhttp://www.evi.com\r\n"}, "attachments_size"=>"", "attachments_fields_size"=>"4", "node"=>{"attachment_3"=>#<File:C:/Users/tnunes/AppData/Local/Temp/RackMultipart.11128.53762>}, "commit"=>"Save", "controller"=>"execute", "action"=>"save"}
+LABEL: True Knowledge
+PAGE: http://sr#o_TrueKnowledge_fb71
+END DESTROYING: 
+HANDLE ATTACHMENTS
+ID: 32bc9c89-bd81-4b8b-949d-2d5777aa5419
+PARAMS: {"authenticity_token"=>"wWvu74gBnlmWy9s1u/2DhQH06VgdOKp6RA0RTaGjG20=", "node_id"=>"/execute/context/http%3A%2F%2Fbase%23c11f6410-1197-11e2-b893-bc773740354f?node=http%3A%2F%2Fsr%23o_TrueKnowledge_fb71&firstchar=T", "current_node"=>{"wikiLabel"=>"True Knowledge", "content"=>"Tópicos: [[has_topic->Semantic Web]], [[has_topic->Knowledge Search]], [[test_prop->Test1]]\r\nO principal objetivo da aplicação é proporcionar um novo tipo de experiência de pesquisa onde os usuários possam acessar o conhecimento simplesmente solicitando a informação que necessitam de uma forma completamente natural, ou seja, exatamente como se estivessem conversando com outro ser humano.\r\n\r\nEm vez de uma lista de links que podem ou não ser relevantes para a consulta, a experiência do usuário é uma resposta imediata, dando-lhes exatamente a informação que está sendo buscada.\r\n\r\nÉ utilizada uma tecnologia semântica que, segundo os autores, vem sido desenvolvida há muitos anos. Esta tecnologia compreende o que o usuário está questionando, representa o conhecimento de uma forma que o sistema possa entender/processar e pode combinar o conhecimento existente para inferir novos fatos e responder a perguntas que nunca haviam sido feitas antes.\r\n\r\nA plataforma possui um banco de dados de fatos, contendo uma representação unificada de conhecimento do mundo, a qual contém informações factuais e de senso comum.\r\n\r\nSegundo os autores, já é possível responder trilhões de perguntas e como essa base de conhecimento cresce, é possível adquirir conhecimento e responder cada vez mais perguntas.\r\n\r\n\r\n• Vídeo demonstrativo da aplicação chamada EVI:\r\nhttp://www.youtube.com/watch?v=TrCK0ya097Q\r\n\r\n• Página da empresa:\r\nhttp://www.trueknowledge.com\r\n\r\n• Página do aplicativo disponível na AppStore e na Android Market:\r\nhttp://www.evi.com\r\n"}, "attachments_size"=>"", "attachments_fields_size"=>"5", "node"=>{"attachment_4"=>#<File:C:/Users/tnunes/AppData/Local/Temp/RackMultipart.11128.53763>}, "commit"=>"Save", "controller"=>"execute", "action"=>"save"}
+LABEL: True Knowledge
+PAGE: http://sr#o_TrueKnowledge_fb71
+END DESTROYING: 
+HANDLE ATTACHMENTS
+NAME: nil
+ID: f703819e-2c44-4076-9bc2-53477b77d150
+PARAMS: {"authenticity_token"=>"wWvu74gBnlmWy9s1u/2DhQH06VgdOKp6RA0RTaGjG20=", "node_id"=>"/execute/context/http%3A%2F%2Fbase%23e3a4f900-071a-11e2-a349-bc773740354f?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23Landmarks", "current_node"=>{"wikiLabel"=>"Landmarks", "content"=>"Type: [[RDF::type->ConfigPage]]\r\n\r\nThe Landmarks of this Wiki are listed bellow:\r\n* [[OntologyLandmark]]\r\n"}, "attachments_size"=>"", "attachments_fields_size"=>"1", "node"=>{"attachment_0"=>#<File:C:/Users/tnunes/AppData/Local/Temp/RackMultipart.6252.49012>}, "commit"=>"Save", "controller"=>"execute", "action"=>"save"}
+LABEL: Landmarks
+PAGE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+END DESTROYING: 
+HANDLE ATTACHMENTS
+NAME: #<File:C:/Users/tnunes/AppData/Local/Temp/RackMultipart.6252.49012>
+ID: 750c9a1f-3e4f-4b4c-b142-d3ab4a8f98ba
+NAME: alter.sql
+URI: swwiki:750c9a1f-3e4f-4b4c-b142-d3ab4a8f98ba_alter.sql
+PASSEI CREATE
+NAME: String
+PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#attachmentName
+PASSEI NAME
+PASSEI PATH
+PARAMS: {"authenticity_token"=>"wWvu74gBnlmWy9s1u/2DhQH06VgdOKp6RA0RTaGjG20=", "node_id"=>"/execute/context/http%3A%2F%2Fbase%23e3a4f900-071a-11e2-a349-bc773740354f?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fswwiki%23Landmarks", "current_node"=>{"wikiLabel"=>"Landmarks", "content"=>"Type: [[RDF::type->ConfigPage]]\r\n\r\nThe Landmarks of this Wiki are listed bellow:\r\n* [[OntologyLandmark]]\r\n"}, "attachments_size"=>"", "attachments_fields_size"=>"1", "node"=>{"attachment_0"=>#<File:C:/Users/tnunes/AppData/Local/Temp/RackMultipart.6252.49013>}, "commit"=>"Save", "controller"=>"execute", "action"=>"save"}
+LABEL: Landmarks
+PAGE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+END DESTROYING: 
+HANDLE ATTACHMENTS
+NAME: #<File:C:/Users/tnunes/AppData/Local/Temp/RackMultipart.6252.49013>
+ID: f190fb11-4c8f-4260-977b-cb1212d35c14
+NAME: alter.sql
+URI: swwiki:f190fb11-4c8f-4260-977b-cb1212d35c14_alter.sql
+PASSEI CREATE
+NAME: String
+PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#attachmentName
+PASSEI NAME
+PASSEI PATH

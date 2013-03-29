@@ -4,4 +4,5 @@
 log_d(params[:uri])
 attachment = SWWIKI::FileAttachment.new(params[:uri])
 log_d(attachment.swwiki::path.to_s)
-send_file(attachment.swwiki::path.to_s, {:filename => attachment.swwiki::attachmentName})
+attachments_path = "./applications/#{Application.active.name}/attachments/"
+send_file(attachments_path + attachment.swwiki::path.to_s.split("/").last, {:filename => attachment.swwiki::attachmentName})

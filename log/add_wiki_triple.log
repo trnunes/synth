@@ -1,0 +1,227 @@
+ADD TRIPLE: http://swwiki/resource/Applications http://shdm#context_title Applications
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Applications
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://shdm#context_title
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: Applications
+	TRIPLE ADDED: http://swwiki/resource/Applications http://shdm#context_title Applications
+ADD TRIPLE: http://swwiki/resource/Applications http://shdm#context_query SWWIKI::Application.find_all
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Applications
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://shdm#context_query
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: SWWIKI::Application.find_all
+	TRIPLE ADDED: http://swwiki/resource/Applications http://shdm#context_query SWWIKI::Application.find_all
+ADD TRIPLE: http://swwiki/resource/ApplicationsLandmark http://shdm#landmark_position 3
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/ApplicationsLandmark
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://shdm#landmark_position
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: 3
+	TRIPLE ADDED: http://swwiki/resource/ApplicationsLandmark http://shdm#landmark_position 3
+ADD TRIPLE: http://swwiki/resource/Applications http://shdm#context_title Applications
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Applications
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://shdm#context_title
+	OBJECTS FOR SUBJECT AND PREDICATE: ["Applications"]
+ADD TRIPLE: http://swwiki/resource/Applications http://shdm#context_query SWWIKIRES::Application.find_all
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Applications
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://shdm#context_query
+	OBJECTS FOR SUBJECT AND PREDICATE: ["SWWIKIRES::Application.find_all"]
+ADD TRIPLE: http://swwiki/resource/Applications http://shdm#context_title Applications
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Applications
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://shdm#context_title
+	OBJECTS FOR SUBJECT AND PREDICATE: ["Applications"]
+ADD TRIPLE: http://swwiki/resource/Applications http://shdm#context_query Application.find_all
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Applications
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://shdm#context_query
+	OBJECTS FOR SUBJECT AND PREDICATE: ["SWWIKIRES::Application.find_all"]
+	NEW OBJECT: Application.find_all
+	TRIPLE ADDED: http://swwiki/resource/Applications http://shdm#context_query Application.find_all
+ADD TRIPLE: http://swwiki/resource/DescribedAppsInterContext http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Described Apps
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/DescribedAppsInterContext
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context
+	OBJECTS FOR SUBJECT AND PREDICATE: ["Described Apps"]
+ADD TRIPLE: http://swwiki/resource/DescribedAppsInterContext http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#domain_class SWWIKIRES::Seminar
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/DescribedAppsInterContext
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#domain_class
+	OBJECTS FOR SUBJECT AND PREDICATE: ["SWWIKIRES::Seminar"]
+ADD TRIPLE: http://swwiki/resource/DescribedAppsInterContext http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::described_apps
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/DescribedAppsInterContext
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: ["SWWIKI::described_apps"]
+ADD TRIPLE: http://swwiki/resource/DescribedAppsInterContext http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label Applications Researched
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/DescribedAppsInterContext
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label
+	OBJECTS FOR SUBJECT AND PREDICATE: ["Applications", "Applications Researched"]
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Topics
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: Topics
+	TRIPLE ADDED: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Topics
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#domain_class SWWIKIRES::Application
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#domain_class
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: SWWIKIRES::Application
+	TRIPLE ADDED: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#domain_class SWWIKIRES::Application
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::has_topic
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: SWWIKI::has_topic
+	TRIPLE ADDED: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::has_topic
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label Topics
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: Topics
+	TRIPLE ADDED: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label Topics
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Topics
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context
+	OBJECTS FOR SUBJECT AND PREDICATE: ["Topics"]
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#domain_class SWWIKIRES::Application
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#domain_class
+	OBJECTS FOR SUBJECT AND PREDICATE: ["SWWIKIRES::Application"]
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::has_topic
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: ["SWWIKI::has_topic"]
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label Topics
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label
+	OBJECTS FOR SUBJECT AND PREDICATE: ["Topics"]
+ADD TRIPLE: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Tools
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Supported_Tools_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: Tools
+	TRIPLE ADDED: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Tools
+ADD TRIPLE: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property supports
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Supported_Tools_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: supports
+	TRIPLE ADDED: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property supports
+ADD TRIPLE: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Tools
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Supported_Tools_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context
+	OBJECTS FOR SUBJECT AND PREDICATE: ["Tools"]
+ADD TRIPLE: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::supports
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Supported_Tools_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: ["supports"]
+	NEW OBJECT: SWWIKI::supports
+	TRIPLE ADDED: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::supports
+ADD TRIPLE: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Tools
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Supported_Tools_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context
+	OBJECTS FOR SUBJECT AND PREDICATE: ["Tools"]
+ADD TRIPLE: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::supports
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Supported_Tools_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: ["supports", "SWWIKI::supports"]
+ADD TRIPLE: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Tools
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Supported_Tools_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context
+	OBJECTS FOR SUBJECT AND PREDICATE: ["Tools"]
+ADD TRIPLE: http://swwiki/resource/Supported_Tools_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::supports
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Supported_Tools_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: ["supports", "SWWIKI::supports"]
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Topics
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: Topics
+	TRIPLE ADDED: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#title_of_context Topics
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::has_topic
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: SWWIKI::has_topic
+	TRIPLE ADDED: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::has_topic
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label Topics
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: Topics
+	TRIPLE ADDED: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#index_label Topics
+ADD TRIPLE: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property test_prop
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Test_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: test_prop
+	TRIPLE ADDED: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property test_prop
+ADD TRIPLE: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::test_prop
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Test_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: [#<["RDFS::Resource", "RDFS::Literal", "XSD::string", "SWWIKI::WikiPage"] http://swwiki/resource/test_prop>]
+	NEW OBJECT: SWWIKI::test_prop
+	TRIPLE ADDED: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::test_prop
+ADD TRIPLE: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property test_prop
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Test_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: test_prop
+	TRIPLE ADDED: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property test_prop
+ADD TRIPLE: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::test_prop
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Test_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: ["test_prop"]
+	NEW OBJECT: SWWIKI::test_prop
+	TRIPLE ADDED: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::test_prop
+ADD TRIPLE: http://swwiki/resource/Test_Index_2 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::test_prop2
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Test_Index_2
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: SWWIKI::test_prop2
+	TRIPLE ADDED: http://swwiki/resource/Test_Index_2 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::test_prop2
+ADD TRIPLE: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::has_topic
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Topic_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: SWWIKI::has_topic
+	TRIPLE ADDED: http://swwiki/resource/Topic_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property SWWIKI::has_topic
+ADD TRIPLE: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property test_prop
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Test_Index
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: test_prop
+	TRIPLE ADDED: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property test_prop

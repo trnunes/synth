@@ -5,7 +5,7 @@ def self.log_save_attach(msg)
 end
 wiki_page = SWWIKI::WikiPage.new(wikipage_uri)
 require 'uuidtools'
-repository_path = "./applications/raw_semantic_wiki/attachments"
+repository_path = "./applications/#{Application.active.name}/attachments"
 adapter = ActiveRDF::ConnectionPool.adapters.first  
 attachments.each{ |attParam|
   attachment_id = UUIDTools::UUID.random_create.to_s

@@ -1,0 +1,28 @@
+<% for name, attribute in @current_node.attributes_hash do %>
+  <% if !attribute.value.entries.empty? %>
+    <h3><%= name %></h3> 		
+    <% if attribute.is_a?(IndexNodeAttribute) %>
+      <table>                   
+        <% for index_entry in attribute.value.entries do %>
+          <tr>                        
+            <% for name_idx, attribute_idx in index_entry.attributes_hash do %>
+              <td> 
+                <% if attribute_idx.respond_to?(:target_url) %>
+                  <%= link_to attribute_idx.label, attribute_idx.target_url %>
+                <% else %>
+                  <%= h attribute_idx.label %>
+                <% end %>
+              </td>
+              <% end %>                          
+          </tr>
+        <% end %>
+      </table>                                     
+    <% else %>
+      <% if attribute.respond_to?(:target_url) %>
+        <%= link_to attribute.label, attribute.target_url %>
+      <% else %>
+        <%= h attribute.label %>
+      <% end %>              
+    <% end %>
+  <%end%>
+<% end %>

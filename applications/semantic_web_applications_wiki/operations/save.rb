@@ -46,10 +46,12 @@ while i < attachmentsFieldsSize
   i = i + 1
 end
 
-repository_path = "./applications/raw_semantic_wiki/attachments"
+repository_path = "./applications/#{Application.active.name}/attachments"
 adapter = ActiveRDF::ConnectionPool.adapters.first  
-log_save("HANDLE ATTACHMENTS")  
+log_save("HANDLE ATTACHMENTS") 
+log_save(attachments.inspect)  
 attachments.each{ |attParam|  
+  log_save("NAME: " + attParam.inspect) 
   attachment_id = UUIDTools::UUID.random_create.to_s
   log_save("ID: " + attachment_id) 
   attachment_name = attParam.original_filename.to_s
