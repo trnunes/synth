@@ -1645,3 +1645,1353 @@ NIl ?: false
 Result ?: <h1><span property="swwiki:wikiLabel">Apresentação Triplify (Gustavo Fernandes e Heraldo Borges)</span></h1> 
       URI: (<a href="http://sr#o_ApresentaoTriplifyGu_fe63" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_ApresentaoTriplifyGu_fe63</a>)
     
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#WikiPage
+LABEL: WikiPage
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">WikiPage</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">WikiPage</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#WikiPage)
+    
+GENERATING RDFA H1 FOR: http://swwiki/firstPage
+LABEL: Wiki 3.0
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Wiki 3.0</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Wiki 3.0</span></h1> 
+      URI: (http://swwiki/firstPage)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SemanticWebApplicati_320f
+LABEL: Semantic Web Applications
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Semantic Web Applications</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Semantic Web Applications</span></h1> 
+      URI: (<a href="http://sr#o_SemanticWebApplicati_320f" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SemanticWebApplicati_320f</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_MOAT_839c
+LABEL: MOAT
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">MOAT</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">MOAT</span></h1> 
+      URI: (<a href="http://sr#o_MOAT_839c" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_MOAT_839c</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Hakia_e5e2
+LABEL: Hakia
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Hakia</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Hakia</span></h1> 
+      URI: (<a href="http://sr#o_Hakia_e5e2" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Hakia_e5e2</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Ecademy_2b51
+LABEL: Ecademy
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Ecademy</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Ecademy</span></h1> 
+      URI: (<a href="http://sr#o_Ecademy_2b51" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Ecademy_2b51</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Editing_Help_Landmark
+LABEL: Editing Help Landmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help Landmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help Landmark</span></h1> 
+      URI: (http://swwiki/resource/Editing_Help_Landmark)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Ontologies_5944
+LABEL: Ontologies
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Ontologies</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Ontologies</span></h1> 
+      URI: (<a href="http://sr#o_Ontologies_5944" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Ontologies_5944</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Help_Pages
+LABEL: Help Pages
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Help Pages</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Help Pages</span></h1> 
+      URI: (http://swwiki/resource/Help_Pages)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Help_Pages
+LABEL: Help Pages
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Help Pages</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Help Pages</span></h1> 
+      URI: (http://swwiki/resource/Help_Pages)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Editing_Help_Landmark
+LABEL: Editing Help Landmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help Landmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help Landmark</span></h1> 
+      URI: (http://swwiki/resource/Editing_Help_Landmark)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/OntologyLandmark
+LABEL: OntologyLandmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">OntologyLandmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">OntologyLandmark</span></h1> 
+      URI: (http://swwiki/resource/OntologyLandmark)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/OntologyLandmark
+LABEL: OntologyLandmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">OntologyLandmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">OntologyLandmark</span></h1> 
+      URI: (http://swwiki/resource/OntologyLandmark)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/OntologyLandmark
+LABEL: OntologyLandmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">OntologyLandmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">OntologyLandmark</span></h1> 
+      URI: (http://swwiki/resource/OntologyLandmark)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Editing_Help_Landmark
+LABEL: Editing Help Landmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help Landmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help Landmark</span></h1> 
+      URI: (http://swwiki/resource/Editing_Help_Landmark)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Editing_Help_Landmark
+LABEL: Editing Help Landmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help Landmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help Landmark</span></h1> 
+      URI: (http://swwiki/resource/Editing_Help_Landmark)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Editing_Help_Landmark
+LABEL: Editing Help Landmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help Landmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help Landmark</span></h1> 
+      URI: (http://swwiki/resource/Editing_Help_Landmark)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_POWL20081_da2d
+LABEL: POWL.2008.1
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">POWL.2008.1</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">POWL.2008.1</span></h1> 
+      URI: (<a href="http://sr#o_POWL20081_da2d" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_POWL20081_da2d</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_ProjetoFinal_ead2
+LABEL: Projeto Final
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Projeto Final</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Projeto Final</span></h1> 
+      URI: (<a href="http://sr#o_ProjetoFinal_ead2" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_ProjetoFinal_ead2</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_ProjetoFinal_ead2
+LABEL: Projeto Final
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Projeto Final</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Projeto Final</span></h1> 
+      URI: (<a href="http://sr#o_ProjetoFinal_ead2" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_ProjetoFinal_ead2</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SIOC_0085
+LABEL: SIOC
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">SIOC</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">SIOC</span></h1> 
+      URI: (<a href="http://sr#o_SIOC_0085" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SIOC_0085</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SemanticWiki_56a8
+LABEL: Semantic Wiki
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Semantic Wiki</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Semantic Wiki</span></h1> 
+      URI: (<a href="http://sr#o_SemanticWiki_56a8" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SemanticWiki_56a8</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SemanticWiki_56a8
+LABEL: Semantic Wiki
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Semantic Wiki</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Semantic Wiki</span></h1> 
+      URI: (<a href="http://sr#o_SemanticWiki_56a8" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SemanticWiki_56a8</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SIOC_0085
+LABEL: SIOC
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">SIOC</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">SIOC</span></h1> 
+      URI: (<a href="http://sr#o_SIOC_0085" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SIOC_0085</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SocialSoftware_4244
+LABEL: Social Software
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Social Software</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Social Software</span></h1> 
+      URI: (<a href="http://sr#o_SocialSoftware_4244" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SocialSoftware_4244</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SocialSoftware_4244
+LABEL: Social Software
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Social Software</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Social Software</span></h1> 
+      URI: (<a href="http://sr#o_SocialSoftware_4244" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SocialSoftware_4244</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SocialSoftware_4244
+LABEL: Social Software
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Social Software</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Social Software</span></h1> 
+      URI: (<a href="http://sr#o_SocialSoftware_4244" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SocialSoftware_4244</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Main_Pages
+LABEL: Main Pages
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main Pages</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Main Pages</span></h1> 
+      URI: (http://swwiki/resource/Main_Pages)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Main_Pages
+LABEL: Main Pages
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main Pages</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Main Pages</span></h1> 
+      URI: (http://swwiki/resource/Main_Pages)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Main_Pages
+LABEL: Main Pages
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main Pages</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Main Pages</span></h1> 
+      URI: (http://swwiki/resource/Main_Pages)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Main_Pages
+LABEL: Main Pages
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main Pages</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Main Pages</span></h1> 
+      URI: (http://swwiki/resource/Main_Pages)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Main_Pages_Landmark
+LABEL: Main Pages Landmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main Pages Landmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Main Pages Landmark</span></h1> 
+      URI: (http://swwiki/resource/Main_Pages_Landmark)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SemanticWebApplicati_320f
+LABEL: Semantic Web Applications
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Semantic Web Applications</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Semantic Web Applications</span></h1> 
+      URI: (<a href="http://sr#o_SemanticWebApplicati_320f" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SemanticWebApplicati_320f</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Main_Pages_Landmark
+LABEL: Main Pages Landmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main Pages Landmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Main Pages Landmark</span></h1> 
+      URI: (http://swwiki/resource/Main_Pages_Landmark)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Main_Pages_Landmark
+LABEL: Main Pages Landmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main Pages Landmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Main Pages Landmark</span></h1> 
+      URI: (http://swwiki/resource/Main_Pages_Landmark)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Main_Pages_Landmark
+LABEL: Main Pages Landmark
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main Pages Landmark</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Main Pages Landmark</span></h1> 
+      URI: (http://swwiki/resource/Main_Pages_Landmark)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SocialSoftware_4244
+LABEL: Social Software
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Social Software</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Social Software</span></h1> 
+      URI: (<a href="http://sr#o_SocialSoftware_4244" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SocialSoftware_4244</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_MOAT_839c
+LABEL: MOAT
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">MOAT</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">MOAT</span></h1> 
+      URI: (<a href="http://sr#o_MOAT_839c" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_MOAT_839c</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SocialSoftware_4244
+LABEL: Social Software
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Social Software</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Social Software</span></h1> 
+      URI: (<a href="http://sr#o_SocialSoftware_4244" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SocialSoftware_4244</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SemanticWebApplicati_320f
+LABEL: Semantic Web Applications
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Semantic Web Applications</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Semantic Web Applications</span></h1> 
+      URI: (<a href="http://sr#o_SemanticWebApplicati_320f" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SemanticWebApplicati_320f</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Biblio_fb8b
+LABEL: Biblio
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Biblio</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Biblio</span></h1> 
+      URI: (<a href="http://sr#o_Biblio_fb8b" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Biblio_fb8b</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_ProjetoFinal_ead2
+LABEL: Projeto Final
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Projeto Final</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Projeto Final</span></h1> 
+      URI: (<a href="http://sr#o_ProjetoFinal_ead2" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_ProjetoFinal_ead2</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_WebServicesArchitect_1cde
+LABEL: Web Services Architecture
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Web Services Architecture</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Web Services Architecture</span></h1> 
+      URI: (<a href="http://sr#o_WebServicesArchitect_1cde" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_WebServicesArchitect_1cde</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_TpicosWebServicesSem_134d
+LABEL: Tópicos Web Services Semanticos
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Tópicos Web Services Semanticos</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Tópicos Web Services Semanticos</span></h1> 
+      URI: (<a href="http://sr#o_TpicosWebServicesSem_134d" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_TpicosWebServicesSem_134d</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_WebServicesArchitect_1cde
+LABEL: Web Services Architecture
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Web Services Architecture</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Web Services Architecture</span></h1> 
+      URI: (<a href="http://sr#o_WebServicesArchitect_1cde" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_WebServicesArchitect_1cde</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Inter_Context_Indexes
+LABEL: Inter Context Indexes
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Inter Context Indexes</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Inter Context Indexes</span></h1> 
+      URI: (http://swwiki/resource/Inter_Context_Indexes)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/DescribedAppsInterContext
+LABEL: DescribedAppsInterContext
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">DescribedAppsInterContext</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">DescribedAppsInterContext</span></h1> 
+      URI: (http://swwiki/resource/DescribedAppsInterContext)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_AlexMarquesPortela_4bba
+LABEL: Alex Marques Portela
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Alex Marques Portela</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Alex Marques Portela</span></h1> 
+      URI: (<a href="http://sr#o_AlexMarquesPortela_4bba" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_AlexMarquesPortela_4bba</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SIOC_0085
+LABEL: SIOC
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">SIOC</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">SIOC</span></h1> 
+      URI: (<a href="http://sr#o_SIOC_0085" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SIOC_0085</a>)
+    
+GENERATING RDFA H1 FOR: http://sr#o_SemanticWebApplicati_320f
+LABEL: Semantic Web Applications
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Semantic Web Applications</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Semantic Web Applications</span></h1> 
+      URI: (<a href="http://sr#o_SemanticWebApplicati_320f" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_SemanticWebApplicati_320f</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Inter_Context_Indexes
+LABEL: Inter Context Indexes
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Inter Context Indexes</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Inter Context Indexes</span></h1> 
+      URI: (http://swwiki/resource/Inter_Context_Indexes)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Topic_Index
+LABEL: Topic Index
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Topic Index</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Topic Index</span></h1> 
+      URI: (http://swwiki/resource/Topic_Index)
+    
+GENERATING RDFA H1 FOR: http://sr#o_TrueKnowledge_fb71
+LABEL: True Knowledge
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">True Knowledge</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">True Knowledge</span></h1> 
+      URI: (<a href="http://sr#o_TrueKnowledge_fb71" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_TrueKnowledge_fb71</a>)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://sr#o_Main_ec57
+LABEL: Main
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Main</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Main</span></h1> 
+      URI: (<a href="http://sr#o_Main_ec57" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_Main_ec57</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+LABEL: Landmarks
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Landmarks</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Landmarks</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+LABEL: Contexts
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Contexts</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Contexts</span></h1> 
+      URI: (http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Inter_Context_Indexes
+LABEL: Inter Context Indexes
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Inter Context Indexes</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Inter Context Indexes</span></h1> 
+      URI: (http://swwiki/resource/Inter_Context_Indexes)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Inter_Context_Indexes
+LABEL: Inter Context Indexes
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Inter Context Indexes</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Inter Context Indexes</span></h1> 
+      URI: (http://swwiki/resource/Inter_Context_Indexes)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://sr#o_EditingHelp_c581
+LABEL: Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: false
+Result ?: <h1><span property="swwiki:wikiLabel">Editing Help</span></h1> 
+      URI: (<a href="http://sr#o_EditingHelp_c581" title="Open dbpedia ref in a new tab" target="_blank">http://sr#o_EditingHelp_c581</a>)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    
+GENERATING RDFA H1 FOR: http://swwiki/resource/Navigation_Editing_Help
+LABEL: Navigation Editing Help
+PROPERTY GENERATED: <span property="swwiki:wikiLabel">Navigation Editing Help</span>
+SAME AS: []
+EMPTY ?: true
+NIl ?: true
+Result ?: <h1><span property="swwiki:wikiLabel">Navigation Editing Help</span></h1> 
+      URI: (http://swwiki/resource/Navigation_Editing_Help)
+    

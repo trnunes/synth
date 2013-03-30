@@ -1,0 +1,211 @@
+  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+                      "http://www.w3.org/TR/html4/loose.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+  <title><%= @context.context_title %></title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" href="/execute/css/aqueous" type="text/css" media="screen,projection" />
+  <link rel="stylesheet" href="/execute/css/wikipedia" type="text/css" media="all" />
+
+  <style type="text/css" style="display:none">ul.auto-list{display:none;position:absolute;top:0px;left:0px;border:1px solid green;background-color:#A3DF99;padding:0;margin:0;list-style:none;}ul.auto-list>li:hover,ul.auto-list>li[data-selected=true]{background-color:#236574;}ul.auto-list>li{border:1px solid gray;cursor:default;padding:2px;}mark{font-weight:bold;}
+</style>
+<style type="text/css">#ta{width:300px;height :100px;font-size:11px;font-family:"Helvetica Neue",Arial,sans-serif;white-space:pre;}
+</style> 
+<%= javascript_include_tag 'jquerynew/jquery1.5.js' %>
+<%= javascript_include_tag 'jquerynew/auto.js' %>
+</head>
+  
+
+<body>
+  
+  <div id="wrapper">
+    <div id="innerwrapper">
+      <div id="wikibanner">
+         <%= image_tag("semWikiLogo.png" ) %>
+      </div>
+      <%= include 'Header' %>
+      
+      <%= include 'ContextSideBar' %>
+    
+      <div id="contentnorightbar">
+
+        <div class="noprint" id="mw-head">
+          <div id="left-navigation">
+            <!-- 0 -->
+
+            <div class="vectorTabs" id="p-namespaces">
+
+              <h5>Namespaces</h5>
+              <ul>
+                <li class="selected" id="ca-nstab-main"><span>
+                  <a accesskey="c" title="View the content page [alt-shift-c]" href="/wiki_page/under_construction">Article</a></span>
+                </li>
+              </ul>
+
+            </div>
+            <!-- /0 -->
+          </div>
+
+          <div id="right-navigation">               
+
+          <div class="vectorTabs" id="p-views">
+            <h5>Views</h5>
+            <ul>			
+              <li id="ca-view">
+                <span><a href="/wiki_page/new">New</a><br></span>
+              </li>
+              <li id="ca-view"><span><a href="/wiki_page/show?wikiLabel=About+Semantic+Wikipedia">Show</a></span></li>
+              <li id="ca-edit"><span>
+                  <a href="<%= @current_node.anchor.target_url + '&interface_name=EditWikiPage' %>">Edit</a><br>
+                </span>
+              </li>
+            </ul>
+          </div>  
+        </div>
+      </div>
+
+      <p style="margin-top: 0px; padding-top: 0px;">
+          <%= link_to("<< Previous", @current_node.previous_node_anchor.target_url, :title => @current_node.previous_node_anchor.label, :style => "float: left;") unless @current_node.previous_node.nil? %>
+          <%= link_to("Next >>", @current_node.next_node_anchor.target_url, :title => @current_node.next_node_anchor.label, :style => "float: right;") unless @current_node.next_node.nil? %>
+      </p>
+      <div class="noprint" id="mw-head-base"></div>
+
+
+      <div id="content">         
+       
+        <h1>Edit Wiki Page: <%= @current_node.swwiki::wikiLabel %></h1>
+        
+        <% form_for(:current_node, @current_node, :url => {:action => :import_wikipedia_text}) do |f| %>
+            <%= hidden_field_tag("node_url",  @current_node.anchor.target_url) %>
+            <%= hidden_field_tag("id",  @current_node.swwiki::wikiLabel) %>
+            <%= f.submit 'Import Wikipedia Content'%>
+        <%end%>
+        
+        <% form_for(:current_node, @current_node, :url => {:action => :save}, :html => { :multipart => true}) do |f| %>
+          <%= f.error_messages %>
+        
+          <p>
+            <%= hidden_field_tag("node_id",  @current_node.anchor.target_url) %>
+            <%= f.label :Label%>
+            <%= f.text_field :wikiLabel, :style => 'border: 2px inset #999;' %>
+          </p>
+        
+          <p>
+            <%= f.label :content%>
+            <div id="wiki">
+              <%= f.text_area :content, :style => 'height: 600px; border: 2px inset #999;' %>
+            </div>        
+          </p>
+          
+          <%= include 'AttachFile'%>      
+          <p>
+            <%= f.submit 'Save'%>
+          </p>
+        <%end%>
+        
+        
+        
+        <% @markup_hash_list = Operations.extract_semantic_markups({:content => @current_node.swwiki::content.to_s})%>
+        <h2> Object Properties </h2>
+        <%@markup_hash_list.each{|markup_hash|%>
+          <%if markup_hash[:objectProperty] && !markup_hash[:value].nil?%>
+            <p>
+            | <%= "#{Operations.abbreviate_uri({:uri => markup_hash[:propertyName]})} -> #{Operations.abbreviate_uri({:uri => markup_hash[:value].to_s})}"%> |  </p>
+          <%end%>
+        <%}%>
+        <h2> Datatype Properties </h2>
+        <%@markup_hash_list.each{|markup_hash|%>
+          <%if !markup_hash[:objectProperty]%>
+           | <%= "#{Operations.abbreviate_uri({:uri => markup_hash[:propertyName]})} = #{markup_hash[:value]}"%> |  </p>
+          <%end%>
+        <%}%>
+      </div>
+    </div>
+  </div>
+  
+  
+
+  <script>
+   urls = [
+      "facebook.com",
+      "google.com",
+      "twitter.com",
+      "amirharel.com",
+      "amazon.com",
+      "microsoft.com",
+      "quora.com",
+      "walla.co.il",
+      "ebay.com",
+      "gowala.com",
+      "myspace.com",
+      "youtube.com"		
+      ];
+      function parse(data) {
+      var parsed = [];
+      var rows = data.split("\n");
+      for (var i=0; i < rows.length; i++) {
+        var row = rows[i];
+        if (row) {
+          row = row.split("|");
+          for (var j=0; j < row.length; j++)
+            parsed[parsed.length] = row[j]	
+        }
+      }
+      return parsed;
+    };
+      function initURLTextarea(){
+
+        $("#wiki textarea").autocomplete({
+            
+              wordCount: 1,
+
+              on: {
+
+                query: function(text,cb){
+                  result = []
+
+                  if((text.length > 1) && (text.indexOf("[[") >=0)){
+                  replaced = text.replace("[[", "")
+                  $.ajax({
+                    // try to leverage ajaxQueue plugin to abort previous requests
+                    mode: "abort",
+
+                    url: "/resources/search_property",
+                    data: replaced,
+                    success: function(data) {
+                      urls = parse(data);											
+
+                    }
+                  });
+                  
+                  var words = [];
+                  for( var i=0; i<urls.length; i++ ){
+                    if((urls[i].indexOf(":") >=0) && (urls[i].indexOf("http") < 0) ){
+                      ns_prop_array = urls[i].split(":")
+                      namespace = ns_prop_array[0].toUpperCase()
+                      result.push("[[" + namespace + "::" + ns_prop_array[1] + "]]")
+                    }
+                  }
+
+                  for( var i=0; i<result.length; i++ ){										
+                    if( result[i].toLowerCase().indexOf(replaced.toLowerCase()) >= 0 ) words.push(result[i]);									
+                  }
+
+                  cb(words);
+                  }			
+                }
+              }
+          
+            });
+          
+      }
+        
+        $(document).ready(function(){
+
+          initURLTextarea();
+
+        });
+    
+  </script>
+</body>
+</html>

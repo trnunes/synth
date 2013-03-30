@@ -1,13 +1,19 @@
 require 'uri'
+def self.log_render(msg)
+
+  File.open('./log/renderTargetPage.log', 'a'){|f| f.write(msg << "\n")}
+  
+end
+log_render params.inspect
 tgt_ctx = params[:tgtctx]
 tgt_resource = params[:tgtresource]
 tgt_class = params[:tgtclass]
 wikiLabel = params[:wikiLabel]
 wiki_page = SWWIKI::WikiPage.find_by.swwiki::wikiLabel(wikiLabel).execute.first
+
 uri_part = wikiLabel.gsub(" ", "_")
 
-encoded_uri_page = RDFS::Resource.new(wiki_page.uri.gsub(uri_part, URI.encode(uri_part)))
-wiki_page = encoded_uri_page if(encoded_uri_page.classes.size > wiki_page.classes.size)
+log_render wiki_page.uri
 classes = wiki_page.classes.to_a
 classes.delete(SR::Node)
 classes.delete(SR::AbstractWikiPage)

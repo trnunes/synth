@@ -225,3 +225,10 @@ OBJECT IS A RESOURCE? 0
 	OBJECTS FOR SUBJECT AND PREDICATE: []
 	NEW OBJECT: test_prop
 	TRIPLE ADDED: http://swwiki/resource/Test_Index http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#property test_prop
+ADD TRIPLE: http://swwiki/resource/Help_Pages http://shdm#context_name Help Pages
+	RESOURCE CREATED FOR SUBJECT: http://swwiki/resource/Help_Pages
+OBJECT IS A RESOURCE? 0
+	RESOURCE CREATED FOR PREDICATE: http://shdm#context_name
+	OBJECTS FOR SUBJECT AND PREDICATE: []
+	NEW OBJECT: Help Pages
+	TRIPLE ADDED: http://swwiki/resource/Help_Pages http://shdm#context_name Help Pages

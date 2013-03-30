@@ -1,0 +1,49 @@
+<script language="javascript">
+
+// Define a custom format function
+addAttchmentField = function() {
+  var attSize = document.getElementById("attachments_fields_size");
+  var attachments = document.getElementById("attachments");
+  var attField = document.createElement('input');
+  attField.name = "node[attachment_" + attSize.value + "]";
+  var newLine = document.createElement('br');
+  attField.type = "file";
+  attachments.appendChild(newLine);
+  attachments.appendChild(attField);
+  attSize.value = parseInt(attSize.value) + 1
+}
+
+</script>
+
+
+<div align="right" id="attachments">
+  <div style="text-align: left;"> 
+    <% @attachment_label ||= 'Attachments'%>
+     <%= @attachment_label%>
+    [<a href="#" onclick="JavaScript: addAttchmentField()">+</a>]
+  </div>
+  <% @attachment_list = @current_node.swwiki::hasAttachment.to_a %>
+  
+  <% if @attachment_list.size > 0 && !@hide_remove_attachments%>
+    <table style="text-align: rigth; important!">
+      <tr><th>remove</th><th>name</th></tr>
+    <% 
+      attachments_size = 0
+      @attachment_list.each{ |attach| 
+    %>    
+      <tr>
+        <td align="center">
+          <input type="checkbox" name="remove_attachment_<%= attachments_size %>" value="<%= attach.uri %>"/>
+        </td>
+        <td><a href="<%= attach.swwiki::link %>"><%= attach.swwiki::attachmentName.to_s %></a></td>        
+      </tr>
+    <%
+        attachments_size = attachments_size + 1
+      } 
+    %>  
+    </table>
+  <% end %>
+  <input name="attachments_size" type="hidden" value="<%= attachments_size %>"/>
+  <input id="attachments_fields_size" name="attachments_fields_size" type="hidden" value="0"/>
+</div>
+<span style="color: red">Click on "Save" to update the attachments.</span>

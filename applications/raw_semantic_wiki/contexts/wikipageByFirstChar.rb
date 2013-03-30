@@ -1,0 +1,1 @@
+SWWIKI::WikiPage.find_by.swwiki::wikiLabel(:regex => Regexp.new("^#{firstchar}.*")).sort(RDFS::label).execute

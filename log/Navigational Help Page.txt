@@ -1,0 +1,59 @@
+Type: [[RDF::type->HelpPage]]
+
+One of the features of the Semantic Wiki is that, beyond evolving content and structure in a wiki fashion, you can customize the navigation structure of the App. You can add and edit the Landmarks (Menu of topics in this context), create new navigational contexts and index structures to improve the default hyperlink navigation provided. Therefore, this system allows the evolution of both content, domain model and navigational model. In the case of developing a more complex navigational model or an interface model, please use Synth.
+
+== Landmarks ==
+
+To create landmarks do the following
+
+First you need to create a context doing the following: 
+
+# Access Cutomize Landmark
+# Navigate to Contexts Page
+# Edit
+# in the Contexts page edition, create a link to a Context Page that you want to create - Example <pre>[[Help Pages]]</pre>
+# save the Contexts page
+# Navigate to the Context page through the link you've just created
+# Edit
+# Add the property that defines the title of the context - Example: <pre>[[SHDM::context_title=type the title here]] </pre>
+# Add the context query as a property - Example: <pre>[[SHDM::context_query=SWWIKI::HelpPage.find_all]]</pre>
+# save the page
+
+Now you have to create the landmark
+
+# Access the customize option
+# Go to the Landmarks page
+# Edit
+# Create a link to the desired landmark - Ex: <pre>[[Example Landmark]]</pre>
+# save
+# navigate to the created landmark
+# Edit
+# Add the position where the landmark will be rendered property - Ex: <pre>[[SHDM::landmark_position=2]]</pre>
+# Add the context that the Landmark will lead to - Ex: <pre>[[landmark_context->Help Pages]]</pre>
+# save and see the result in the landmark's bar above
+
+
+== Inter Context Indexes ==
+
+You can also create an index to access other contexts from some entities. Using this Semantic Wiki you can leverage the navigation to collections of associated entities, like the ones created in the right side of the pages [[Semantic Web Applications]] and [[True Knowledge]].  that shows all the applications related to a ''Seminar'' page by the ''''described_apps''''' property and the Topics of an entity related by the '''''has_topic''''' property.
+
+The simplest to create an inter context index is:
+
+# go to customize option
+# edit the page Inter Context Indexes
+# add a link to the Index page you want to create - Ex: <pre>* [[Topic Index]]</pre>
+# navigate to the page you've just created
+# Edit
+# type your page as Inter Context Index: <pre>[[RDF::type->InterContextIndex]]</pre>
+# Add the property for which you want to create the index - Ex: <pre>[[SWWIKI::property=SWWIKI::has_topic]]</pre>
+# save
+
+Now, every entity that is related to a topic by the relation ''has_topic'' will present an index of topics at the right side of the article page. The result of this example can be viewed in [[True Knowledge]] page. Go ahead and add on or more markups like <pre>[[has_topic->Semantic Web]]</pre> to one of the pages and see the formed index.
+
+Sometimes you need to add more details to the index created, like ''add the index only to entities of a certain type'', or maybe you want to customize the titles of the index and the contexts created. In order to to this, you might add the following properties to the Index page:
+
+# Title of the context: <pre>[[title_of_context=Described Apps]]</pre>
+# Domain class of the elements that contains the index to the context: <pre>[[domain_class=SWWIKI::Seminar]]</pre>
+# The label that will appear in the index: <pre>[[index_label=Applications Researched]]</pre>
+
+This examples can be viewed in [[Semantic Web Applications]].

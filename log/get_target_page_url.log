@@ -1386,3 +1386,1591 @@ target_resource: http://swwiki/resource/OntologyLandmark
 target classes: [SWWIKI::WikiPage]
 target_resource class: SWWIKI::WikiPage
 target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_FOAF_9abc
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::Ontology]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Twine
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/TripIt
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/1
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/2
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Seminar
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Sites_de_Comunidades
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::HelpPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Person
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Person
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Grupos_54c2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Grupos_54c2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Ontology
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Wiki_4b39
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_featuresofaSemanticW_1150
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_scenariosforSemantic_b3c5
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWikiMetaMode_9a82
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_IkeWiki20081_2d9b
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Makna20081_3038
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_OntoWiki20081_d21b
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_OpenRecord20081_8f8a
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticMediaWiki200_efac
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SweetWiki_f7d3
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#SWIFT@SeMediaWiki
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#WikiOnt@SeMediaWiki
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWikiUseCases_bb07
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Wiki_4b39
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_featuresofaSemanticW_1150
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_scenariosforSemantic_b3c5
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWikiMetaMode_9a82
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_IkeWiki20081_2d9b
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Makna20081_3038
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_OntoWiki20081_d21b
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_OpenRecord20081_8f8a
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticMediaWiki200_efac
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SweetWiki_f7d3
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#SWIFT@SeMediaWiki
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#WikiOnt@SeMediaWiki
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWikiUseCases_bb07
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Ontology
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Blogs_9ab7
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Wiki_4b39
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Sitesdecomunidades_2af1
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_DesktopSemntico_6d74
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Blogs_9ab7
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Wiki_4b39
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Sitesdecomunidades_2af1
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_DesktopSemntico_6d74
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Blogs_9ab7
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Wiki_4b39
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Sitesdecomunidades_2af1
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_DesktopSemntico_6d74
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_FOAF_9abc
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::Ontology]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Twine
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/TripIt
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/1
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/2
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Seminar
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/MainPages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Blogs_9ab7
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Wiki_4b39
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Sitesdecomunidades_2af1
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_DesktopSemntico_6d74
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Person
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Blogs_9ab7
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Wiki_4b39
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Sitesdecomunidades_2af1
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_DesktopSemntico_6d74
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::HelpPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::HelpPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_FOAF_9abc
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::Ontology]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Twine
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/TripIt
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/1
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/2
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Seminar
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Person
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::HelpPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Ontology
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Person
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Person
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Grupos_54c2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_WebService_6d2a
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_OWLS_67a5
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_WSMO_377a
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_MeteorS_0e2c
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_PadresparaWebService_66f7
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_WebService_6d2a
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_OWLS_67a5
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_WSMO_377a
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_MeteorS_0e2c
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_PadresparaWebService_66f7
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::HelpPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::HelpPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::HelpPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/DescribedAppsInterContext
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContext]
+target_resource class: SWWIKIRES::InterContext
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Topic_Index
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContextIndex]
+target_resource class: SWWIKIRES::InterContextIndex
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Test_Index
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContextIndex]
+target_resource class: SWWIKIRES::InterContextIndex
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/InterContext
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/InterContext
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/InterContext
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/InterContext
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Person
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Ontology
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_FOAF_9abc
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::Ontology]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Twine
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/TripIt
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/1
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/2
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Seminar
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/DescribedAppsInterContext
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContext]
+target_resource class: SWWIKIRES::InterContext
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Topic_Index
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContextIndex]
+target_resource class: SWWIKIRES::InterContextIndex
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Test_Index
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContextIndex]
+target_resource class: SWWIKIRES::InterContextIndex
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/InterContextIndex
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Semantic_Web
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Knowledge_Search
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Test1
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWiki_56a8
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SocialSoftware_4244
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_ProjetoFinal_ead2
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContext, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::InterContext
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContext, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::InterContext
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/OntologyLandmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Editing_Help_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages_Landmark
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContext, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::InterContext
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Ontologies_5944
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Help_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Main_Pages
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Inter_Context_Indexes
+target classes: [SWWIKI::WikiPage, SWWIKI::ConfigPage]
+target_resource class: SWWIKI::ConfigPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/DescribedAppsInterContext
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContext]
+target_resource class: SWWIKIRES::InterContext
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Topic_Index
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContextIndex]
+target_resource class: SWWIKIRES::InterContextIndex
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Test_Index
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContextIndex]
+target_resource class: SWWIKIRES::InterContextIndex
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContext, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::InterContext
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/DescribedAppsInterContext
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContext]
+target_resource class: SWWIKIRES::InterContext
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Topic_Index
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContextIndex]
+target_resource class: SWWIKIRES::InterContextIndex
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Test_Index
+target classes: [SWWIKI::WikiPage, SWWIKIRES::InterContextIndex]
+target_resource class: SWWIKIRES::InterContextIndex
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/Navigation_Editing_Help
+target classes: [SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+target_resource class: SWWIKIRES::HelpPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://swwiki/resource/HelpPage
+target classes: [SWWIKI::WikiPage]
+target_resource class: SWWIKI::WikiPage
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_TrueKnowledge_fb71
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SR::AssignmentSet]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_SemanticWebApplicati_320f
+target classes: [SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::Seminar]
+target_resource class: SR::AbstractModel
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d

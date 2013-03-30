@@ -1478,3 +1478,840 @@ MARKUP: [[OntologyLandmark]]
 	ADDING EXISTENT OBJECT TRIPLE
 		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/OntologyLandmark
 [RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://sr#o_Main_ec57
+MARKUP: [[Semantic Wiki]]
+	VALUE: http://sr#o_SemanticWiki_56a8 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWiki_56a8
+MARKUP: [[Social Software]]
+	VALUE: http://sr#o_SocialSoftware_4244 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SocialSoftware_4244
+MARKUP: [[Projeto Final]]
+	VALUE: http://sr#o_ProjetoFinal_ead2 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_ProjetoFinal_ead2
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage]
+SAVING WIKI CONTENT FOR: http://sr#o_EditingHelp_c581
+MARKUP: [[RDF::type->HelpPage]]
+	VALUE: HelpPage => String
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	CREATING TARGET PAGE: http://swwiki/resource/HelpPage
+	ADDING LABEL: HelpPage
+	ADDING OBJECT TRIPLE: 
+  	http://sr#o_EditingHelp_c581 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/HelpPage
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::HelpPage]
+SAVING WIKI CONTENT FOR: http://sr#o_EditingHelp_c581
+MARKUP: [[RDF::type->HelpPage]]
+	VALUE: http://swwiki/resource/HelpPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_EditingHelp_c581 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/HelpPage
+MARKUP: [[Navigation Editing Help]]
+	VALUE: Navigation Editing Help => String
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	CREATING TARGET PAGE: http://swwiki/resource/Navigation_Editing_Help
+	ADDING LABEL: Navigation Editing Help
+	ADDING OBJECT TRIPLE: 
+  	http://sr#o_EditingHelp_c581 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Navigation_Editing_Help
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKIRES::HelpPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[HelpPage]]
+	VALUE: http://swwiki/resource/HelpPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/HelpPage
+[RDFS::Resource, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[OntologyLandmark]]
+	VALUE: http://swwiki/resource/OntologyLandmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/OntologyLandmark
+MARKUP: [[Editing Help Landmark]]
+	VALUE: Editing Help Landmark => String
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	CREATING TARGET PAGE: http://swwiki/resource/Editing_Help_Landmark
+	ADDING LABEL: Editing Help Landmark
+	ADDING OBJECT TRIPLE: 
+  	http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Editing_Help_Landmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[OntologyLandmark]]
+	VALUE: http://swwiki/resource/OntologyLandmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/OntologyLandmark
+MARKUP: [[Editing Help Landmark]]
+	VALUE: http://swwiki/resource/Editing_Help_Landmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Editing_Help_Landmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[Ontologies]]
+	VALUE: http://sr#o_Ontologies_5944 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Ontologies_5944
+MARKUP: [[Help Pages]]
+	VALUE: Help Pages => String
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	CREATING TARGET PAGE: http://swwiki/resource/Help_Pages
+	ADDING LABEL: Help Pages
+	ADDING OBJECT TRIPLE: 
+  	http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Help_Pages
+MARKUP: [[Inter Context Indexes]]
+	VALUE: http://swwiki/resource/Inter_Context_Indexes => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Inter_Context_Indexes
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Help_Pages
+MARKUP: [[SHDM::context_name=Help Pages]]
+	VALUE: Help Pages => String
+	DOMAIN PROPERTY: http://shdm#context_name
+	adding datatype property triple
+		http://swwiki/resource/Help_Pages http://shdm#context_name Help Pages
+MARKUP: [[SHDM::context_query=SWWIKIRES::HelpPage.find_all]]
+	VALUE: SWWIKIRES::HelpPage.find_all => String
+	DOMAIN PROPERTY: http://shdm#context_query
+	adding datatype property triple
+		http://swwiki/resource/Help_Pages http://shdm#context_query SWWIKIRES::HelpPage.find_all
+[RDFS::Resource, SHDM::Context, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/OntologyLandmark
+MARKUP: [[SHDM::landmark_position=2]]
+	VALUE: 2 => String
+	DOMAIN PROPERTY: http://shdm#landmark_position
+	adding datatype property triple
+		http://swwiki/resource/OntologyLandmark http://shdm#landmark_position 2
+MARKUP: [[SWWIKI::landmark_context->Help Pages]]
+	VALUE: http://swwiki/resource/Help_Pages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/OntologyLandmark http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context http://swwiki/resource/Help_Pages
+LANDMARK: http://swwiki/resource/OntologyLandmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/OntologyLandmark
+MARKUP: [[SHDM::landmark_position=2]]
+	VALUE: 2 => String
+	DOMAIN PROPERTY: http://shdm#landmark_position
+	adding datatype property triple
+		http://swwiki/resource/OntologyLandmark http://shdm#landmark_position 2
+MARKUP: [[SWWIKI::landmark_context->Ontologies]]
+	VALUE: http://sr#o_Ontologies_5944 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/OntologyLandmark http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context http://sr#o_Ontologies_5944
+LANDMARK: http://swwiki/resource/OntologyLandmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Editing_Help_Landmark
+MARKUP: [[SHDM::landmark_position=4]]
+	VALUE: 4 => String
+	DOMAIN PROPERTY: http://shdm#landmark_position
+	adding datatype property triple
+		http://swwiki/resource/Editing_Help_Landmark http://shdm#landmark_position 4
+MARKUP: [[SWWIKI::landmark_context->Help Pages]]
+	VALUE: http://swwiki/resource/Help_Pages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Editing_Help_Landmark http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context http://swwiki/resource/Help_Pages
+LANDMARK: http://swwiki/resource/Editing_Help_Landmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Editing_Help_Landmark
+MARKUP: [[SHDM::landmark_position=4]]
+	VALUE: 4 => String
+	DOMAIN PROPERTY: http://shdm#landmark_position
+	adding datatype property triple
+		http://swwiki/resource/Editing_Help_Landmark http://shdm#landmark_position 4
+MARKUP: [[SWWIKI::landmark_context->Help Pages]]
+	VALUE: http://swwiki/resource/Help_Pages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Editing_Help_Landmark http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context http://swwiki/resource/Help_Pages
+LANDMARK: http://swwiki/resource/Editing_Help_Landmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[RDF::type->HelpPage]]
+	VALUE: http://swwiki/resource/HelpPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/HelpPage
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+SAVING WIKI CONTENT FOR: http://sr#o_AlexMarquesPortela_4bba
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::Person, SR::Student, SR::AbstractWikiPage]
+SAVING WIKI CONTENT FOR: http://sr#o_AlexMarquesPortela_4bba
+MARKUP: [[RDF::type->Person]]
+	VALUE: Person => String
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	CREATING TARGET PAGE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Person
+	ADDING LABEL: Person
+	ADDING OBJECT TRIPLE: 
+  	http://sr#o_AlexMarquesPortela_4bba http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Person
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::Person, SR::Student, SR::AbstractWikiPage, SWWIKI::Person]
+SAVING WIKI CONTENT FOR: http://sr#o_ProjetoFinal_ead2
+MARKUP: [[RDF::type->MainPage]]
+	VALUE: MainPage => String
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	CREATING TARGET PAGE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+	ADDING LABEL: MainPage
+	ADDING OBJECT TRIPLE: 
+  	http://sr#o_ProjetoFinal_ead2 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+MARKUP: [[Grupos]]
+	VALUE: http://sr#o_Grupos_54c2 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_ProjetoFinal_ead2 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Grupos_54c2
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+SAVING WIKI CONTENT FOR: http://sr#o_SemanticWiki_56a8
+MARKUP: [[RDF::type->MainPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+MARKUP: [[Wiki]]
+	VALUE: http://sr#o_Wiki_4b39 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Wiki_4b39
+MARKUP: [[features of a Semantic Wiki]]
+	VALUE: http://sr#o_featuresofaSemanticW_1150 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_featuresofaSemanticW_1150
+MARKUP: [[scenarios for Semantic Wiki]]
+	VALUE: http://sr#o_scenariosforSemantic_b3c5 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_scenariosforSemantic_b3c5
+MARKUP: [[Semantic Wiki Meta Model]]
+	VALUE: http://sr#o_SemanticWikiMetaMode_9a82 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWikiMetaMode_9a82
+MARKUP: [[IkeWiki 2008.1]]
+	VALUE: http://sr#o_IkeWiki20081_2d9b => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_IkeWiki20081_2d9b
+MARKUP: [[Makna 2008.1]]
+	VALUE: http://sr#o_Makna20081_3038 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Makna20081_3038
+MARKUP: [[OntoWiki.2008.1]]
+	VALUE: http://sr#o_OntoWiki20081_d21b => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_OntoWiki20081_d21b
+MARKUP: [[OpenRecord 2008.1]]
+	VALUE: http://sr#o_OpenRecord20081_8f8a => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_OpenRecord20081_8f8a
+MARKUP: [[Semantic MediaWiki.2008.1]]
+	VALUE: http://sr#o_SemanticMediaWiki200_efac => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticMediaWiki200_efac
+MARKUP: [[SweetWiki]]
+	VALUE: http://sr#o_SweetWiki_f7d3 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SweetWiki_f7d3
+MARKUP: [[SWIFT@SeMediaWiki]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#SWIFT@SeMediaWiki => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#SWIFT@SeMediaWiki
+MARKUP: [[WikiOnt@SeMediaWiki]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#WikiOnt@SeMediaWiki => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#WikiOnt@SeMediaWiki
+MARKUP: [[Semantic Wiki Use Cases 2008.1]]
+	VALUE: http://sr#o_SemanticWikiUseCases_bb07 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SemanticWiki_56a8 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWikiUseCases_bb07
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+SAVING WIKI CONTENT FOR: http://sr#o_SocialSoftware_4244
+MARKUP: [[RDF::type->MainPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+MARKUP: [[Blogs]]
+	VALUE: http://sr#o_Blogs_9ab7 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Blogs_9ab7
+MARKUP: [[Wiki]]
+	VALUE: http://sr#o_Wiki_4b39 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Wiki_4b39
+MARKUP: [[Sites de comunidades]]
+	VALUE: http://sr#o_Sitesdecomunidades_2af1 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Sitesdecomunidades_2af1
+MARKUP: [[Desktop Semântico]]
+	VALUE: http://sr#o_DesktopSemntico_6d74 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_DesktopSemntico_6d74
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+SAVING WIKI CONTENT FOR: http://sr#o_SocialSoftware_4244
+MARKUP: [[RDF::type->MainPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+MARKUP: [[Blogs]]
+	VALUE: http://sr#o_Blogs_9ab7 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Blogs_9ab7
+MARKUP: [[Wiki]]
+	VALUE: http://sr#o_Wiki_4b39 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Wiki_4b39
+MARKUP: [[Sites de comunidades]]
+	VALUE: http://sr#o_Sitesdecomunidades_2af1 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Sitesdecomunidades_2af1
+MARKUP: [[Desktop Semântico]]
+	VALUE: http://sr#o_DesktopSemntico_6d74 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_SocialSoftware_4244 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_DesktopSemntico_6d74
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[Ontologies]]
+	VALUE: http://sr#o_Ontologies_5944 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Ontologies_5944
+MARKUP: [[Help Pages]]
+	VALUE: http://swwiki/resource/Help_Pages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Help_Pages
+MARKUP: [[Main Pages]]
+	VALUE: Main Pages => String
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	CREATING TARGET PAGE: http://swwiki/resource/Main_Pages
+	ADDING LABEL: Main Pages
+	ADDING OBJECT TRIPLE: 
+  	http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Main_Pages
+MARKUP: [[Inter Context Indexes]]
+	VALUE: http://swwiki/resource/Inter_Context_Indexes => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Inter_Context_Indexes
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages
+MARKUP: [[SHDM::context_query=SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}]]
+	VALUE: SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first} => String
+	DOMAIN PROPERTY: http://shdm#context_query
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages http://shdm#context_query SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}
+[RDFS::Resource, SHDM::Context, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages
+MARKUP: [[SHDM::context_query=SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}]]
+	VALUE: SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first} => String
+	DOMAIN PROPERTY: http://shdm#context_query
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages http://shdm#context_query SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}
+[RDFS::Resource, SHDM::Context, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages
+MARKUP: [[SHDM::context_query=SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}]]
+	VALUE: SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first} => String
+	DOMAIN PROPERTY: http://shdm#context_query
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages http://shdm#context_query SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}
+[RDFS::Resource, SHDM::Context, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages
+MARKUP: [[SHDM::context_query=SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}]]
+	VALUE: SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first} => String
+	DOMAIN PROPERTY: http://shdm#context_query
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages http://shdm#context_query SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}
+[RDFS::Resource, SHDM::Context, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages
+MARKUP: [[SHDM::context_title=Main Pages]]
+	VALUE: Main Pages => String
+	DOMAIN PROPERTY: http://shdm#context_title
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages http://shdm#context_title Main Pages
+MARKUP: [[SHDM::context_query=SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}]]
+	VALUE: SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first} => String
+	DOMAIN PROPERTY: http://shdm#context_query
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages http://shdm#context_query SWWIKI::MainPage.find_all.sort{|wp1, wp2| wp1.rdfs::label.to_a.first <=>wp2.rdfs::label.to_a.first}
+[RDFS::Resource, SHDM::Context, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[Ontologies]]
+	VALUE: http://sr#o_Ontologies_5944 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Ontologies_5944
+MARKUP: [[Help Pages]]
+	VALUE: http://swwiki/resource/Help_Pages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Help_Pages
+MARKUP: [[Main Pages]]
+	VALUE: Main Pages => String
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	CREATING TARGET PAGE: http://swwiki/resource/Main_Pages
+	ADDING LABEL: Main Pages
+	ADDING OBJECT TRIPLE: 
+  	http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Main_Pages
+MARKUP: [[Inter Context Indexes]]
+	VALUE: http://swwiki/resource/Inter_Context_Indexes => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Inter_Context_Indexes
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages
+MARKUP: [[SHDM::context_title=Main Pages]]
+	VALUE: Main Pages => String
+	DOMAIN PROPERTY: http://shdm#context_title
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages http://shdm#context_title Main Pages
+MARKUP: [[SHDM::context_query=SWWIKI::MainPage.find_all.sort{|a,b| a.rdfs::label.to_a.first.to_s <=> b.rdfs::label.to_a.first.to_s}]]
+	VALUE: SWWIKI::MainPage.find_all.sort{|a,b| a.rdfs::label.to_a.first.to_s <=> b.rdfs::label.to_a.first.to_s} => String
+	DOMAIN PROPERTY: http://shdm#context_query
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages http://shdm#context_query SWWIKI::MainPage.find_all.sort{|a,b| a.rdfs::label.to_a.first.to_s <=> b.rdfs::label.to_a.first.to_s}
+[RDFS::Resource, SHDM::Context, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[Ontologies]]
+	VALUE: http://sr#o_Ontologies_5944 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Ontologies_5944
+MARKUP: [[Help Pages]]
+	VALUE: http://swwiki/resource/Help_Pages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Help_Pages
+MARKUP: [[Main Pages]]
+	VALUE: Main Pages => String
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	CREATING TARGET PAGE: http://swwiki/resource/Main_Pages
+	ADDING LABEL: Main Pages
+	ADDING OBJECT TRIPLE: 
+  	http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Main_Pages
+MARKUP: [[Inter Context Indexes]]
+	VALUE: http://swwiki/resource/Inter_Context_Indexes => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Inter_Context_Indexes
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages
+MARKUP: [[SHDM::context_query=SWWIKI::MainPage.find_all]]
+	VALUE: SWWIKI::MainPage.find_all => String
+	DOMAIN PROPERTY: http://shdm#context_query
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages http://shdm#context_query SWWIKI::MainPage.find_all
+[RDFS::Resource, SHDM::Context, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[OntologyLandmark]]
+	VALUE: http://swwiki/resource/OntologyLandmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/OntologyLandmark
+MARKUP: [[Editing Help Landmark]]
+	VALUE: http://swwiki/resource/Editing_Help_Landmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Editing_Help_Landmark
+MARKUP: [[Main Pages Landmark]]
+	VALUE: Main Pages Landmark => String
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	CREATING TARGET PAGE: http://swwiki/resource/Main_Pages_Landmark
+	ADDING LABEL: Main Pages Landmark
+	ADDING OBJECT TRIPLE: 
+  	http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Main_Pages_Landmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages_Landmark
+MARKUP: [[SHDM::landmark_position=0]]
+	VALUE: 0 => String
+	DOMAIN PROPERTY: http://shdm#landmark_position
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages_Landmark http://shdm#landmark_position 0
+MARKUP: [[SWWIKI::landmark_context->MainPages]]
+	VALUE: MainPages => String
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context
+	CREATING TARGET PAGE: http://swwiki/resource/MainPages
+	ADDING LABEL: MainPages
+	ADDING OBJECT TRIPLE: 
+  	http://swwiki/resource/Main_Pages_Landmark http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context http://swwiki/resource/MainPages
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[OntologyLandmark]]
+	VALUE: http://swwiki/resource/OntologyLandmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/OntologyLandmark
+MARKUP: [[Editing Help Landmark]]
+	VALUE: http://swwiki/resource/Editing_Help_Landmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Editing_Help_Landmark
+MARKUP: [[Main Pages Landmark]]
+	VALUE: Main Pages Landmark => String
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	CREATING TARGET PAGE: http://swwiki/resource/Main_Pages_Landmark
+	ADDING LABEL: Main Pages Landmark
+	ADDING OBJECT TRIPLE: 
+  	http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Main_Pages_Landmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages_Landmark
+MARKUP: [[SHDM::landmark_position=0]]
+	VALUE: 0 => String
+	DOMAIN PROPERTY: http://shdm#landmark_position
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages_Landmark http://shdm#landmark_position 0
+MARKUP: [[SWWIKI::landmark_context->MainPages]]
+	VALUE: http://swwiki/resource/MainPages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Main_Pages_Landmark http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context http://swwiki/resource/MainPages
+LANDMARK: http://swwiki/resource/Main_Pages_Landmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Main_Pages_Landmark
+MARKUP: [[SHDM::landmark_position=0]]
+	VALUE: 0 => String
+	DOMAIN PROPERTY: http://shdm#landmark_position
+	adding datatype property triple
+		http://swwiki/resource/Main_Pages_Landmark http://shdm#landmark_position 0
+MARKUP: [[SWWIKI::landmark_context->Main Pages]]
+	VALUE: http://swwiki/resource/Main_Pages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Main_Pages_Landmark http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#landmark_context http://swwiki/resource/Main_Pages
+LANDMARK: http://swwiki/resource/Main_Pages_Landmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage]
+SAVING WIKI CONTENT FOR: http://sr#o_Main_ec57
+MARKUP: [[RDF::type->MainPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+MARKUP: [[Semantic Wiki]]
+	VALUE: http://sr#o_SemanticWiki_56a8 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWiki_56a8
+MARKUP: [[Social Software]]
+	VALUE: http://sr#o_SocialSoftware_4244 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SocialSoftware_4244
+MARKUP: [[Projeto Final]]
+	VALUE: http://sr#o_ProjetoFinal_ead2 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_ProjetoFinal_ead2
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+SAVING WIKI CONTENT FOR: http://sr#o_Main_ec57
+MARKUP: [[RDF::type->MainPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+MARKUP: [[Semantic Wiki]]
+	VALUE: http://sr#o_SemanticWiki_56a8 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWiki_56a8
+MARKUP: [[Social Software]]
+	VALUE: http://sr#o_SocialSoftware_4244 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SocialSoftware_4244
+MARKUP: [[Projeto Final]]
+	VALUE: http://sr#o_ProjetoFinal_ead2 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_ProjetoFinal_ead2
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+SAVING WIKI CONTENT FOR: http://sr#o_Main_ec57
+MARKUP: [[RDF::type->MainPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#MainPage
+MARKUP: [[Semantic Wiki]]
+	VALUE: http://sr#o_SemanticWiki_56a8 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWiki_56a8
+MARKUP: [[Social Software]]
+	VALUE: http://sr#o_SocialSoftware_4244 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SocialSoftware_4244
+MARKUP: [[Projeto Final]]
+	VALUE: http://sr#o_ProjetoFinal_ead2 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://sr#o_Main_ec57 http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_ProjetoFinal_ead2
+[RDFS::Resource, SWWIKI::WikiPage, SR::AbstractModel, SR::Node, SR::WikiPage, SR::AbstractWikiPage, SWWIKI::MainPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[RDF::type->HelpPage]]
+	VALUE: http://swwiki/resource/HelpPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/HelpPage
+MARKUP: [[RDF::type->InterContext]]
+	VALUE: http://swwiki/resource/InterContext => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/InterContext
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKIRES::InterContext, SWWIKIRES::HelpPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[RDF::type->HelpPage]]
+	VALUE: http://swwiki/resource/HelpPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/HelpPage
+MARKUP: [[RDF::type->InterContext]]
+	VALUE: http://swwiki/resource/InterContext => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/InterContext
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKIRES::InterContext, SWWIKIRES::HelpPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[RDF::type->HelpPage]]
+	VALUE: http://swwiki/resource/HelpPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/HelpPage
+MARKUP: [[RDF::type->InterContext]]
+	VALUE: http://swwiki/resource/InterContext => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/InterContext
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKIRES::InterContext, SWWIKIRES::HelpPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[RDF::type->HelpPage]]
+	VALUE: http://swwiki/resource/HelpPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/HelpPage
+MARKUP: [[Semantic Web Applications]]
+	VALUE: http://sr#o_SemanticWebApplicati_320f => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWebApplicati_320f
+MARKUP: [[True Knowledge]]
+	VALUE: http://sr#o_TrueKnowledge_fb71 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_TrueKnowledge_fb71
+MARKUP: [[True Knowledge]]
+	VALUE: http://sr#o_TrueKnowledge_fb71 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_TrueKnowledge_fb71
+MARKUP: [[Semantic Web Applications]]
+	VALUE: http://sr#o_SemanticWebApplicati_320f => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWebApplicati_320f
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKIRES::InterContext, SWWIKIRES::HelpPage]
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[Navigation Editing Help]]
+	VALUE: http://swwiki/resource/Navigation_Editing_Help => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[OntologyLandmark]]
+	VALUE: http://swwiki/resource/OntologyLandmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/OntologyLandmark
+MARKUP: [[Editing Help Landmark]]
+	VALUE: http://swwiki/resource/Editing_Help_Landmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Editing_Help_Landmark
+MARKUP: [[Main Pages Landmark]]
+	VALUE: http://swwiki/resource/Main_Pages_Landmark => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Landmarks http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Main_Pages_Landmark
+[RDFS::Resource, SHDM::Landmark, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[Navigation Editing Help]]
+	VALUE: http://swwiki/resource/Navigation_Editing_Help => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[Ontologies]]
+	VALUE: http://sr#o_Ontologies_5944 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_Ontologies_5944
+MARKUP: [[Help Pages]]
+	VALUE: http://swwiki/resource/Help_Pages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Help_Pages
+MARKUP: [[Main Pages]]
+	VALUE: http://swwiki/resource/Main_Pages => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Main_Pages
+MARKUP: [[Inter Context Indexes]]
+	VALUE: http://swwiki/resource/Inter_Context_Indexes => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#Contexts http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Inter_Context_Indexes
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKI::ConfigPage, SWWIKIRES::Config]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Inter_Context_Indexes
+MARKUP: [[RDF::type->ConfigPage]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Inter_Context_Indexes http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ConfigPage
+MARKUP: [[Navigation Editing Help]]
+	VALUE: http://swwiki/resource/Navigation_Editing_Help => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Inter_Context_Indexes http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[DescribedAppsInterContext]]
+	VALUE: http://swwiki/resource/DescribedAppsInterContext => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Inter_Context_Indexes http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/DescribedAppsInterContext
+MARKUP: [[Topic Index]]
+	VALUE: http://swwiki/resource/Topic_Index => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Inter_Context_Indexes http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Topic_Index
+MARKUP: [[Test Index]]
+	VALUE: http://swwiki/resource/Test_Index => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Inter_Context_Indexes http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://swwiki/resource/Test_Index
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKI::ConfigPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Navigation_Editing_Help
+
+MARKUP: [[RDF::type->HelpPage]]
+	VALUE: http://swwiki/resource/HelpPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help
+ http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/HelpPage
+MARKUP: [[Semantic Web Applications]]
+	VALUE: http://sr#o_SemanticWebApplicati_320f => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help
+ http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWebApplicati_320f
+MARKUP: [[True Knowledge]]
+	VALUE: http://sr#o_TrueKnowledge_fb71 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help
+ http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_TrueKnowledge_fb71
+MARKUP: [[True Knowledge]]
+	VALUE: http://sr#o_TrueKnowledge_fb71 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help
+ http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_TrueKnowledge_fb71
+MARKUP: [[Semantic Web Applications]]
+	VALUE: http://sr#o_SemanticWebApplicati_320f => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help
+ http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWebApplicati_320f
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKIRES::HelpPage]
+SAVING WIKI CONTENT FOR: http://swwiki/resource/Navigation_Editing_Help
+MARKUP: [[RDF::type->HelpPage]]
+	VALUE: http://swwiki/resource/HelpPage => RDFS::Resource
+	DOMAIN PROPERTY: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://swwiki/resource/HelpPage
+MARKUP: [[Semantic Web Applications]]
+	VALUE: http://sr#o_SemanticWebApplicati_320f => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWebApplicati_320f
+MARKUP: [[True Knowledge]]
+	VALUE: http://sr#o_TrueKnowledge_fb71 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_TrueKnowledge_fb71
+MARKUP: [[True Knowledge]]
+	VALUE: http://sr#o_TrueKnowledge_fb71 => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_TrueKnowledge_fb71
+MARKUP: [[Semantic Web Applications]]
+	VALUE: http://sr#o_SemanticWebApplicati_320f => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso
+	ADDING EXISTENT OBJECT TRIPLE
+		http://swwiki/resource/Navigation_Editing_Help http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#wikiSeeAlso http://sr#o_SemanticWebApplicati_320f
+[RDFS::Resource, SWWIKI::WikiPage, SWWIKIRES::HelpPage]

@@ -35,9 +35,13 @@ def value_has_namespace?(value_to_verify)
   
 end
 
-def create_local_uri_for_resource(resource_label)
+def create_local_uri_for_resource(resource_label, is_class)
 
-  ActiveRDF::Namespace.expand(SWWIKIRES.prefix, resource_label.gsub(" ", "_"))    
+  if !is_class
+    ActiveRDF::Namespace.expand(SWWIKIRES.prefix, resource_label.gsub(" ", "_"))    
+  else
+    ActiveRDF::Namespace.expand(SWWIKI.prefix, resource_label.gsub(" ", "_"))    
+  end
   
 end
 
@@ -112,7 +116,7 @@ def handle_object_property_value(source_page, object_property, value)
       elsif value_has_namespace?(value)
         eval("#{value}.uri")
       else
-        create_local_uri_for_resource(value)
+        create_local_uri_for_resource(value, (object_property == RDF::type))
       end        
       
     target_page = create_empty_wikipage(target_uri, value)
@@ -161,16 +165,24 @@ def replace_for_property_with_namespace(domain_property, markup, wikitext)
 end
 
 def handle_landmark(landmark_page, context_page)
+
+  
+
   nav_attr_hash = {
-    :context_anchor_navigation_attribute_target_context => context_page,
-    :context_anchor_navigation_attribute_label_expression => "'#{context_page.shdm::context_title.to_s}'"
+    :context_anchor_navigation_attribute_target_context => context_page    
   }
+  
+  nav_attr_hash[:context_anchor_navigation_attribute_label_expression] = "'#{context_page.shdm::context_title.to_s}'"
+  
+  if (context_page.shdm::context_title.to_s.empty?)  
+    nav_attr_hash[:context_anchor_navigation_attribute_label_expression] = "'#{context_page.swwiki::wikiLabel.to_s}'"
+  end
   
   nav_attr = SHDM::ContextAnchorNavigationAttribute.create(nav_attr_hash).save
   landmark_page.rdf::type.to_a << SHDM::Landmark
   
   landmark_page.shdm::landmark_navigation_attribute = nav_attr
-  
+  landmark_page.shdm::landmark_name = landmark_page.rdfs::label.to_a.first
   
   landmark_page.save
   log_save("LANDMARK: #{landmark_page.uri}")
