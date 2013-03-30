@@ -60,7 +60,7 @@ class InContextClassesController < ApplicationController
     #put anyContext on the first place
     anyContext = @contexts.delete(SHDM::anyContext)
     @contexts  = @contexts.map{ |v| [ v.context_name.first, v.uri ] }
-    # @contexts  = @contexts.sort{ |a,b| a.first <=> b.first }
+    @contexts  = @contexts.sort{ |a,b| a.first <=> b.first }
     @contexts.insert(0, [anyContext.context_name.first, anyContext.uri]) unless anyContext.nil?
         
   end
