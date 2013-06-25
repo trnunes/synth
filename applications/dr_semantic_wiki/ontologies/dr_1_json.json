@@ -1,0 +1,103 @@
+
+{
+    "questions": [
+        {
+        "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_medir_a_pressao_no_fundo_do_poco",    
+        "rdf::type": ["DR::Questao"],
+        "swwiki::wikiLabel": "Como medir a pressão no fundo do poço?",
+        "dr::ehRespondidaPor": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt","http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg"]               
+        },
+        
+        {
+        "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_usar_esta_tecnica",
+        "rdf::type": ["DR::Questao"],
+        "swwiki::wikiLabel": "Como usar esta técnica?",
+        "dr::ehRespondidaPor": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Extrapolar_pressao_da_TPT"]        
+        }
+    ],
+    
+    "ideas":[
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt",
+            "rdf::type": ["DR::Ideia"],
+            "swwiki::wikiLabel": "TPT",
+            "dr::sugere": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_usar_esta_tecnica"]
+        },
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg",
+            "rdf::type": ["DR::Ideia"],
+            "swwiki::wikiLabel": "TPT+PDG"           
+        },
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Extrapolar_pressao_da_TPT",
+            "rdf::type": ["DR::Ideia"],
+            "swwiki::wikiLabel": "Extrapolar pressão da TPT"
+            
+        }
+        
+    ],
+    "decisions":[
+    	{
+			"uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1",
+			"rdf::type": ["DR::Decisao"],
+			"dr::aceita": false,
+			"swwiki::wikiLabel": "Rejeitar TPT",
+			"dr::resolve": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_medir_a_pressao_no_fundo_do_poco"],
+			"dr::usa": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt"]
+		},
+		{
+			"uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2",
+			"rdf::type": ["DR::Decisao"],
+			"dr::aceita": true,
+			"swwiki::wikiLabel": "Aceitar TPT+PDG",
+			"dr::resolve": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_medir_a_pressao_no_fundo_do_poco"],
+			"dr::usa": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg"]
+		}
+	],
+    "arguments":[
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#TPT_subestima_II_e_superestima_RD",
+            "swwiki::wikiLabel": "TPT subestima II e superestima RD",
+			"rdf::type": ["DR::Argumento"],
+            "dr::contra":["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Extrapolar_pressao_da_TPT"]
+        },
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Aumenta_incerteza_na_caracterizacao_de_reservatorios",
+			"rdf::type": ["DR::Argumento"],
+            "swwiki::wikiLabel": "Aumenta incerteza na caracterização de reservatórios",
+            "dr::contra":["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Extrapolar_pressao_da_TPT"]
+            
+        },
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Menor_custo_de_equipamento_e_de_instalação",
+            "rdf::type": ["DR::Argumento"],
+			"swwiki::wikiLabel": "Menor custo de equipamento e de instalação",
+            "dr::aFavor":["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Extrapolar_pressao_da_TPT"]
+        },
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Menor_risco_operacional",
+			"rdf::type": ["DR::Argumento"],
+            "swwiki::wikiLabel": "Menor risco operacional",
+            "dr::aFavor":["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Extrapolar_pressao_da_TPT"]
+        },
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Economia_de_tempo",
+			"rdf::type": ["DR::Argumento"],
+            "swwiki::wikiLabel": "Economia de tempo",
+            "dr::aFavor":["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Extrapolar_pressao_da_TPT"]
+        },
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Fornece_grafico_diagnostico_bem_definido",
+			"rdf::type": ["DR::Argumento"],
+            "swwiki::wikiLabel": "Fornece gráfico diagnóstico bem definido",
+			"dr::aFavor":["http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg"]
+        },
+        {
+            "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#E_compativel_com_altas_permeabilidades",
+			"rdf::type": ["DR::Argumento"],
+            "swwiki::wikiLabel": "É compatível com altas permeabilidades",
+			"dr::aFavor":["http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg"]
+        }        
+        
+    ]
+}   

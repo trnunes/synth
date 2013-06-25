@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtmlR" xml:lang="en">
+<head>
+<title><%= @context.context_title %></title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="/execute/css/aqueous" type="text/css" media="screen,projection" />
+<link rel="stylesheet" href="/execute/css/wikipedia" type="text/css" media="all" />
+
+<%= javascript_include_tag 'jquery/jquery-1.4.2.min.js' %>
+
+</head>
+
+ 
+<body>
+
+  <div id="wrapper">
+    <div id="innerwrapper">
+      <div id="wikibanner">
+
+        <%= image_tag("semWikiLogo.png" ) %>
+        
+      </div>	      
+      <%= include 'Header' %>    
+    <%= include 'ContextSideBar' %>
+    
+      <div id="contentnorightbar">
+
+        <div class="noprint" id="mw-head">
+          <div id="left-navigation">
+            <!-- 0 -->
+            <div class="vectorTabs" id="p-namespaces">
+              <h5>Namespaces</h5>
+              <ul>
+                <li class="selected" id="ca-nstab-main">
+                  <span><a accesskey="c" title="View the content page [alt-shift-c]" href="/wiki_page/under_construction">Article</a></span>
+                </li>          
+              </ul>            
+            </div>
+            <!-- /0 -->
+          </div>
+
+          <div id="right-navigation">
+          <!-- 0 -->
+            <div class="vectorTabs" id="p-views">
+
+              <h5>Views</h5>
+              <ul>
+                <li id="ca-view">
+                  <span><a href="/wiki_page/new">New</a><br></span>
+                </li>
+                <li id="ca-view">
+                  <span><a href="<%= @current_node.anchor.target_url + '&interface_name=GraphVisualization&widget=forced_directed' %>">Graph View</a></span>
+                </li>
+                <li id="ca-view">
+                  <span><a href="<%= @current_node.anchor.target_url + '&interface_name=GraphVisualization&widget=spacetree' %>">Tree View</a></span>
+                </li>
+                <li id="ca-edit">
+                  <span>                    
+                    <a href="<%= @current_node.anchor.target_url + '&interface_name=EditWikiPage' %>">Edit</a><br>
+                  </span>
+                </li>
+              </ul>
+
+            </div>
+          <!-- /0 -->
+
+          </div>
+        </div>
+        
+        <div id="interctx">   
+          <%= include "ContextRightBar" %>
+        </div>
+        
+        <p style="margin-top: 0px; padding-top: 0px;">
+          <%if !@current_node.previous_node.nil?%>
+            <%= 
+              link_to("<< Previous", @current_node.previous_node_anchor.target_url, 
+                      :title => @current_node.previous_node_anchor.label, :style => "float: left;")
+            %>
+          <%end%>
+          <%if !@current_node.next_node.nil?%>      
+            <%= 
+              link_to("Next >>", @current_node.next_node_anchor.target_url, 
+                      :title => @current_node.next_node_anchor.label, :style => "float: right;")
+            %>
+          <%end%>
+        </p>
+        
+        <div class="noprint" id="mw-head-base"></div>
+        
+        <div id="content">        
+          
+          <%= Operations.to_html({:wikipageuri => @current_node.uri }) %>
+          <% unless @current_node.swwiki::hasAttachment.to_a.empty? then %>
+            <%=include "Attachment"%>
+          <% end %>
+          
+        </div>
+
+      </div>
+    <%= include 'Footer' %>
+    </div>
+  </div>
+</body>
+</html>

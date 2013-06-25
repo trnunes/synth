@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Spacetree - Tree Animation</title>
+<link rel="stylesheet" href="/execute/css/aqueous" type="text/css" media="screen,projection" />
+<link rel="stylesheet" href="/execute/css/wikipedia" type="text/css" media="all" />
+
+<%= javascript_include_tag 'jquery/jquery-1.4.2.min.js' %>
+
+<!-- CSS Files -->
+<%= stylesheet_link_tag 'css/base.css' %>
+<% if params[:widget] == "forced_directed" %>
+	<%= stylesheet_link_tag 'css/ForceDirected.css' %>
+<%else%>
+	<%= stylesheet_link_tag 'css/Spacetree.css' %>
+<%end%>
+<!--[if IE]><script language="javascript" type="text/javascript" src="../../Extras/excanvas.js"></script><![endif]-->
+
+<!-- JIT Library File -->
+<%= javascript_include_tag 'Jit/jit.js' %>
+<!-- Example File -->
+<% if params[:widget] == "forced_directed" %>
+	<%= javascript_include_tag 'Jit/Examples/ForceDirected/example2.js' %>
+<%else%>
+	<%= javascript_include_tag 'Jit/Examples/Spacetree/example1.js' %>
+<%end%>
+
+</head>
+
+<body onload="init();">
+  <div id="wrapper">
+    <div id="innerwrapper">
+      <div id="wikibanner">
+
+        <%= image_tag("semWikiLogo.png" ) %>
+        
+      </div>	      
+      <%= include 'Header' %>    
+    <%= include 'WikiPageContextSideBar' %>
+    
+      <div id="contentnorightbar">
+
+        <div class="noprint" id="mw-head">
+          <div id="left-navigation">
+            <!-- 0 -->
+            <div class="vectorTabs" id="p-namespaces">
+              <h5>Namespaces</h5>
+              <ul>
+                <li class="selected" id="ca-nstab-main">
+                  <span><a accesskey="c" title="View the content page [alt-shift-c]" href="/wiki_page/under_construction">Visualização Gráfica</a></span>
+                </li>          
+              </ul>            
+            </div>
+            <!-- /0 -->
+          </div>
+
+          <div id="right-navigation">
+          <!-- 0 -->
+            <div class="vectorTabs" id="p-views">
+
+              <h5>Views</h5>
+              <ul>               
+                <li id="ca-edit">
+                  <span>                    
+                    <a href="<%= @current_node.anchor.target_url + '&interface_name=EditWikiPage' %>">Editar Nó</a><br>
+                  </span>
+                </li>
+                <li id="ca-view">
+                	
+                  <span><a href="<%= @current_node.anchor.target_url %>" onclick="location.href=current_node_in_graph;return false;">Ver Artigo</a><br></span>
+                </li>
+              </ul>
+
+            </div>
+          <!-- /0 -->
+
+          </div>
+        </div>
+        
+       
+        
+        <p style="margin-top: 0px; padding-top: 0px;">
+          <%if !@current_node.previous_node.nil?%>
+            <%= 
+              link_to("<< Previous", @current_node.previous_node_anchor.target_url, 
+                      :title => @current_node.previous_node_anchor.label, :style => "float: left;")
+            %>
+          <%end%>
+          <%if !@current_node.next_node.nil?%>      
+            <%= 
+              link_to("Next >>", @current_node.next_node_anchor.target_url, 
+                      :title => @current_node.next_node_anchor.label, :style => "float: right;")
+            %>
+          <%end%>
+        </p>
+        
+        <div class="noprint" id="mw-head-base"></div>
+        
+        <div id="content">
+        		<div id="inner-details"></div>
+        		<% if params[:widget] == "forced_directed" %>
+					<script> var json_string = <%=Operations.to_infovis_json({:reasoning_element_uri=>@current_node.uri, :current_url=>@current_node.anchor.target_url}) %> </script>	
+				<%else%>
+					<script> var json_string = <%=Operations.to_infovis_spacetree({:reasoning_element_uri=>@current_node.uri, :current_url=>@current_node.anchor.target_url}) %> </script>
+				<%end%>
+				
+				
+				<script> var current_node_in_graph = <%=@current_node.uri%> </script>
+			    <div id="infovis"></div>    
+
+			
+            <label for="s-normal">Normal </label>
+            <input type="hidden" id="s-normal" name="selection" checked="checked" value="normal" />
+            <label for="s-root">Set as Root </label>
+            <input type="hidden" id="s-root" name="selection" value="root" />			
+			
+          
+        </div>
+
+      </div>
+    <%= include 'Footer' %>
+    </div>
+  </div>
+</body>
+<script>
+</script>
+</html>
