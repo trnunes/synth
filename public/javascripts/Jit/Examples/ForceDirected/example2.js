@@ -59,7 +59,8 @@ function init(){
       dim: 20
     },
     Edge: {
-      overridable: true,      
+      overridable: true,
+	  type: "line",
       lineWidth: 3
     },
     // Add node events

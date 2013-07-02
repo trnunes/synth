@@ -1,0 +1,1584 @@
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Sugeriraocadastrador_fbf0
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio, DR::AbstractModel, DR::Node, DR::RdfResource]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://dbpedia.org/resource/Decidido_sugerir_ao_cadastrador_que_faça_nova_determinação_para_o_item
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://sr#o_Sugeriraocadastrador_fbf0
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio, DR::AbstractModel, DR::Node, DR::RdfResource]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://dbpedia.org/resource/Decidido_sugerir_ao_cadastrador_que_faça_nova_determinação_para_o_item
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sensores_de_pressao_de_fundo
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Historico_de_testes_de_pressoes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Indicador_do_Indice_de_Injetividade
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Indicador_do_Indice_de_Injetividade
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Extrapolar_pressao_da_TPT
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Indicador_do_Indice_de_Injetividade
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sensores_de_pressao_de_fundo
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Historico_de_testes_de_pressoes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Extrapolar_pressao_da_TPT
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Captar_agua_proxima_ao_injetor_e_fazer_tratamento_minimo
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Captar_agua_proxima_ao_injetor_e_fazer_tratamento_minimo
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Captar_agua_proxima_ao_injetor_e_fazer_tratamento_minimo
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Entrada_de_líquido_atraves_dos_vents_atmosfericos_dos_selos_interligados_com_os_vents_de_outros_sistemas_da_plataf
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Economia
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Ma_execucao
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Mau_planejamento
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Entrada_de_líquido_atraves_dos_vents_atmosfericos_dos_selos_interligados_com_os_vents_de_outros_sistemas_da_plataf
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Entrada_de_líquido_atraves_dos_vents_atmosfericos_dos_selos_interligados_com_os_vents_de_outros_sistemas_da_plataf
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causas_de_Vibracao
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Ma_execucao_do_comissionamento
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Bom_acompanhamento
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causas_de_Vibracao
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Ma_execucao_do_comissionamento
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Bom_acompanhamento
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Usar_dados_de_pressao_na_cabeca_e_vazao_de_injecao
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Usar_dados_de_pressao_na_cabeca_e_vazao_de_injecao
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_produtos_de_corrosao_e_incrustacao_nos_impelidores
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Usar_dados_de_pressao_na_cabeca_e_vazao_de_injecao
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_produtos_de_corrosao_e_incrustacao_nos_impelidores
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Fadiga_termica
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Fadiga_termica
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Trinca_no_interior_do_trocador
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causas_de_trincas
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Esforcos_cíclicos_devido_a_pulsacao_de_gas
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Parada_de_bombas_durante_paradas_dos_TC
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Fadiga_termica
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Fadiga_termica
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Trinca_no_interior_do_trocador
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Furos_nas_placas_trincas_em_soldas_danos_as_gaxetas
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Trinca_no_interior_do_trocador
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Furos_nas_placas_trincas_em_soldas_danos_as_gaxetas
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Trinca_no_interior_do_trocador
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Indicador_do_Indice_de_Injetividade
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sensores_de_pressao_de_fundo
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Historico_de_testes_de_pressoes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+target classes: [SWWIKI::WikiPage, DR::Decisao]
+target_resource class: DR::Decisao
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Boroscopia_negativa
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor
+target classes: [SWWIKI::WikiPage, DR::ElementoDeRaciocinio, DR::Questao]
+target_resource class: DR::ElementoDeRaciocinio
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Presenca_de_material_solido
+target classes: [SWWIKI::WikiPage, DR::Argumento, DR::ElementoDeRaciocinio]
+target_resource class: DR::Argumento
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d
+target_resource: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+target classes: [SWWIKI::WikiPage, DR::Ideia, DR::ElementoDeRaciocinio]
+target_resource class: DR::Ideia
+target_resource context: http://base#2305df20-e07f-11df-aab6-00264afffe1d

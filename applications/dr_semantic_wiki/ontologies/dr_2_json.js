@@ -26,8 +26,8 @@
         {
             "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection",
             "rdf::type": ["DR::Ideia"],
-            "swwiki::wikiLabel": "Raw Water Injection"
-			"dr::sugere": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_usar_esta_tecnica2"]
+            "swwiki::wikiLabel": "Raw Water Injection",
+    		"dr::sugere": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_usar_esta_tecnica2"]
         },
         {
             "uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Captar_agua_proxima_ao_injetor_e_fazer_tratamento_minimo",
@@ -42,6 +42,7 @@
 			"uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3",
 			"rdf::type": ["DR::Decisao"],
 			"dr::aceita": false,
+			"swwiki::wikiLabel": "Rejeitar Sistema Convencional",
 			"dr::resolve": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora"],
 			"dr::usa": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional"]
 		},
@@ -49,7 +50,8 @@
 			"uri":"http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4",
 			"rdf::type": ["DR::Decisao"],
 			"dr::aceita": true,
-			"dr::resolve": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_medir_a_pressao_no_fundo_do_poco"],
+			"swwiki::wikiLabel": "Aceitar Raw Water Injection",
+			"dr::resolve": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora"],
 			"dr::usa": ["http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection"]
 		}
 	],

@@ -17,30 +17,35 @@ def build_adjacency(node, edge_color)
 end
 @nodes = []
 
-def build_json(element, context_url)
+def build_json(element, context_url, relation)
   
   link_type = "default"
   type = "ReasoningElement"
   adjacents = []
   data = ''
   if element.classes.include?(DR::Questao)    
-      if(element.classes.include?(@pivot_class))    
+      if(element.classes.include?(@pivot_class)||(relation == "sugere"))    
         adjacents = element.dr::ehRespondidaPor.to_a.map{|idea| 
           [idea, "responde a", '#F7E808', @idea_by_question_ctx, @idea_by_question_param]
         }
-    end
+      end
            
     type = "Questão"
     data = ', "$color": "#2409D4","$type": "rectangle"'
     
   elsif element.classes.include?(DR::Ideia)
     if(@pivot_class != DR::Argumento)
+      
       adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument| 
-        [in_favor_argument, "argumentos a favor", '#0B9E0B', @in_favor_by_idea_ctx, @argument_by_idea_param]
+        [in_favor_argument, "argumentos a favor", '#0B9E0B', @in_favor_by_idea_ctx, @argument_by_idea_param]        
       }
       
       adjacents += element.dr::contrariadaPor.to_a.map{|against_argument| 
         [against_argument, "argumentos contra", '#E50E0E', @against_by_idea_ctx, @argument_by_idea_param]
+      }
+      
+      adjacents += element.dr::sugere.to_a.map{|suggested_element|
+        [suggested_element, "sugere", '#ccb', @against_by_idea_ctx, @argument_by_idea_param]
       }
     end
     
@@ -75,7 +80,7 @@ def build_json(element, context_url)
   if(!adjacents.empty?)
     json_adjacencies = adjacents.map{|adj_and_link_type|
       url = "/execute/context/#{CGI::escape(adj_and_link_type[3].uri)}?node=#{CGI::escape(adj_and_link_type[0].uri)}&#{CGI::escape(adj_and_link_type[4] + element.uri)}"    
-      build_json(adj_and_link_type[0], url)
+      build_json(adj_and_link_type[0], url, adj_and_link_type[1])
       build_adjacency(adj_and_link_type[0], adj_and_link_type[2]){adj_and_link_type[1]}
     }.join(",")
   end
@@ -89,5 +94,5 @@ end
 
 reasoning_element = DR::ReasoningElement.new(reasoning_element_uri)
 @pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first
-build_json(reasoning_element, @current_url)
+build_json(reasoning_element, @current_url, "no_relation")
 return "[#{@nodes.join(',')}]"
