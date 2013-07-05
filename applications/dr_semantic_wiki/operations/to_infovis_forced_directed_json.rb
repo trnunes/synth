@@ -10,9 +10,9 @@
 
 @current_url = current_url
 
-def build_adjacency(node, edge_color)
+def build_adjacency(node, data)
   adj_string = '{"nodeTo": "' + node.uri +  '",'
-  adj_string << '"data": {"link_type": "' + yield + '", "$color": "' + edge_color +'"}'
+  adj_string << '"data": {' + data + '}'
   adj_string << '}'  
 end
 @nodes = []
@@ -24,9 +24,16 @@ def build_json(element, context_url, relation)
   adjacents = []
   data = ''
   if element.classes.include?(DR::Questao)    
-      if(element.classes.include?(@pivot_class)||(relation == "sugere"))    
-        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea| 
-          [idea, "responde a", '#F7E808', @idea_by_question_ctx, @idea_by_question_param]
+      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))            
+        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|
+          link_data = '"link_type": "responde a", "$color": "#F7E808"'
+          decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, element).where(:p, DR::usa, idea).execute.first
+          File.open("log/decisions.txt", 'w'){|f|f.write("DECISION: #{decision.to_s}")} 
+          if decision && (decision.dr::aceita.to_s == "true")
+            link_data << ', "decision": true'
+          end
+         
+          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]
         }
       end
            
@@ -36,35 +43,43 @@ def build_json(element, context_url, relation)
   elsif element.classes.include?(DR::Ideia)
     if(@pivot_class != DR::Argumento)
       
-      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument| 
-        [in_favor_argument, "argumentos a favor", '#0B9E0B', @in_favor_by_idea_ctx, @argument_by_idea_param]        
+      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|
+         
+        link_data = '"link_type": "argumentos a favor", "$color": "#0B9E0B"'
+        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        
       }
       
-      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument| 
-        [against_argument, "argumentos contra", '#E50E0E', @against_by_idea_ctx, @argument_by_idea_param]
+      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|
+        link_data = '"link_type": "argumentos contra", "$color": "#E50E0E"' 
+        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]
       }
       
       adjacents += element.dr::sugere.to_a.map{|suggested_element|
-        [suggested_element, "sugere", '#ccb', @against_by_idea_ctx, @argument_by_idea_param]
+        link_data = '"link_type": "sugere", "$color": "#ccb"'
+        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]
       }
     end
     
     if(@pivot_class != DR::Questao)
-      adjacents += element.dr::responde.to_a.map{|question| 
-        [question, "responde", '#2409D4', @question_by_idea, @argument_by_idea_param]
-      } 
-    end
-    
+      adjacents += element.dr::responde.to_a.map{|question|
+        link_data = '"link_type": "responde", "$color": "#2409D4"'
+                
+        
+        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]
+      }
+    end    
     type = "Idéia"
     data = ', "$color": "#F7E808","$type": "star"'
   elsif element.classes.include?(DR::Argumento)
     
     if(element.classes.include?(@pivot_class))
-      adjacents = element.dr::contra.to_a.map{|idea| 
-        [idea, "contra", '#E50E0E', @against_by_idea_ctx, @argument_by_idea_param]
+      adjacents = element.dr::contra.to_a.map{|idea|
+        link_data = '"link_type": "contra", "$color": "#E50E0E"'  
+        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]
       }
-      adjacents += element.dr::aFavor.to_a.map{|idea| 
-        [idea, "a favor", '#0B9E0B', @against_by_idea_ctx, @argument_by_idea_param]
+      adjacents += element.dr::aFavor.to_a.map{|idea|
+        link_data = '"link_type": "a favor", "$color": "#0B9E0B"'
+        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]
       }
     end
     
@@ -81,7 +96,7 @@ def build_json(element, context_url, relation)
     json_adjacencies = adjacents.map{|adj_and_link_type|
       url = "/execute/context/#{CGI::escape(adj_and_link_type[3].uri)}?node=#{CGI::escape(adj_and_link_type[0].uri)}&#{CGI::escape(adj_and_link_type[4] + element.uri)}"    
       build_json(adj_and_link_type[0], url, adj_and_link_type[1])
-      build_adjacency(adj_and_link_type[0], adj_and_link_type[2]){adj_and_link_type[1]}
+      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])
     }.join(",")
   end
   

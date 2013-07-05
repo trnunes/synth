@@ -176,3 +176,54 @@ MARKUP: [[ehRespondidaPor->Vibração excessiva do compressor]]
 	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
 	ADDING EXISTENT OBJECT TRIPLE
 		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+SAVING WIKI CONTENT FOR: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC
+MARKUP: [[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+MARKUP: [[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+MARKUP: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+MARKUP: [[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+MARKUP: [[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+MARKUP: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+MARKUP: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+MARKUP: [[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+MARKUP: [[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+MARKUP: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]
+	VALUE: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor => RDFS::Resource
+	DOMAIN PROPERTY: http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor
+	ADDING EXISTENT OBJECT TRIPLE
+		http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor

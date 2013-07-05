@@ -6295,6 +6295,7 @@ var NodeHelper = {
     (end code)
     */
     'render': function(type, pos, dim, canvas){
+      
       var ctx = canvas.getCtx(), 
           pi5 = Math.PI / 5;
       ctx.save();
@@ -6311,6 +6312,7 @@ var NodeHelper = {
       }
       ctx.closePath();
       ctx[type]();
+	
       ctx.restore();
     },
     /*

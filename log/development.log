@@ -3848,3 +3848,1353 @@ Completed in 63ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
 Processing ExecuteController#css (for 127.0.0.1 at 2013-07-01 16:59:07) [GET]
   Parameters: {"id"=>"wikipedia"}
 Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-02 22:39:14) [GET]
+  Parameters: {"id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 15094ms (View: 16 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-02 22:39:29) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 78ms (View: 15 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-02 22:39:29) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-03 08:02:48) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 204ms (View: 204 | 200 OK [http://localhost/]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-03 08:02:51) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 94ms (View: 94 | 200 OK [http://localhost/]
+
+
+Processing OntologiesController#index (for 127.0.0.1 at 2013-07-03 08:02:58) [GET]
+Rendering template within layouts/application
+Rendering ontologies/index
+Completed in 141ms (View: 125 | 200 OK [http://localhost/domain]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-03 08:31:47) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 750ms (View: 734 | 200 OK [http://localhost/]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-03 09:04:25) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 360ms (View: 360 | 200 OK [http://localhost/]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-03 09:04:26) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 110ms (View: 94 | 200 OK [http://localhost/]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-03 09:04:37) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5812ms (View: 5765 | 200 OK [http://localhost/behavior]
+
+
+Processing OperationsController#edit (for 127.0.0.1 at 2013-07-03 09:04:48) [GET]
+  Parameters: {"id"=>"http://base#9726cfe0-7662-11df-ab19-00264afffe1d"}
+Rendering template within layouts/application
+Rendering operations/edit
+Completed in 156ms (View: 140 | 200 OK [http://localhost/operations/edit/http:%2F%2Fbase%239726cfe0-7662-11df-ab19-00264afffe1d]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-03 12:29:42) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 125ms (View: 125 | 200 OK [http://localhost/]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-03 12:29:45) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5844ms (View: 5828 | 200 OK [http://localhost/behavior]
+
+
+Processing OperationsController#edit (for 127.0.0.1 at 2013-07-03 12:29:59) [GET]
+  Parameters: {"id"=>"http://base#867d5270-da4a-11e0-a312-001d92e8bb43"}
+Rendering template within layouts/application
+Rendering operations/edit
+Completed in 110ms (View: 94 | 200 OK [http://localhost/operations/edit/http:%2F%2Fbase%23867d5270-da4a-11e0-a312-001d92e8bb43]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-03 12:30:40) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC", "interface_name"=>"EditWikiPage", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 11641ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causa_de_indisponibilidade_de_TC&interface_name=EditWikiPage]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 12:30:52) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 94ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 12:30:52) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 63ms (View: 31 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#save (for 127.0.0.1 at 2013-07-03 12:31:10) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "node_id"=>"/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causa_de_indisponibilidade_de_TC", "current_node"=>{"wikiLabel"=>"Causa de indisponibilidade de TC?", "content"=>"==Indisponibilidade do TC-A:==\r\nA principal causa de insisponibilidade do TC-A está relacionada aos [[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]].<br/><br/>Como agravante não havia [[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]] para substituição imediata.\r\n==Indisponibilidade do TC-B:==\r\nO TC-B apresentou [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]] LP, causado pela presença de produtos de corrosão e incrustração nos impelidores.Adicionalmente, houve vazamento de gás nos trocadores do tipo \"placa\" do 2º estágio de compressão.\r\n==Indisponibilidade do TC-C:==\r\nAssim como o TC-B, o TC-C apresentou os mesmos problemas de vibração excessiva do compressor LP e [[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]] da placa, no 1º e 2º estágios.<br/>Também ocorreram [[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]] no trocador de calor do tipo circuito impresso (Heatric) que fica instalado no 3º estágio de compressão.\r\n\r\n==Relações==\r\nehRespondidaPor: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]\r\n\r\nehRespondidaPor: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]\r\n\r\nehRespondidaPor: [[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]\r\n\r\nehRespondidaPor: [[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]\r\n\r\nehRespondidaPor: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]\r\n\r\n"}, "attachments_size"=>"", "attachments_fields_size"=>"0", "commit"=>"Save"}
+Redirected to http://localhost:3000/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causa_de_indisponibilidade_de_TC
+Completed in 2875ms | 302 Found [http://localhost/execute/save]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-03 12:31:13) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 16797ms (View: 15 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causa_de_indisponibilidade_de_TC]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 12:31:30) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 63ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 12:31:33) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ContextsController#index (for 127.0.0.1 at 2013-07-03 13:00:08) [GET]
+Rendering template within layouts/application
+Rendering contexts/index
+Completed in 922ms (View: 890 | 200 OK [http://localhost/navigation]
+
+
+Processing InContextClassesController#index (for 127.0.0.1 at 2013-07-03 13:00:11) [GET]
+Rendering template within layouts/application
+Rendering in_context_classes/index
+Completed in 984ms (View: 968 | 200 OK [http://localhost/in_context_classes]
+
+
+Processing InContextClassesController#edit (for 127.0.0.1 at 2013-07-03 13:00:46) [GET]
+  Parameters: {"id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Rendering template within layouts/application
+Rendering in_context_classes/edit
+Completed in 6500ms (View: 5312 | 200 OK [http://localhost/in_context_classes/edit/http:%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43]
+
+
+Processing InContextClassesController#index_attributes (for 127.0.0.1 at 2013-07-03 13:00:53) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867253779", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Completed in 922ms (View: 0 | 200 OK [http://localhost/in_context_classes/index_attributes/http%3A%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867253779&rows=10&page=1&sidx=&sord=]
+
+
+Processing InContextClassesController#context_anchor_attributes (for 127.0.0.1 at 2013-07-03 13:00:54) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867253823", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/in_context_classes/context_anchor_attributes/http%3A%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867253823&rows=10&page=1&sidx=&sord=]
+
+
+Processing InContextClassesController#computed_attributes (for 127.0.0.1 at 2013-07-03 13:00:55) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867253902", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Completed in 47ms (View: 16 | 200 OK [http://localhost/in_context_classes/computed_attributes/http%3A%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867253902&rows=10&page=1&sidx=&sord=]
+
+
+Processing InContextClassesController#index_anchor_attributes (for 127.0.0.1 at 2013-07-03 13:00:55) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867253867", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Completed in 32ms (View: 0 | 200 OK [http://localhost/in_context_classes/index_anchor_attributes/http%3A%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867253867&rows=10&page=1&sidx=&sord=]
+
+
+Processing InContextClassesController#get_resource_attributes (for 127.0.0.1 at 2013-07-03 13:01:22) [GET]
+  Parameters: {"id"=>"http___base_822c9f80-da56-11e0-a628-001d92e8bb43"}
+Completed in 172ms (View: 0 | 200 OK [http://localhost/in_context_classes/get_resource_attributes/http___base_822c9f80-da56-11e0-a628-001d92e8bb43]
+
+
+Processing InContextClassesController#get_resource_children_attributes (for 127.0.0.1 at 2013-07-03 13:01:22) [GET]
+  Parameters: {"children_attribute"=>"index_navigation_attribute_index_parameters", "id"=>"http___base_822c9f80-da56-11e0-a628-001d92e8bb43"}
+Completed in 187ms (View: 15 | 200 OK [http://localhost/in_context_classes/get_resource_children_attributes/http___base_822c9f80-da56-11e0-a628-001d92e8bb43?children_attribute=index_navigation_attribute_index_parameters]
+
+
+Processing ContextsController#index (for 127.0.0.1 at 2013-07-03 13:01:43) [GET]
+Rendering template within layouts/application
+Rendering contexts/index
+Completed in 438ms (View: 422 | 200 OK [http://localhost/contexts]
+
+
+Processing ContextsController#edit (for 127.0.0.1 at 2013-07-03 13:01:49) [GET]
+  Parameters: {"id"=>"http://base#e09373b0-da55-11e0-a628-001d92e8bb43"}
+Rendering template within layouts/application
+Rendering contexts/edit
+Completed in 125ms (View: 94 | 200 OK [http://localhost/contexts/edit/http:%2F%2Fbase%23e09373b0-da55-11e0-a628-001d92e8bb43]
+
+
+Processing ContextsController#context_parameters (for 127.0.0.1 at 2013-07-03 13:01:49) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867309367", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#e09373b0-da55-11e0-a628-001d92e8bb43"}
+Completed in 266ms (View: 16 | 200 OK [http://localhost/contexts/context_parameters/http%3A%2F%2Fbase%23e09373b0-da55-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867309367&rows=10&page=1&sidx=&sord=]
+
+
+Processing ContextsController#pre_conditions (for 127.0.0.1 at 2013-07-03 13:01:49) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867309418", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#e09373b0-da55-11e0-a628-001d92e8bb43"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/contexts/pre_conditions/http%3A%2F%2Fbase%23e09373b0-da55-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867309418&rows=10&page=1&sidx=&sord=]
+
+
+Processing IndexesController#index (for 127.0.0.1 at 2013-07-03 13:03:10) [GET]
+Rendering template within layouts/application
+Rendering indexes/index
+Completed in 328ms (View: 312 | 200 OK [http://localhost/indexes]
+
+
+Processing IndexesController#edit (for 127.0.0.1 at 2013-07-03 13:03:18) [GET]
+  Parameters: {"id"=>"http://base#f298f260-da55-11e0-a628-001d92e8bb43"}
+Rendering template within layouts/application
+Rendering indexes/edit
+Completed in 6453ms (View: 5234 | 200 OK [http://localhost/indexes/edit/http:%2F%2Fbase%23f298f260-da55-11e0-a628-001d92e8bb43]
+
+
+Processing IndexesController#index_attributes (for 127.0.0.1 at 2013-07-03 13:03:25) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867405029", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#f298f260-da55-11e0-a628-001d92e8bb43"}
+Completed in 32ms (View: 16 | 200 OK [http://localhost/indexes/index_attributes/http%3A%2F%2Fbase%23f298f260-da55-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867405029&rows=10&page=1&sidx=&sord=]
+
+
+Processing IndexesController#pre_conditions (for 127.0.0.1 at 2013-07-03 13:03:25) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867405339", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#f298f260-da55-11e0-a628-001d92e8bb43"}
+Completed in 32ms (View: 0 | 200 OK [http://localhost/indexes/pre_conditions/http%3A%2F%2Fbase%23f298f260-da55-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867405339&rows=10&page=1&sidx=&sord=]
+
+
+Processing IndexesController#index_anchor_attributes (for 127.0.0.1 at 2013-07-03 13:03:25) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867405120", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#f298f260-da55-11e0-a628-001d92e8bb43"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/indexes/index_anchor_attributes/http%3A%2F%2Fbase%23f298f260-da55-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867405120&rows=10&page=1&sidx=&sord=]
+
+
+Processing IndexesController#computed_attributes (for 127.0.0.1 at 2013-07-03 13:03:25) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867405162", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#f298f260-da55-11e0-a628-001d92e8bb43"}
+Completed in 31ms (View: 15 | 200 OK [http://localhost/indexes/computed_attributes/http%3A%2F%2Fbase%23f298f260-da55-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867405162&rows=10&page=1&sidx=&sord=]
+
+
+Processing IndexesController#context_anchor_attributes (for 127.0.0.1 at 2013-07-03 13:03:25) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372867405080", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#f298f260-da55-11e0-a628-001d92e8bb43"}
+Completed in 515ms (View: 0 | 200 OK [http://localhost/indexes/context_anchor_attributes/http%3A%2F%2Fbase%23f298f260-da55-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372867405080&rows=10&page=1&sidx=&sord=]
+
+
+Processing IndexesController#get_resource_attributes (for 127.0.0.1 at 2013-07-03 13:06:40) [GET]
+  Parameters: {"id"=>"http___base_3fb82430-da56-11e0-a628-001d92e8bb43"}
+Completed in 250ms (View: 0 | 200 OK [http://localhost/indexes/get_resource_attributes/http___base_3fb82430-da56-11e0-a628-001d92e8bb43]
+
+
+Processing IndexesController#get_resource_children_attributes (for 127.0.0.1 at 2013-07-03 13:06:41) [GET]
+  Parameters: {"children_attribute"=>"context_anchor_navigation_attribute_target_parameters", "id"=>"http___base_3fb82430-da56-11e0-a628-001d92e8bb43"}
+Completed in 140ms (View: 0 | 200 OK [http://localhost/indexes/get_resource_children_attributes/http___base_3fb82430-da56-11e0-a628-001d92e8bb43?children_attribute=context_anchor_navigation_attribute_target_parameters]
+
+
+Processing IndexesController#get_resource_attributes (for 127.0.0.1 at 2013-07-03 13:26:07) [GET]
+  Parameters: {"id"=>"http___base_3fb82430-da56-11e0-a628-001d92e8bb43"}
+Completed in 266ms (View: 15 | 200 OK [http://localhost/indexes/get_resource_attributes/http___base_3fb82430-da56-11e0-a628-001d92e8bb43]
+
+
+Processing IndexesController#get_resource_children_attributes (for 127.0.0.1 at 2013-07-03 13:26:07) [GET]
+  Parameters: {"children_attribute"=>"context_anchor_navigation_attribute_target_parameters", "id"=>"http___base_3fb82430-da56-11e0-a628-001d92e8bb43"}
+Completed in 140ms (View: 15 | 200 OK [http://localhost/indexes/get_resource_children_attributes/http___base_3fb82430-da56-11e0-a628-001d92e8bb43?children_attribute=context_anchor_navigation_attribute_target_parameters]
+
+
+Processing InContextClassesController#index (for 127.0.0.1 at 2013-07-03 13:26:31) [GET]
+Rendering template within layouts/application
+Rendering in_context_classes/index
+Completed in 860ms (View: 829 | 200 OK [http://localhost/in_context_classes]
+
+
+Processing InContextClassesController#edit (for 127.0.0.1 at 2013-07-03 13:26:49) [GET]
+  Parameters: {"id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Rendering template within layouts/application
+Rendering in_context_classes/edit
+Completed in 6922ms (View: 5672 | 200 OK [http://localhost/in_context_classes/edit/http:%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43]
+
+
+Processing InContextClassesController#index_attributes (for 127.0.0.1 at 2013-07-03 13:26:57) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372868816448", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Completed in 500ms (View: 16 | 200 OK [http://localhost/in_context_classes/index_attributes/http%3A%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372868816448&rows=10&page=1&sidx=&sord=]
+
+
+Processing InContextClassesController#context_anchor_attributes (for 127.0.0.1 at 2013-07-03 13:26:57) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372868816510", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Completed in 15ms (View: 0 | 200 OK [http://localhost/in_context_classes/context_anchor_attributes/http%3A%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372868816510&rows=10&page=1&sidx=&sord=]
+
+
+Processing InContextClassesController#computed_attributes (for 127.0.0.1 at 2013-07-03 13:26:57) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372868816723", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Completed in 16ms (View: 0 | 200 OK [http://localhost/in_context_classes/computed_attributes/http%3A%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372868816723&rows=10&page=1&sidx=&sord=]
+
+
+Processing InContextClassesController#index_anchor_attributes (for 127.0.0.1 at 2013-07-03 13:26:57) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1372868816672", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#743296f0-da56-11e0-a628-001d92e8bb43"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/in_context_classes/index_anchor_attributes/http%3A%2F%2Fbase%23743296f0-da56-11e0-a628-001d92e8bb43?q=1&_search=false&nd=1372868816672&rows=10&page=1&sidx=&sord=]
+
+
+Processing InContextClassesController#get_resource_attributes (for 127.0.0.1 at 2013-07-03 13:27:32) [GET]
+  Parameters: {"id"=>"http___base_822c9f80-da56-11e0-a628-001d92e8bb43"}
+Completed in 141ms (View: 0 | 200 OK [http://localhost/in_context_classes/get_resource_attributes/http___base_822c9f80-da56-11e0-a628-001d92e8bb43]
+
+
+Processing InContextClassesController#get_resource_children_attributes (for 127.0.0.1 at 2013-07-03 13:27:32) [GET]
+  Parameters: {"children_attribute"=>"index_navigation_attribute_index_parameters", "id"=>"http___base_822c9f80-da56-11e0-a628-001d92e8bb43"}
+Completed in 125ms (View: 0 | 200 OK [http://localhost/in_context_classes/get_resource_children_attributes/http___base_822c9f80-da56-11e0-a628-001d92e8bb43?children_attribute=index_navigation_attribute_index_parameters]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-03 13:30:40) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5594ms (View: 5578 | 200 OK [http://localhost/behavior]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-03 13:31:01) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 47ms (View: 32 | 200 OK [http://localhost/]
+
+
+Processing OperationsController#edit (for 127.0.0.1 at 2013-07-03 13:31:39) [GET]
+  Parameters: {"id"=>"http://base#c36814e0-e006-11e2-9c74-001302be8461"}
+Rendering template within layouts/application
+Rendering operations/edit
+Completed in 78ms (View: 62 | 200 OK [http://localhost/operations/edit/http:%2F%2Fbase%23c36814e0-e006-11e2-9c74-001302be8461]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-03 17:48:13) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio", "questao"=>{"resource"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC"}, "id"=>"http://base#e09373b0-da55-11e0-a628-001d92e8bb43"}
+Completed in 11454ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%23e09373b0-da55-11e0-a628-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&questao%5Bresource%5D=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causa_de_indisponibilidade_de_TC]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 17:48:25) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 156ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 17:48:25) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 94ms (View: 16 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-03 17:48:32) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC", "interface_name"=>"GraphVisualization", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 16609ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causa_de_indisponibilidade_de_TC&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 17:48:50) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 78ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 17:48:50) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 94ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-03 17:51:18) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 18250ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Quebra_de_Compressor&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 17:51:36) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 94ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 17:51:36) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-03 17:51:41) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Quebra_de_Compressor", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 15828ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Quebra_de_Compressor&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 17:51:57) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 63ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-03 17:51:57) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-04 13:35:23) [GET]
+  Parameters: {"id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 24562ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:35:48) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 78ms (View: 15 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:35:48) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 63ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-04 13:36:42) [GET]
+  Parameters: {"id"=>"http://base#010f41c0-da54-11e0-a628-001d92e8bb43"}
+Completed in 3250ms (View: 15 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%23010f41c0-da54-11e0-a628-001d92e8bb43]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:36:45) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:36:45) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-04 13:37:04) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_avaliar_a_variacao_de_injetividade", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 12438ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_avaliar_a_variacao_de_injetividade]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:37:16) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:37:17) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-04 13:37:22) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_avaliar_a_variacao_de_injetividade", "interface_name"=>"GraphVisualization", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 11219ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_avaliar_a_variacao_de_injetividade&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:37:33) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 78ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:37:33) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 234ms (View: 15 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-04 13:38:14) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 14187ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:38:29) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 63ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:38:29) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-04 13:38:51) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "interface_name"=>"GraphVisualization", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 9656ms (View: 78 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:39:01) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 46ms (View: 15 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:39:01) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing AbstractInterfacesController#index (for 127.0.0.1 at 2013-07-04 13:43:09) [GET]
+Rendering template within layouts/application
+Rendering abstract_interfaces/index
+Completed in 1766ms (View: 1719 | 200 OK [http://localhost/interface]
+
+
+Processing AbstractInterfacesController#edit (for 127.0.0.1 at 2013-07-04 13:43:17) [GET]
+  Parameters: {"id"=>"http://base#244a7b30-dcf7-11e2-9b4b-001302be8461"}
+Rendering template within layouts/application
+Rendering abstract_interfaces/edit
+Completed in 2688ms (View: 2610 | 200 OK [http://localhost/abstract_interfaces/edit/http:%2F%2Fbase%23244a7b30-dcf7-11e2-9b4b-001302be8461]
+
+
+Processing AbstractInterfacesController#update (for 127.0.0.1 at 2013-07-04 13:43:26) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#244a7b30-dcf7-11e2-9b4b-001302be8461", "interface"=>{"interface_name"=>"GraphVisualization", "type"=>"SWUI::ContextInterface", "context_id"=>"", "class_id"=>"", "index_id"=>"", "widget_decription_type"=>"concrete", "abstract_spec"=>"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\r\n<title>Spacetree - Tree Animation</title>\r\n<link rel=\"stylesheet\" href=\"/execute/css/aqueous\" type=\"text/css\" media=\"screen,projection\" />\r\n<link rel=\"stylesheet\" href=\"/execute/css/wikipedia\" type=\"text/css\" media=\"all\" />\r\n\r\n<%= javascript_include_tag 'jquery/jquery-1.4.2.min.js' %>\r\n\r\n<!-- CSS Files -->\r\n<%= stylesheet_link_tag 'css/base.css' %>\r\n<% if params[:widget] == \"forced_directed\" %>\r\n\t<%= stylesheet_link_tag 'css/ForceDirected.css' %>\r\n<%else%>\r\n\t<%= stylesheet_link_tag 'css/Spacetree.css' %>\r\n<%end%>\r\n<!--[if IE]><script language=\"javascript\" type=\"text/javascript\" src=\"../../Extras/excanvas.js\"></script><![endif]-->\r\n\r\n<!-- JIT Library File -->\r\n<%= javascript_include_tag 'Jit/jit.js' %>\r\n<!-- Example File -->\r\n<% if params[:widget] == \"forced_directed\" %>\r\n\t<%= javascript_include_tag 'Jit/Examples/ForceDirected/example2.js' %>\r\n<%else%>\r\n\t<%= javascript_include_tag 'Jit/Examples/Spacetree/example1.js' %>\r\n<%end%>\r\n\r\n</head>\r\n\r\n<body onload=\"init();\">\r\n  <div id=\"wrapper\">\r\n    <div id=\"innerwrapper\">\r\n      <div id=\"wikibanner\">\r\n\r\n        <%= image_tag(\"semWikiLogo.png\" ) %>\r\n        \r\n      </div>\t      \r\n      <%= include 'Header' %>    \r\n    <%= include 'WikiPageContextSideBar' %>\r\n    \r\n      <div id=\"contentnorightbar\">\r\n\r\n        <div class=\"noprint\" id=\"mw-head\">\r\n          <div id=\"left-navigation\">\r\n            <!-- 0 -->\r\n            <div class=\"vectorTabs\" id=\"p-namespaces\">\r\n              <h5>Namespaces</h5>\r\n              <ul>\r\n                <li class=\"selected\" id=\"ca-nstab-main\">\r\n                  <span><a accesskey=\"c\" title=\"View the content page [alt-shift-c]\" href=\"/wiki_page/under_construction\">Visualização Gráfica</a></span>\r\n                </li>          \r\n              </ul>            \r\n            </div>\r\n            <!-- /0 -->\r\n          </div>\r\n\r\n          <div id=\"right-navigation\">\r\n          <!-- 0 -->\r\n            <div class=\"vectorTabs\" id=\"p-views\">\r\n\r\n              <h5>Views</h5>\r\n              <ul>               \r\n                <li id=\"ca-edit\">\r\n                  <span>                    \r\n                    <a href=\"<%= @current_node.anchor.target_url + '&interface_name=EditWikiPage' %>\">Editar Nó</a><br>\r\n                  </span>\r\n                </li>\r\n                <li id=\"ca-view\">\r\n                \t\r\n                  <span><a href=\"<%= @current_node.anchor.target_url %>\" onclick=\"location.href=current_node_in_graph;return false;\">Ver Artigo</a><br></span>\r\n                </li>\r\n              </ul>\r\n\r\n            </div>\r\n          <!-- /0 -->\r\n\r\n          </div>\r\n        </div>\r\n        \r\n       \r\n        \r\n        <p style=\"margin-top: 0px; padding-top: 0px;\">\r\n          <%if !@current_node.previous_node.nil?%>\r\n            <%= \r\n              link_to(\"<< Previous\", @current_node.previous_node_anchor.target_url, \r\n                      :title => @current_node.previous_node_anchor.label, :style => \"float: left;\")\r\n            %>\r\n          <%end%>\r\n          <%if !@current_node.next_node.nil?%>      \r\n            <%= \r\n              link_to(\"Next >>\", @current_node.next_node_anchor.target_url, \r\n                      :title => @current_node.next_node_anchor.label, :style => \"float: right;\")\r\n            %>\r\n          <%end%>\r\n        </p>\r\n        \r\n        <div class=\"noprint\" id=\"mw-head-base\"></div>\r\n        \r\n        <div id=\"content\">\r\n        \t\t<%=Operations.to_infovis_json({:reasoning_element_uri=>@current_node.uri, :current_url=>@current_node.anchor.target_url}) %>\r\n        \t\t<div id=\"inner-details\"></div>\r\n        \t\t<% if params[:widget] == \"forced_directed\" %>\r\n\t\t\t\t\t<script> var json_string = <%=Operations.to_infovis_json({:reasoning_element_uri=>@current_node.uri, :current_url=>@current_node.anchor.target_url}) %> </script>\t\r\n\t\t\t\t<%else%>\r\n\t\t\t\t\t<script> var json_string = <%=Operations.to_infovis_spacetree({:reasoning_element_uri=>@current_node.uri, :current_url=>@current_node.anchor.target_url}) %> </script>\r\n\t\t\t\t<%end%>\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t<script> var current_node_in_graph = <%=@current_node.uri%> </script>\r\n\t\t\t    <div id=\"infovis\"></div>    \r\n\r\n\t\t\t\r\n            <label for=\"s-normal\">Normal </label>\r\n            <input type=\"hidden\" id=\"s-normal\" name=\"selection\" checked=\"checked\" value=\"normal\" />\r\n            <label for=\"s-root\">Set as Root </label>\r\n            <input type=\"hidden\" id=\"s-root\" name=\"selection\" value=\"root\" />\t\t\t\r\n\t\t\t\r\n          \r\n        </div>\r\n\r\n      </div>\r\n    <%= include 'Footer' %>\r\n    </div>\r\n  </div>\r\n</body>\r\n<script>\r\n</script>\r\n</html>\r\n", "rhet_spec"=>""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/abstract_interfaces
+Completed in 750ms | 302 Found [http://localhost/abstract_interfaces/update]
+
+
+Processing AbstractInterfacesController#index (for 127.0.0.1 at 2013-07-04 13:43:27) [GET]
+Rendering template within layouts/application
+Rendering abstract_interfaces/index
+Completed in 1531ms (View: 1500 | 200 OK [http://localhost/abstract_interfaces]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-04 13:43:31) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "interface_name"=>"GraphVisualization", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 12016ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:43:44) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 360ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-04 13:43:44) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 79ms (View: 16 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-04 18:19:08) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5844ms (View: 5828 | 200 OK [http://localhost/behavior]
+
+
+Processing OperationsController#edit (for 127.0.0.1 at 2013-07-04 18:23:40) [GET]
+  Parameters: {"id"=>"http://base#26402280-da49-11e0-a312-001d92e8bb43"}
+Rendering template within layouts/application
+Rendering operations/edit
+Completed in 140ms (View: 125 | 200 OK [http://localhost/operations/edit/http:%2F%2Fbase%2326402280-da49-11e0-a312-001d92e8bb43]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-04 19:10:56) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 515ms (View: 500 | 200 OK [http://localhost/home]
+
+
+Processing ApplicationsController#activate (for 127.0.0.1 at 2013-07-04 19:11:03) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"default"}
+Redirected to http://localhost:3000/applications
+Completed in 1360ms | 302 Found [http://localhost/applications/activate/default]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-04 19:11:04) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 125ms (View: 125 | 200 OK [http://localhost/applications]
+
+
+Processing OntologiesController#index (for 127.0.0.1 at 2013-07-04 21:17:01) [GET]
+Rendering template within layouts/application
+Rendering ontologies/index
+Completed in 547ms (View: 500 | 200 OK [http://localhost/domain]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-04 21:17:05) [GET]
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (15.0ms)
+Rendered resources/_meta_classes (188.0ms)
+Completed in 391ms (View: 297 | 200 OK [http://localhost/resources]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-04 21:17:07) [GET]
+  Parameters: {"type"=>"http://local/n/Classe1"}
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (16.0ms)
+Rendered resources/_meta_classes (31.0ms)
+Completed in 312ms (View: 218 | 200 OK [http://localhost/resources?type=http%3A%2F%2Flocal%2Fn%2FClasse1]
+
+
+Processing ResourcesController#show (for 127.0.0.1 at 2013-07-04 21:17:11) [GET]
+  Parameters: {"id"=>"http://local/n/resource1"}
+Rendering template within layouts/application
+Rendering resources/show
+Rendered resources/_domain_classes (0.0ms)
+Rendered resources/_meta_classes (31.0ms)
+Rendered resources/_properties (219.0ms)
+Completed in 406ms (View: 344 | 200 OK [http://localhost/resources/http:%2F%2Flocal%2Fn%2Fresource1]
+
+
+Processing ResourcesController#show (for 127.0.0.1 at 2013-07-04 21:17:21) [GET]
+  Parameters: {"id"=>"http://local/n/resource2"}
+Rendering template within layouts/application
+Rendering resources/show
+Rendered resources/_domain_classes (16.0ms)
+Rendered resources/_meta_classes (31.0ms)
+Rendered resources/_properties (94.0ms)
+Completed in 250ms (View: 172 | 200 OK [http://localhost/resources/http:%2F%2Flocal%2Fn%2Fresource2]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-04 21:32:24) [GET]
+  Parameters: {"type"=>"http://local/n/Classe1"}
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (235.0ms)
+Rendered resources/_meta_classes (93.0ms)
+Completed in 562ms (View: 437 | 200 OK [http://localhost/resources?type=http%3A%2F%2Flocal%2Fn%2FClasse1]
+
+
+Processing PropertiesController#index (for 127.0.0.1 at 2013-07-04 21:32:29) [GET]
+Rendering template within layouts/application
+Rendering resources/show
+Rendered properties/_domain_classes (125.0ms)
+Rendered properties/_meta_classes (125.0ms)
+Rendered resources/_properties (203.0ms)
+Completed in 625ms (View: 516 | 200 OK [http://localhost/properties]
+
+
+Processing ResourcesController#destroy (for 127.0.0.1 at 2013-07-04 21:32:58) [DELETE]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://local/n/int_prop"}
+Redirected to http://localhost:3000/resources
+Completed in 187ms | 302 Found [http://localhost/resources/http:%2F%2Flocal%2Fn%2Fint_prop]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-04 21:32:58) [GET]
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (0.0ms)
+Rendered resources/_meta_classes (47.0ms)
+Completed in 219ms (View: 125 | 200 OK [http://localhost/resources]
+
+
+Processing PropertiesController#index (for 127.0.0.1 at 2013-07-04 21:33:02) [GET]
+Rendering template within layouts/application
+Rendering resources/show
+Rendered properties/_domain_classes (0.0ms)
+Rendered properties/_meta_classes (110.0ms)
+Rendered resources/_properties (125.0ms)
+Completed in 407ms (View: 297 | 200 OK [http://localhost/properties]
+
+
+Processing ResourcesController#destroy (for 127.0.0.1 at 2013-07-04 21:33:08) [DELETE]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://local/n/int_prop"}
+Redirected to http://localhost:3000/resources
+Completed in 94ms | 302 Found [http://localhost/resources/http:%2F%2Flocal%2Fn%2Fint_prop]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-04 21:33:08) [GET]
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (0.0ms)
+Rendered resources/_meta_classes (31.0ms)
+Completed in 141ms (View: 63 | 200 OK [http://localhost/resources]
+
+
+Processing PropertiesController#index (for 127.0.0.1 at 2013-07-04 21:33:11) [GET]
+Rendering template within layouts/application
+Rendering resources/show
+Rendered properties/_domain_classes (0.0ms)
+Rendered properties/_meta_classes (110.0ms)
+Rendered resources/_properties (109.0ms)
+Completed in 375ms (View: 266 | 200 OK [http://localhost/properties]
+
+
+Processing OntologiesController#index (for 127.0.0.1 at 2013-07-05 13:38:53) [GET]
+Rendering template within layouts/application
+Rendering ontologies/index
+Completed in 593ms (View: 562 | 200 OK [http://localhost/domain]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-05 13:38:55) [GET]
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (16.0ms)
+Rendered resources/_meta_classes (93.0ms)
+Completed in 312ms (View: 187 | 200 OK [http://localhost/resources]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-05 13:39:00) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 250ms (View: 234 | 200 OK [http://localhost/home]
+
+
+Processing ApplicationsController#activate (for 127.0.0.1 at 2013-07-05 13:39:03) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"dr_semantic_wiki"}
+Redirected to http://localhost:3000/applications
+Completed in 1375ms | 302 Found [http://localhost/applications/activate/dr_semantic_wiki]
+
+
+Processing ApplicationsController#index (for 127.0.0.1 at 2013-07-05 13:39:05) [GET]
+Rendering template within layouts/application
+Rendering applications/index
+Completed in 63ms (View: 63 | 200 OK [http://localhost/applications]
+
+
+Processing ExecuteController#init (for 127.0.0.1 at 2013-07-05 13:39:17) [GET]
+Redirected to http://localhost:3000/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43
+Completed in 187ms | 302 Found [http://localhost/execute/init]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 13:39:17) [GET]
+  Parameters: {"id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 14953ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43]
+
+
+Processing OntologiesController#index (for 127.0.0.1 at 2013-07-05 13:39:32) [GET]
+Rendering template within layouts/application
+Rendering ontologies/index
+Completed in 94ms (View: 78 | 200 OK [http://localhost/domain]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-05 13:39:39) [GET]
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (16.0ms)
+Rendered resources/_meta_classes (31.0ms)
+Completed in 172ms (View: 78 | 200 OK [http://localhost/resources]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-05 13:39:46) [GET]
+  Parameters: {"type"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Ideia"}
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (15.0ms)
+Rendered resources/_meta_classes (32.0ms)
+Completed in 4187ms (View: 4125 | 200 OK [http://localhost/resources?type=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-05 13:39:59) [GET]
+  Parameters: {"type"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Decisao"}
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (16.0ms)
+Rendered resources/_meta_classes (31.0ms)
+Completed in 453ms (View: 375 | 200 OK [http://localhost/resources?type=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao]
+
+
+Processing ResourcesController#show (for 127.0.0.1 at 2013-07-05 13:40:03) [GET]
+  Parameters: {"id"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2"}
+Rendering template within layouts/application
+Rendering resources/show
+Rendered resources/_domain_classes (16.0ms)
+Rendered resources/_meta_classes (15.0ms)
+Rendered resources/_properties (375.0ms)
+Completed in 562ms (View: 484 | 200 OK [http://localhost/resources/http:%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision2]
+
+
+Processing ResourcesController#show (for 127.0.0.1 at 2013-07-05 13:40:23) [GET]
+  Parameters: {"id"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg"}
+Rendering template within layouts/application
+Rendering resources/show
+Rendered resources/_domain_classes (0.0ms)
+Rendered resources/_meta_classes (32.0ms)
+Rendered resources/_properties (359.0ms)
+Completed in 485ms (View: 422 | 200 OK [http://localhost/resources/http:%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23tpt_pdg]
+
+
+Processing ResourcesController#show (for 127.0.0.1 at 2013-07-05 13:45:39) [GET]
+  Parameters: {"id"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2"}
+Rendering template within layouts/application
+Rendering resources/show
+Rendered resources/_domain_classes (15.0ms)
+Rendered resources/_meta_classes (32.0ms)
+Rendered resources/_properties (250.0ms)
+Completed in 391ms (View: 328 | 200 OK [http://localhost/resources/http:%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision2]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 13:50:36) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5157ms (View: 5141 | 200 OK [http://localhost/behavior]
+
+
+Processing OperationsController#edit (for 127.0.0.1 at 2013-07-05 13:50:45) [GET]
+  Parameters: {"id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461"}
+Rendering template within layouts/application
+Rendering operations/edit
+Completed in 171ms (View: 171 | 200 OK [http://localhost/operations/edit/http:%2F%2Fbase%23759f8e80-dcf7-11e2-9b4b-001302be8461]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 13:50:50) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {\"' + data + '\"}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = \"\\\"link_type\\\":\\\"responde\\\", \\\"color\\\": \\\"#2409D4\\\"\"\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute\r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = \"\\\"link_type\\\":\\\"contra\\\", \\\"color\\\": \\\"#E50E0E\\\"\"  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = \"\\\"link_type\\\":\\\"a favor\\\", \\\"color\\\": \\\"#0B9E0B\\\"\"\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 750ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 13:50:51) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5922ms (View: 5891 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 13:56:45) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "interface_name"=>"GraphVisualization", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 9375ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 13:56:55) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 265ms (View: 94 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 13:56:55) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 16 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:00:12) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = \"\\\"link_type\\\":\\\"responde\\\", \\\"color\\\": \\\"#2409D4\\\"\"\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute\r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = \"\\\"link_type\\\":\\\"contra\\\", \\\"color\\\": \\\"#E50E0E\\\"\"  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = \"\\\"link_type\\\":\\\"a favor\\\", \\\"color\\\": \\\"#0B9E0B\\\"\"\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 266ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:00:13) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5625ms (View: 5594 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:00:25) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "interface_name"=>"GraphVisualization", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 9359ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:00:35) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 94ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:00:35) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 16 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:04:04) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute\r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 266ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:04:04) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5687ms (View: 5672 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:04:13) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "interface_name"=>"GraphVisualization", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 9266ms (View: 16 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:04:23) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 203ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:04:24) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 15 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:06:01) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 11437ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:06:13) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:06:13) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:06:21) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 8735ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:06:30) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 47ms (View: 16 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:06:30) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 16 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:08:17) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute.first\r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 234ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:08:17) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5593ms (View: 5562 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:08:24) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 10016ms (View: 16 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:08:35) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 47ms (View: 15 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:08:35) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 16 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:10:09) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute.first\r\n        puts \"DECISION: \#{decision.to_s}\"\r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 265ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:10:10) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 6250ms (View: 6219 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:10:17) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 9750ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:10:27) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 46ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:10:27) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 109ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:11:38) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 47ms (View: 16 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:11:38) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 157ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:11:39) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 78ms (View: 15 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:13:57) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute.first\r\n        FIle.open(\"log/decisions.txt\", 'w'){|f|f.write(\"DECISION: \#{decision.to_s}\")} \r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 250ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:13:57) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5750ms (View: 5735 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:14:03) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 9859ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:14:13) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 141ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:14:13) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 79ms (View: 16 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:15:24) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute.first\r\n        File.open(\"log/decisions.txt\", 'w'){|f|f.write(\"DECISION: \#{decision.to_s}\")} \r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 250ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:15:24) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5750ms (View: 5735 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:15:30) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 10704ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:15:41) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 78ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:15:41) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OperationsController#edit (for 127.0.0.1 at 2013-07-05 14:16:05) [GET]
+  Parameters: {"id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461"}
+Rendering template within layouts/application
+Rendering operations/edit
+Completed in 93ms (View: 78 | 200 OK [http://localhost/operations/edit/http:%2F%2Fbase%23759f8e80-dcf7-11e2-9b4b-001302be8461]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:16:38) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.ma.dfnap{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute.first\r\n        File.open(\"log/decisions.txt\", 'w'){|f|f.write(\"DECISION: \#{decision.to_s}\")} \r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 266ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:16:38) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5532ms (View: 5500 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:16:45) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 10547ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:16:56) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 78ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:16:56) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OntologiesController#index (for 127.0.0.1 at 2013-07-05 14:17:05) [GET]
+Rendering template within layouts/application
+Rendering ontologies/index
+Completed in 47ms (View: 31 | 200 OK [http://localhost/domain]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-05 14:17:07) [GET]
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (16.0ms)
+Rendered resources/_meta_classes (16.0ms)
+Completed in 125ms (View: 63 | 200 OK [http://localhost/resources]
+
+
+Processing ResourcesController#index (for 127.0.0.1 at 2013-07-05 14:17:16) [GET]
+  Parameters: {"type"=>"http://shdm#Operation"}
+Rendering template within layouts/application
+Rendering resources/index
+Rendered resources/_domain_classes (0.0ms)
+Rendered resources/_meta_classes (15.0ms)
+Completed in 2219ms (View: 2125 | 200 OK [http://localhost/resources?type=http%3A%2F%2Fshdm%23Operation]
+
+
+Processing ResourcesController#show (for 127.0.0.1 at 2013-07-05 14:17:22) [GET]
+  Parameters: {"id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461"}
+Rendering template within layouts/application
+Rendering resources/show
+Rendered resources/_domain_classes (0.0ms)
+Rendered resources/_meta_classes (16.0ms)
+Rendered resources/_properties (234.0ms)
+Completed in 375ms (View: 297 | 200 OK [http://localhost/resources/http:%2F%2Fbase%23759f8e80-dcf7-11e2-9b4b-001302be8461]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:17:34) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 4937ms (View: 4922 | 200 OK [http://localhost/behavior]
+
+
+Processing ResourcesController#search_resource (for 127.0.0.1 at 2013-07-05 14:17:51) [GET]
+  Parameters: {"q"=>"# require 'uuidtools'# #params: reasoning_element_uri# @current_url = current_url@question_by_idea = SHDM::Context.find_by.shdm::context_name("}
+
+RegexpError ((RegexpError) end pattern with unmatched parenthesis: /# require 'uuidtools'# #params: reasoning_element_uri# @current_url = current_url@question_by_idea = SHDM::Context.find_by.shdm::context_name(/):
+  app/controllers/resources_controller.rb:23:in `search_resource'
+  org/jruby/RubyKernel.java:2105:in `send'
+  org/jruby/RubyKernel.java:2105:in `send'
+  org/jruby/RubyProc.java:270:in `call'
+  org/jruby/RubyProc.java:220:in `call'
+  org/jruby/RubyArray.java:1620:in `each'
+  c:/jruby-1.6.8/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/jruby-1.6.8/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/jruby-1.6.8/lib/ruby/1.8/webrick/httpserver.rb:48:in `run'
+  c:/jruby-1.6.8/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/jruby-1.6.8/lib/ruby/1.8/webrick/server.rb:163:in `start_thread'
+  org/jruby/RubyProc.java:270:in `call'
+  org/jruby/RubyProc.java:224:in `call'
+
+Rendered rescues/_trace (94.0ms)
+Rendered rescues/_request_and_response (31.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ResourcesController#update_property (for 127.0.0.1 at 2013-07-05 14:17:55) [POST]
+  Parameters: {"id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "property"=>"http://shdm#operation_code", "value"=>"", "original"=>"# require 'uuidtools'# #params: reasoning_element_uri# @current_url = current_url@question_by_idea = SHDM::Context.find_by.shdm::context_name("}
+Rendered resources/_properties (203.0ms)
+Completed in 250ms (View: 203 | 200 OK [http://localhost/resources/update_property]
+
+
+Processing ResourcesController#update_property (for 127.0.0.1 at 2013-07-05 14:17:59) [POST]
+  Parameters: {"id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "property"=>"http://shdm#operation_code", "value"=>"", "original"=>"# require 'uuidtools'# #params: reasoning_element_uri# @current_url = current_url@question_by_idea = SHDM::Context.find_by.shdm::context_name("}
+Rendered resources/_properties (203.0ms)
+Completed in 281ms (View: 203 | 200 OK [http://localhost/resources/update_property]
+
+
+Processing ResourcesController#update_property (for 127.0.0.1 at 2013-07-05 14:18:05) [POST]
+  Parameters: {"id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461", "property"=>"http://shdm#operation_code", "value"=>"sdfgsdfg", "original"=>"# require 'uuidtools'# #params: reasoning_element_uri# @current_url = current_url@question_by_idea = SHDM::Context.find_by.shdm::context_name("}
+Rendered resources/_properties (391.0ms)
+Completed in 579ms (View: 407 | 200 OK [http://localhost/resources/update_property]
+
+
+Processing ResourcesController#search_resource (for 127.0.0.1 at 2013-07-05 14:18:06) [GET]
+  Parameters: {"q"=>"sdfgsdfg"}
+Completed in 125ms (View: 16 | 200 OK [http://localhost/resources/search_resource?q=sdfgsdfg]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:18:58) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5500ms (View: 5469 | 200 OK [http://localhost/behavior]
+
+
+Processing OperationsController#destroy (for 127.0.0.1 at 2013-07-05 14:19:16) [DELETE]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#759f8e80-dcf7-11e2-9b4b-001302be8461"}
+Redirected to http://localhost:3000/operations
+Completed in 390ms | 302 Found [http://localhost/operations/destroy/http:%2F%2Fbase%23759f8e80-dcf7-11e2-9b4b-001302be8461]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:19:17) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 5625ms (View: 5594 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:19:27) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 8750ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing OperationsController#new (for 127.0.0.1 at 2013-07-05 14:19:43) [GET]
+Rendering template within layouts/application
+Rendering operations/new
+Completed in 78ms (View: 62 | 200 OK [http://localhost/operations/new]
+
+
+Processing OperationsController#create (for 127.0.0.1 at 2013-07-05 14:19:55) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute.first\r\n        File.open(\"log/decisions.txt\", 'w'){|f|f.write(\"DECISION: \#{decision.to_s}\")} \r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Create"}
+Redirected to http://localhost:3000/operations/edit/http:%2F%2Fbase%231c8b4d90-e597-11e2-b7e4-001302be8461
+Completed in 1265ms | 302 Found [http://localhost/operations]
+
+
+Processing OperationsController#edit (for 127.0.0.1 at 2013-07-05 14:19:56) [GET]
+  Parameters: {"id"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461"}
+Rendering template within layouts/application
+Rendering operations/edit
+Completed in 93ms (View: 78 | 200 OK [http://localhost/operations/edit/http:%2F%2Fbase%231c8b4d90-e597-11e2-b7e4-001302be8461]
+
+
+Processing OperationsController#operation_parameters (for 127.0.0.1 at 2013-07-05 14:20:00) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1373044800417", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461"}
+Completed in 47ms (View: 16 | 200 OK [http://localhost/operations/operation_parameters/http%3A%2F%2Fbase%231c8b4d90-e597-11e2-b7e4-001302be8461?q=1&_search=false&nd=1373044800417&rows=10&page=1&sidx=&sord=]
+
+
+Processing OperationsController#operation_parameters_post_data (for 127.0.0.1 at 2013-07-05 14:20:32) [POST]
+  Parameters: {"operation_parameter_name"=>"reasoning_element_uri", "operation_parameter_data_type"=>"String", "oper"=>"add", "id"=>"_empty", "parent"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461"}
+Completed in 328ms (View: 0 | 200 OK [http://localhost/operations/operation_parameters_post_data?parent=http%3A%2F%2Fbase%231c8b4d90-e597-11e2-b7e4-001302be8461]
+
+
+Processing OperationsController#operation_parameters (for 127.0.0.1 at 2013-07-05 14:20:33) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1373044833227", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461"}
+Completed in 297ms (View: 0 | 200 OK [http://localhost/operations/operation_parameters/http%3A%2F%2Fbase%231c8b4d90-e597-11e2-b7e4-001302be8461?q=1&_search=false&nd=1373044833227&rows=10&page=1&sidx=&sord=]
+
+
+Processing OperationsController#operation_parameters_post_data (for 127.0.0.1 at 2013-07-05 14:20:39) [POST]
+  Parameters: {"operation_parameter_name"=>"current_url", "operation_parameter_data_type"=>"String", "oper"=>"add", "id"=>"_empty", "parent"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461"}
+Completed in 328ms (View: 0 | 200 OK [http://localhost/operations/operation_parameters_post_data?parent=http%3A%2F%2Fbase%231c8b4d90-e597-11e2-b7e4-001302be8461]
+
+
+Processing OperationsController#operation_parameters (for 127.0.0.1 at 2013-07-05 14:20:39) [GET]
+  Parameters: {"q"=>"1", "_search"=>"false", "nd"=>"1373044839410", "rows"=>"10", "page"=>"1", "sidx"=>"", "sord"=>"", "id"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461"}
+Completed in 485ms (View: 0 | 200 OK [http://localhost/operations/operation_parameters/http%3A%2F%2Fbase%231c8b4d90-e597-11e2-b7e4-001302be8461?q=1&_search=false&nd=1373044839410&rows=10&page=1&sidx=&sord=]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:20:42) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n        decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, question).where(:p, DR::usa, element).execute.first\r\n        File.open(\"log/decisions.txt\", 'w'){|f|f.write(\"DECISION: \#{decision.to_s}\")} \r\n        if decision && (decision.dr::aceita.to_s == \"true\")\r\n          link_data << ', \"decision\": true'\r\n        end\r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 94ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:20:42) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 6328ms (View: 6313 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:20:51) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 10094ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:21:01) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 93ms (View: 15 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:21:01) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 109ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:23:44) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))    \r\n          adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n            decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, element).where(:p, DR::usa, idea).execute.first\r\n            File.open(\"log/decisions.txt\", 'w'){|f|f.write(\"DECISION: \#{decision.to_s}\")} \r\n            if decision && (decision.dr::aceita.to_s == \"true\")\r\n              link_data << ', \"decision\": true'\r\n            end\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"' \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n                \r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 250ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:23:45) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 6375ms (View: 6359 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:23:51) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 10594ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:24:54) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))            \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"'\r\n          decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, element).where(:p, DR::usa, idea).execute.first\r\n          File.open(\"log/decisions.txt\", 'w'){|f|f.write(\"DECISION: \#{decision.to_s}\")} \r\n          if decision && (decision.dr::aceita.to_s == \"true\")\r\n            link_data << ', \"decision\": true'\r\n          end\r\n         \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n                \r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 282ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#update (for 127.0.0.1 at 2013-07-05 14:24:54) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#1c8b4d90-e597-11e2-b7e4-001302be8461", "operation"=>{"operation_name"=>"to_infovis_json", "operation_type"=>"internal", "operation_code"=>"# require 'uuidtools'\r\n# #params: reasoning_element_uri\r\n# @current_url = current_url\r\n@question_by_idea = SHDM::Context.find_by.shdm::context_name(\"QuestoesPorIdeiaCtx\").execute.first\r\n@idea_by_question_ctx = SHDM::Context.find_by.shdm::context_name(\"IdeiaPorQuestao\").execute.first\r\n@idea_by_question_param = \"questao[resource]=\"\r\n@in_favor_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosAFavorPorIdeiaCtx\").execute.first\r\n@argument_by_idea_param = \"ideia[resource]=\"\r\n@against_by_idea_ctx = SHDM::Context.find_by.shdm::context_name(\"ArgumentosContraPorIdeiaCtx\").execute.first\r\n\r\n@current_url = current_url\r\n\r\ndef build_adjacency(node, data)\r\n  adj_string = '{\"nodeTo\": \"' + node.uri +  '\",'\r\n  adj_string << '\"data\": {' + data + '}'\r\n  adj_string << '}'  \r\nend\r\n@nodes = []\r\n\r\ndef build_json(element, context_url, relation)\r\n  \r\n  link_type = \"default\"\r\n  type = \"ReasoningElement\"\r\n  adjacents = []\r\n  data = ''\r\n  if element.classes.include?(DR::Questao)    \r\n      if(element.classes.include?(@pivot_class)||(relation == DR::sugere))            \r\n        adjacents = element.dr::ehRespondidaPor.to_a.map{|idea|\r\n          link_data = '\"link_type\": \"responde a\", \"$color\": \"#F7E808\"'\r\n          decision = ActiveRDF::Query.new.select(:p).where(:p, DR::resolve, element).where(:p, DR::usa, idea).execute.first\r\n          File.open(\"log/decisions.txt\", 'w'){|f|f.write(\"DECISION: \#{decision.to_s}\")} \r\n          if decision && (decision.dr::aceita.to_s == \"true\")\r\n            link_data << ', \"decision\": true'\r\n          end\r\n         \r\n          [idea, DR::ehRespondidaPor, link_data, @idea_by_question_ctx, @idea_by_question_param]\r\n        }\r\n      end\r\n           \r\n    type = \"Questão\"\r\n    data = ', \"$color\": \"#2409D4\",\"$type\": \"rectangle\"'\r\n    \r\n  elsif element.classes.include?(DR::Ideia)\r\n    if(@pivot_class != DR::Argumento)\r\n      \r\n      adjacents = element.dr::favorecidaPor.to_a.map{|in_favor_argument|\r\n         \r\n        link_data = '\"link_type\": \"argumentos a favor\", \"$color\": \"#0B9E0B\"'\r\n        [in_favor_argument, DR::favorecidaPor, link_data, @in_favor_by_idea_ctx, @argument_by_idea_param]        \r\n      }\r\n      \r\n      adjacents += element.dr::contrariadaPor.to_a.map{|against_argument|\r\n        link_data = '\"link_type\": \"argumentos contra\", \"$color\": \"#E50E0E\"' \r\n        [against_argument, DR::contrariadaPor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      \r\n      adjacents += element.dr::sugere.to_a.map{|suggested_element|\r\n        link_data = '\"link_type\": \"sugere\", \"$color\": \"#ccb\"'\r\n        [suggested_element, DR::sugere, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    if(@pivot_class != DR::Questao)\r\n      adjacents += element.dr::responde.to_a.map{|question|\r\n        link_data = '\"link_type\": \"responde\", \"$color\": \"#2409D4\"'\r\n                \r\n        \r\n        [question, DR::responde, link_data, @question_by_idea, @argument_by_idea_param]\r\n      }\r\n    end    \r\n    type = \"Idéia\"\r\n    data = ', \"$color\": \"#F7E808\",\"$type\": \"star\"'\r\n  elsif element.classes.include?(DR::Argumento)\r\n    \r\n    if(element.classes.include?(@pivot_class))\r\n      adjacents = element.dr::contra.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"contra\", \"$color\": \"#E50E0E\"'  \r\n        [idea, DR::contra, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n      adjacents += element.dr::aFavor.to_a.map{|idea|\r\n        link_data = '\"link_type\": \"a favor\", \"$color\": \"#0B9E0B\"'\r\n        [idea, DR::aFavor, link_data, @against_by_idea_ctx, @argument_by_idea_param]\r\n      }\r\n    end\r\n    \r\n    type = \"Argumento\"\r\n    data = ', \"$color\": \"#FF7A04\",\"$type\": \"circle\"'\r\n  end\r\n  \r\n  json_string = \"{\"\r\n  json_string << '\"id\": ' + '\"' + element.uri + '\", '\r\n  json_string << '\"name\": ' + '\"' + element.rdfs::label.to_s + '\", '\r\n  json_string << '\"data\": ' + '{\"type\": \"' + type + '\", \"context\": \"'+ context_url + '\"' + data + '},'\r\n  json_adjacencies = \"\"\r\n  if(!adjacents.empty?)\r\n    json_adjacencies = adjacents.map{|adj_and_link_type|\r\n      url = \"/execute/context/\#{CGI::escape(adj_and_link_type[3].uri)}?node=\#{CGI::escape(adj_and_link_type[0].uri)}&\#{CGI::escape(adj_and_link_type[4] + element.uri)}\"    \r\n      build_json(adj_and_link_type[0], url, adj_and_link_type[1])\r\n      build_adjacency(adj_and_link_type[0], adj_and_link_type[2])\r\n    }.join(\",\")\r\n  end\r\n  \r\n  \r\n  json_string << '\"adjacencies\": [' + json_adjacencies + ']}'\r\n  \r\n  @nodes << json_string\r\n  \r\nend\r\n\r\nreasoning_element = DR::ReasoningElement.new(reasoning_element_uri)\r\n@pivot_class =  (reasoning_element.classes & [DR::Questao, DR::Ideia, DR::Argumento]).first\r\nbuild_json(reasoning_element, @current_url, \"no_relation\")\r\nreturn \"[\#{@nodes.join(',')}]\""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/operations
+Completed in 78ms | 302 Found [http://localhost/operations/update]
+
+
+Processing OperationsController#index (for 127.0.0.1 at 2013-07-05 14:24:54) [GET]
+Rendering template within layouts/application
+Rendering operations/index
+Completed in 6031ms (View: 6000 | 200 OK [http://localhost/operations]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:25:01) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 11500ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_injetar_agua_para_recuperacao_secundariade_petroleo_em_Albacora&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:25:12) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:25:12) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 62ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:25:57) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_medir_a_pressao_no_fundo_do_poco", "widget"=>"forced_directed", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 12297ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_medir_a_pressao_no_fundo_do_poco&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:26:09) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 32ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:26:09) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:26:13) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_medir_a_pressao_no_fundo_do_poco", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 9375ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_medir_a_pressao_no_fundo_do_poco&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:26:23) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:26:23) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing AbstractInterfacesController#index (for 127.0.0.1 at 2013-07-05 14:27:17) [GET]
+Rendering template within layouts/application
+Rendering abstract_interfaces/index
+Completed in 1328ms (View: 1297 | 200 OK [http://localhost/interface]
+
+
+Processing AbstractInterfacesController#edit (for 127.0.0.1 at 2013-07-05 14:27:23) [GET]
+  Parameters: {"id"=>"http://base#244a7b30-dcf7-11e2-9b4b-001302be8461"}
+Rendering template within layouts/application
+Rendering abstract_interfaces/edit
+Completed in 2454ms (View: 2391 | 200 OK [http://localhost/abstract_interfaces/edit/http:%2F%2Fbase%23244a7b30-dcf7-11e2-9b4b-001302be8461]
+
+
+Processing AbstractInterfacesController#update (for 127.0.0.1 at 2013-07-05 14:27:32) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#244a7b30-dcf7-11e2-9b4b-001302be8461", "interface"=>{"interface_name"=>"GraphVisualization", "type"=>"SWUI::ContextInterface", "context_id"=>"", "class_id"=>"", "index_id"=>"", "widget_decription_type"=>"concrete", "abstract_spec"=>"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\r\n<title>Spacetree - Tree Animation</title>\r\n<link rel=\"stylesheet\" href=\"/execute/css/aqueous\" type=\"text/css\" media=\"screen,projection\" />\r\n<link rel=\"stylesheet\" href=\"/execute/css/wikipedia\" type=\"text/css\" media=\"all\" />\r\n\r\n<%= javascript_include_tag 'jquery/jquery-1.4.2.min.js' %>\r\n\r\n<!-- CSS Files -->\r\n<%= stylesheet_link_tag 'css/base.css' %>\r\n<% if params[:widget] == \"forced_directed\" %>\r\n\t<%= stylesheet_link_tag 'css/ForceDirected.css' %>\r\n<%else%>\r\n\t<%= stylesheet_link_tag 'css/Spacetree.css' %>\r\n<%end%>\r\n<!--[if IE]><script language=\"javascript\" type=\"text/javascript\" src=\"../../Extras/excanvas.js\"></script><![endif]-->\r\n\r\n<!-- JIT Library File -->\r\n<%= javascript_include_tag 'Jit/jit.js' %>\r\n<!-- Example File -->\r\n<% if params[:widget] == \"forced_directed\" %>\r\n\t<%= javascript_include_tag 'Jit/Examples/ForceDirected/example2.js' %>\r\n<%else%>\r\n\t<%= javascript_include_tag 'Jit/Examples/Spacetree/example1.js' %>\r\n<%end%>\r\n\r\n</head>\r\n\r\n<body onload=\"init();\">\r\n  <div id=\"wrapper\">\r\n    <div id=\"innerwrapper\">\r\n      <div id=\"wikibanner\">\r\n\r\n        <%= image_tag(\"semWikiLogo.png\" ) %>\r\n        \r\n      </div>\t      \r\n      <%= include 'Header' %>    \r\n    <%= include 'WikiPageContextSideBar' %>\r\n    \r\n      <div id=\"contentnorightbar\">\r\n\r\n        <div class=\"noprint\" id=\"mw-head\">\r\n          <div id=\"left-navigation\">\r\n            <!-- 0 -->\r\n            <div class=\"vectorTabs\" id=\"p-namespaces\">\r\n              <h5>Namespaces</h5>\r\n              <ul>\r\n                <li class=\"selected\" id=\"ca-nstab-main\">\r\n                  <span><a accesskey=\"c\" title=\"View the content page [alt-shift-c]\" href=\"/wiki_page/under_construction\">Visualização Gráfica</a></span>\r\n                </li>          \r\n              </ul>            \r\n            </div>\r\n            <!-- /0 -->\r\n          </div>\r\n\r\n          <div id=\"right-navigation\">\r\n          <!-- 0 -->\r\n            <div class=\"vectorTabs\" id=\"p-views\">\r\n\r\n              <h5>Views</h5>\r\n              <ul>               \r\n                <li id=\"ca-edit\">\r\n                  <span>                    \r\n                    <a href=\"<%= @current_node.anchor.target_url + '&interface_name=EditWikiPage' %>\">Editar Nó</a><br>\r\n                  </span>\r\n                </li>\r\n                <li id=\"ca-view\">\r\n                \t\r\n                  <span><a href=\"<%= @current_node.anchor.target_url %>\" onclick=\"location.href=current_node_in_graph;return false;\">Ver Artigo</a><br></span>\r\n                </li>\r\n              </ul>\r\n\r\n            </div>\r\n          <!-- /0 -->\r\n\r\n          </div>\r\n        </div>\r\n        \r\n       \r\n        \r\n        <p style=\"margin-top: 0px; padding-top: 0px;\">\r\n          <%if !@current_node.previous_node.nil?%>\r\n            <%= \r\n              link_to(\"<< Previous\", @current_node.previous_node_anchor.target_url, \r\n                      :title => @current_node.previous_node_anchor.label, :style => \"float: left;\")\r\n            %>\r\n          <%end%>\r\n          <%if !@current_node.next_node.nil?%>      \r\n            <%= \r\n              link_to(\"Next >>\", @current_node.next_node_anchor.target_url, \r\n                      :title => @current_node.next_node_anchor.label, :style => \"float: right;\")\r\n            %>\r\n          <%end%>\r\n        </p>\r\n        \r\n        <div class=\"noprint\" id=\"mw-head-base\"></div>\r\n        \r\n        <div id=\"content\">\r\n        \t\t<div id=\"inner-details\"></div>\r\n        \t\t<% if params[:widget] == \"forced_directed\" %>\r\n\t\t\t\t\t<script> var json_string = <%=Operations.to_infovis_json({:reasoning_element_uri=>@current_node.uri, :current_url=>@current_node.anchor.target_url}) %> </script>\t\r\n\t\t\t\t<%else%>\r\n\t\t\t\t\t<script> var json_string = <%=Operations.to_infovis_spacetree({:reasoning_element_uri=>@current_node.uri, :current_url=>@current_node.anchor.target_url}) %> </script>\r\n\t\t\t\t<%end%>\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t<script> var current_node_in_graph = <%=@current_node.uri%> </script>\r\n\t\t\t    <div id=\"infovis\"></div>    \r\n\r\n\t\t\t\r\n            <label for=\"s-normal\">Normal </label>\r\n            <input type=\"hidden\" id=\"s-normal\" name=\"selection\" checked=\"checked\" value=\"normal\" />\r\n            <label for=\"s-root\">Set as Root </label>\r\n            <input type=\"hidden\" id=\"s-root\" name=\"selection\" value=\"root\" />\t\t\t\r\n\t\t\t\r\n          \r\n        </div>\r\n\r\n      </div>\r\n    <%= include 'Footer' %>\r\n    </div>\r\n  </div>\r\n</body>\r\n<script>\r\n</script>\r\n</html>\r\n", "rhet_spec"=>""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/abstract_interfaces
+Completed in 765ms | 302 Found [http://localhost/abstract_interfaces/update]
+
+
+Processing AbstractInterfacesController#index (for 127.0.0.1 at 2013-07-05 14:27:33) [GET]
+Rendering template within layouts/application
+Rendering abstract_interfaces/index
+Completed in 1422ms (View: 1391 | 200 OK [http://localhost/abstract_interfaces]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:27:41) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_medir_a_pressao_no_fundo_do_poco", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 10610ms (View: 0 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_medir_a_pressao_no_fundo_do_poco&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:27:52) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 94ms (View: 0 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:27:52) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 31ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]
+
+
+Processing AbstractInterfacesController#update (for 127.0.0.1 at 2013-07-05 14:29:00) [POST]
+  Parameters: {"authenticity_token"=>"2kVsgQWkjN/jzk+xHNwV+OlRLMh5oxz6dM6JFUMxq44=", "id"=>"http://base#244a7b30-dcf7-11e2-9b4b-001302be8461", "interface"=>{"interface_name"=>"GraphVisualization", "type"=>"SWUI::ContextInterface", "context_id"=>"", "class_id"=>"", "index_id"=>"", "widget_decription_type"=>"concrete", "abstract_spec"=>"<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\r\n<title>Spacetree - Tree Animation</title>\r\n<link rel=\"stylesheet\" href=\"/execute/css/aqueous\" type=\"text/css\" media=\"screen,projection\" />\r\n<link rel=\"stylesheet\" href=\"/execute/css/wikipedia\" type=\"text/css\" media=\"all\" />\r\n\r\n<%= javascript_include_tag 'jquery/jquery-1.4.2.min.js' %>\r\n\r\n<!-- CSS Files -->\r\n<%= stylesheet_link_tag 'css/base.css' %>\r\n<% if params[:widget] == \"forced_directed\" %>\r\n\t<%= stylesheet_link_tag 'css/ForceDirected.css' %>\r\n<%else%>\r\n\t<%= stylesheet_link_tag 'css/Spacetree.css' %>\r\n<%end%>\r\n<!--[if IE]><script language=\"javascript\" type=\"text/javascript\" src=\"../../Extras/excanvas.js\"></script><![endif]-->\r\n\r\n<!-- JIT Library File -->\r\n<%= javascript_include_tag 'Jit/jit.js' %>\r\n<!-- Example File -->\r\n<% if params[:widget] == \"forced_directed\" %>\r\n\t<%= javascript_include_tag 'Jit/Examples/ForceDirected/example2.js' %>\r\n<%else%>\r\n\t<%= javascript_include_tag 'Jit/Examples/Spacetree/example1.js' %>\r\n<%end%>\r\n\r\n</head>\r\n\r\n<body onload=\"init();\">\r\n  <div id=\"wrapper\">\r\n    <div id=\"innerwrapper\">\r\n      <div id=\"wikibanner\">\r\n\r\n        <%= image_tag(\"semWikiLogo.png\" ) %>\r\n        \r\n      </div>\t      \r\n      <%= include 'Header' %>    \r\n    <%= include 'ContextSideBar' %>\r\n    \r\n      <div id=\"contentnorightbar\">\r\n\r\n        <div class=\"noprint\" id=\"mw-head\">\r\n          <div id=\"left-navigation\">\r\n            <!-- 0 -->\r\n            <div class=\"vectorTabs\" id=\"p-namespaces\">\r\n              <h5>Namespaces</h5>\r\n              <ul>\r\n                <li class=\"selected\" id=\"ca-nstab-main\">\r\n                  <span><a accesskey=\"c\" title=\"View the content page [alt-shift-c]\" href=\"/wiki_page/under_construction\">Visualização Gráfica</a></span>\r\n                </li>          \r\n              </ul>            \r\n            </div>\r\n            <!-- /0 -->\r\n          </div>\r\n\r\n          <div id=\"right-navigation\">\r\n          <!-- 0 -->\r\n            <div class=\"vectorTabs\" id=\"p-views\">\r\n\r\n              <h5>Views</h5>\r\n              <ul>               \r\n                <li id=\"ca-edit\">\r\n                  <span>                    \r\n                    <a href=\"<%= @current_node.anchor.target_url + '&interface_name=EditWikiPage' %>\">Editar Nó</a><br>\r\n                  </span>\r\n                </li>\r\n                <li id=\"ca-view\">\r\n                \t\r\n                  <span><a href=\"<%= @current_node.anchor.target_url %>\" onclick=\"location.href=current_node_in_graph;return false;\">Ver Artigo</a><br></span>\r\n                </li>\r\n              </ul>\r\n\r\n            </div>\r\n          <!-- /0 -->\r\n\r\n          </div>\r\n        </div>\r\n        \r\n       \r\n        \r\n        <p style=\"margin-top: 0px; padding-top: 0px;\">\r\n          <%if !@current_node.previous_node.nil?%>\r\n            <%= \r\n              link_to(\"<< Previous\", @current_node.previous_node_anchor.target_url, \r\n                      :title => @current_node.previous_node_anchor.label, :style => \"float: left;\")\r\n            %>\r\n          <%end%>\r\n          <%if !@current_node.next_node.nil?%>      \r\n            <%= \r\n              link_to(\"Next >>\", @current_node.next_node_anchor.target_url, \r\n                      :title => @current_node.next_node_anchor.label, :style => \"float: right;\")\r\n            %>\r\n          <%end%>\r\n        </p>\r\n        \r\n        <div class=\"noprint\" id=\"mw-head-base\"></div>\r\n        \r\n        <div id=\"content\">\r\n        \t\t<div id=\"inner-details\"></div>\r\n        \t\t<% if params[:widget] == \"forced_directed\" %>\r\n\t\t\t\t\t<script> var json_string = <%=Operations.to_infovis_json({:reasoning_element_uri=>@current_node.uri, :current_url=>@current_node.anchor.target_url}) %> </script>\t\r\n\t\t\t\t<%else%>\r\n\t\t\t\t\t<script> var json_string = <%=Operations.to_infovis_spacetree({:reasoning_element_uri=>@current_node.uri, :current_url=>@current_node.anchor.target_url}) %> </script>\r\n\t\t\t\t<%end%>\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t<script> var current_node_in_graph = <%=@current_node.uri%> </script>\r\n\t\t\t    <div id=\"infovis\"></div>    \r\n\r\n\t\t\t\r\n            <label for=\"s-normal\">Normal </label>\r\n            <input type=\"hidden\" id=\"s-normal\" name=\"selection\" checked=\"checked\" value=\"normal\" />\r\n            <label for=\"s-root\">Set as Root </label>\r\n            <input type=\"hidden\" id=\"s-root\" name=\"selection\" value=\"root\" />\t\t\t\r\n\t\t\t\r\n          \r\n        </div>\r\n\r\n      </div>\r\n    <%= include 'Footer' %>\r\n    </div>\r\n  </div>\r\n</body>\r\n<script>\r\n</script>\r\n</html>\r\n", "rhet_spec"=>""}, "commit"=>"Save"}
+Redirected to http://localhost:3000/abstract_interfaces
+Completed in 672ms | 302 Found [http://localhost/abstract_interfaces/update]
+
+
+Processing AbstractInterfacesController#index (for 127.0.0.1 at 2013-07-05 14:29:00) [GET]
+Rendering template within layouts/application
+Rendering abstract_interfaces/index
+Completed in 1453ms (View: 1437 | 200 OK [http://localhost/abstract_interfaces]
+
+
+Processing ExecuteController#context (for 127.0.0.1 at 2013-07-05 14:29:05) [GET]
+  Parameters: {"node"=>"http://www.tecweb.inf.puc-rio.br/ontologies/dr#Como_medir_a_pressao_no_fundo_do_poco", "widget"=>"forced_directed", "interface_name"=>"GraphVisualization", "id"=>"http://base#4cba4b20-da49-11e0-a312-001d92e8bb43"}
+Completed in 9063ms (View: 16 | 200 OK [http://localhost/execute/context/http%3A%2F%2Fbase%234cba4b20-da49-11e0-a312-001d92e8bb43?node=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Como_medir_a_pressao_no_fundo_do_poco&widget=forced_directed&interface_name=GraphVisualization&widget=forced_directed]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:29:14) [GET]
+  Parameters: {"id"=>"aqueous"}
+Completed in 234ms (View: 47 | 200 OK [http://localhost/execute/css/aqueous]
+
+
+Processing ExecuteController#css (for 127.0.0.1 at 2013-07-05 14:29:14) [GET]
+  Parameters: {"id"=>"wikipedia"}
+Completed in 47ms (View: 0 | 200 OK [http://localhost/execute/css/wikipedia]

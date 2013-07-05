@@ -3639,3 +3639,534 @@ replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva
 done
 recovering pre markup
 done
+{:match=>"[[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"danos no selo de gás primário do compressor de baixa", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">danos no selo de gás primário do compressor de baixa</a>
+substitution of markup by the replacement
+markup: [[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">danos no selo de gás primário do compressor de baixa</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"selo sobressalente", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">selo sobressalente</a>
+substitution of markup by the replacement
+markup: [[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">selo sobressalente</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vibração excessiva do compressor", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"vazamento nos trocadores", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamento nos trocadores</a>
+substitution of markup by the replacement
+markup: [[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamento nos trocadores</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"vazamentos de gás", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamentos de gás</a>
+substitution of markup by the replacement
+markup: [[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamentos de gás</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vazamento de gás no 1º e 2º estágio", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 1º e 2º estágio</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 1º e 2º estágio</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vazamento de gás no 3º estágio", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 3º estágio</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 3º estágio</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Danos no selo de gás primário do compr. de baixa", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Danos no selo de gás primário do compr. de baixa</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Danos no selo de gás primário do compr. de baixa</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Falta de selos sobressalentes", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Falta de selos sobressalentes</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Falta de selos sobressalentes</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vibração excessiva do compressor", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"danos no selo de gás primário do compressor de baixa", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">danos no selo de gás primário do compressor de baixa</a>
+substitution of markup by the replacement
+markup: [[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">danos no selo de gás primário do compressor de baixa</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"selo sobressalente", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">selo sobressalente</a>
+substitution of markup by the replacement
+markup: [[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">selo sobressalente</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vibração excessiva do compressor", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"vazamento nos trocadores", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamento nos trocadores</a>
+substitution of markup by the replacement
+markup: [[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamento nos trocadores</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"vazamentos de gás", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamentos de gás</a>
+substitution of markup by the replacement
+markup: [[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamentos de gás</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vazamento de gás no 1º e 2º estágio", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 1º e 2º estágio</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 1º e 2º estágio</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vazamento de gás no 3º estágio", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 3º estágio</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 3º estágio</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Danos no selo de gás primário do compr. de baixa", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Danos no selo de gás primário do compr. de baixa</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Danos no selo de gás primário do compr. de baixa</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Falta de selos sobressalentes", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Falta de selos sobressalentes</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Falta de selos sobressalentes</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vibração excessiva do compressor", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[responde->Causa de indisponibilidade de TC?]]", :propertyName=>"responde", :objectProperty=>true, :alias=>"Causa de indisponibilidade de TC?", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::ElementoDeRaciocinio", "DR::Questao", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causa_de_indisponibilidade_de_TC
+replacement: <a href="/execute/render_target_page?wikiLabel=Causa de indisponibilidade de TC?&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causa_de_indisponibilidade_de_TC&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23ElementoDeRaciocinio">Causa de indisponibilidade de TC?</a>
+substitution of markup by the replacement
+markup: [[responde->Causa de indisponibilidade de TC?]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Causa de indisponibilidade de TC?&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causa_de_indisponibilidade_de_TC&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23ElementoDeRaciocinio">Causa de indisponibilidade de TC?</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[sugere->Causas de vazamento?]]", :propertyName=>"sugere", :objectProperty=>true, :alias=>"Causas de vazamento?", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::ElementoDeRaciocinio", "DR::Questao", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causas_de_vazamento>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Causas_de_vazamento
+replacement: <a href="/execute/render_target_page?wikiLabel=Causas de vazamento?&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causas_de_vazamento&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23ElementoDeRaciocinio">Causas de vazamento?</a>
+substitution of markup by the replacement
+markup: [[sugere->Causas de vazamento?]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Causas de vazamento?&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Causas_de_vazamento&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23ElementoDeRaciocinio">Causas de vazamento?</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[desprendimento do fundo da tela do filtro cesto|ehRespondidaPor->Desprendimento do fundo da tela do filtro cesto]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"desprendimento do fundo da tela do filtro cesto", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+replacement: <a href="/execute/render_target_page?wikiLabel=Desprendimento do fundo da tela do filtro cesto&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Desprendimento_do_fundo_da_tela_do_filtro_cesto&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">desprendimento do fundo da tela do filtro cesto</a>
+substitution of markup by the replacement
+markup: [[desprendimento do fundo da tela do filtro cesto|ehRespondidaPor->Desprendimento do fundo da tela do filtro cesto]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Desprendimento do fundo da tela do filtro cesto&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Desprendimento_do_fundo_da_tela_do_filtro_cesto&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">desprendimento do fundo da tela do filtro cesto</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->Desprendimento do fundo da tela do filtro cesto]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"Desprendimento do fundo da tela do filtro cesto", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Desprendimento_do_fundo_da_tela_do_filtro_cesto
+replacement: <a href="/execute/render_target_page?wikiLabel=Desprendimento do fundo da tela do filtro cesto&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Desprendimento_do_fundo_da_tela_do_filtro_cesto&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Desprendimento do fundo da tela do filtro cesto</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->Desprendimento do fundo da tela do filtro cesto]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Desprendimento do fundo da tela do filtro cesto&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Desprendimento_do_fundo_da_tela_do_filtro_cesto&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Desprendimento do fundo da tela do filtro cesto</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"danos no selo de gás primário do compressor de baixa", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">danos no selo de gás primário do compressor de baixa</a>
+substitution of markup by the replacement
+markup: [[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">danos no selo de gás primário do compressor de baixa</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"selo sobressalente", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">selo sobressalente</a>
+substitution of markup by the replacement
+markup: [[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">selo sobressalente</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vibração excessiva do compressor", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"vazamento nos trocadores", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamento nos trocadores</a>
+substitution of markup by the replacement
+markup: [[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamento nos trocadores</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"vazamentos de gás", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamentos de gás</a>
+substitution of markup by the replacement
+markup: [[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamentos de gás</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vazamento de gás no 1º e 2º estágio", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 1º e 2º estágio</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 1º e 2º estágio</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vazamento de gás no 3º estágio", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 3º estágio</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 3º estágio</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Danos no selo de gás primário do compr. de baixa", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Danos no selo de gás primário do compr. de baixa</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Danos no selo de gás primário do compr. de baixa</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Falta de selos sobressalentes", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Falta de selos sobressalentes</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Falta de selos sobressalentes</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vibração excessiva do compressor", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->Indicador do Índice de Injetividade]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"Indicador do Índice de Injetividade", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Indicador_do_Indice_de_Injetividade>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Indicador_do_Indice_de_Injetividade
+replacement: <a href="/execute/render_target_page?wikiLabel=Indicador do Índice de Injetividade&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Indicador_do_Indice_de_Injetividade&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Indicador do Índice de Injetividade</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->Indicador do Índice de Injetividade]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Indicador do Índice de Injetividade&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Indicador_do_Indice_de_Injetividade&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Indicador do Índice de Injetividade</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->Sensores de pressão de fundo]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"Sensores de pressão de fundo", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sensores_de_pressao_de_fundo>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sensores_de_pressao_de_fundo
+replacement: <a href="/execute/render_target_page?wikiLabel=Sensores de pressão de fundo&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Sensores_de_pressao_de_fundo&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Sensores de pressão de fundo</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->Sensores de pressão de fundo]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Sensores de pressão de fundo&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Sensores_de_pressao_de_fundo&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Sensores de pressão de fundo</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->Histórico de testes de pressões]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"Histórico de testes de pressões", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Historico_de_testes_de_pressoes>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Historico_de_testes_de_pressoes
+replacement: <a href="/execute/render_target_page?wikiLabel=Histórico de testes de pressões&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Historico_de_testes_de_pressoes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Histórico de testes de pressões</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->Histórico de testes de pressões]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Histórico de testes de pressões&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Historico_de_testes_de_pressoes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Histórico de testes de pressões</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehResolvidaPor->Rejeitar Sistema Convencional]]", :propertyName=>"ehResolvidaPor", :objectProperty=>true, :alias=>"Rejeitar Sistema Convencional", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Decisao", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+replacement: <a href="/execute/render_target_page?wikiLabel=Rejeitar Sistema Convencional&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision3&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Rejeitar Sistema Convencional</a>
+substitution of markup by the replacement
+markup: [[ehResolvidaPor->Rejeitar Sistema Convencional]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Rejeitar Sistema Convencional&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision3&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Rejeitar Sistema Convencional</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehResolvidaPor->Aceitar Raw Water Injection]]", :propertyName=>"ehResolvidaPor", :objectProperty=>true, :alias=>"Aceitar Raw Water Injection", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Decisao", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4
+replacement: <a href="/execute/render_target_page?wikiLabel=Aceitar Raw Water Injection&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision4&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Aceitar Raw Water Injection</a>
+substitution of markup by the replacement
+markup: [[ehResolvidaPor->Aceitar Raw Water Injection]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Aceitar Raw Water Injection&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision4&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Aceitar Raw Water Injection</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->Sistema Convencional]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"Sistema Convencional", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+replacement: <a href="/execute/render_target_page?wikiLabel=Sistema Convencional&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Sistema_Convencional&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Sistema Convencional</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->Sistema Convencional]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Sistema Convencional&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Sistema_Convencional&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Sistema Convencional</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->Raw Water Injection]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"Raw Water Injection", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+replacement: <a href="/execute/render_target_page?wikiLabel=Raw Water Injection&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Raw_Water_Injection&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Raw Water Injection</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->Raw Water Injection]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Raw Water Injection&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Raw_Water_Injection&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Raw Water Injection</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"danos no selo de gás primário do compressor de baixa", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">danos no selo de gás primário do compressor de baixa</a>
+substitution of markup by the replacement
+markup: [[danos no selo de gás primário do compressor de baixa|SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">danos no selo de gás primário do compressor de baixa</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"selo sobressalente", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">selo sobressalente</a>
+substitution of markup by the replacement
+markup: [[selo sobressalente|SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">selo sobressalente</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vibração excessiva do compressor", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"vazamento nos trocadores", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamento nos trocadores</a>
+substitution of markup by the replacement
+markup: [[vazamento nos trocadores|SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamento nos trocadores</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"vazamentos de gás", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamentos de gás</a>
+substitution of markup by the replacement
+markup: [[vazamentos de gás|SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">vazamentos de gás</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vazamento de gás no 1º e 2º estágio", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_1_e_2_estagio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 1º e 2º estágio</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 1º e 2º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 1º e 2º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_1_e_2_estagio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 1º e 2º estágio</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vazamento de gás no 3º estágio", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vazamento_de_gas_no_3_estágio
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 3º estágio</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vazamento de gás no 3º estágio]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vazamento de gás no 3º estágio&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vazamento_de_gas_no_3_est%C3%A1gio&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vazamento de gás no 3º estágio</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Danos no selo de gás primário do compr. de baixa", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Danos_no_selo_de_gas_primario_do_compr_e_baixa
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Danos no selo de gás primário do compr. de baixa</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Danos no selo de gás primário do compr. de baixa]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Danos no selo de gás primário do compr. de baixa&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Danos_no_selo_de_gas_primario_do_compr_e_baixa&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Danos no selo de gás primário do compr. de baixa</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Falta de selos sobressalentes", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Falta_de_selos_sobressalentes
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Falta de selos sobressalentes</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Falta de selos sobressalentes]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Falta de selos sobressalentes&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Falta_de_selos_sobressalentes&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Falta de selos sobressalentes</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]]", :propertyName=>"http://www.tecweb.inf.puc-rio.br/ontologies/swwiki#ehRespondidaPor", :objectProperty=>true, :alias=>"Vibração excessiva do compressor", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Vibracao_excessiva_do_compressor
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>
+substitution of markup by the replacement
+markup: [[SWWIKI::ehRespondidaPor->Vibração excessiva do compressor]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Vibração excessiva do compressor&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Vibracao_excessiva_do_compressor&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Vibração excessiva do compressor</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehResolvidaPor->Rejeitar Sistema Convencional]]", :propertyName=>"ehResolvidaPor", :objectProperty=>true, :alias=>"Rejeitar Sistema Convencional", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Decisao", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision3
+replacement: <a href="/execute/render_target_page?wikiLabel=Rejeitar Sistema Convencional&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision3&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Rejeitar Sistema Convencional</a>
+substitution of markup by the replacement
+markup: [[ehResolvidaPor->Rejeitar Sistema Convencional]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Rejeitar Sistema Convencional&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision3&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Rejeitar Sistema Convencional</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehResolvidaPor->Aceitar Raw Water Injection]]", :propertyName=>"ehResolvidaPor", :objectProperty=>true, :alias=>"Aceitar Raw Water Injection", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Decisao", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision4
+replacement: <a href="/execute/render_target_page?wikiLabel=Aceitar Raw Water Injection&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision4&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Aceitar Raw Water Injection</a>
+substitution of markup by the replacement
+markup: [[ehResolvidaPor->Aceitar Raw Water Injection]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Aceitar Raw Water Injection&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision4&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Aceitar Raw Water Injection</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->Sistema Convencional]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"Sistema Convencional", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Sistema_Convencional
+replacement: <a href="/execute/render_target_page?wikiLabel=Sistema Convencional&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Sistema_Convencional&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Sistema Convencional</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->Sistema Convencional]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Sistema Convencional&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Sistema_Convencional&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Sistema Convencional</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->Raw Water Injection]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"Raw Water Injection", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#Raw_Water_Injection
+replacement: <a href="/execute/render_target_page?wikiLabel=Raw Water Injection&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Raw_Water_Injection&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Raw Water Injection</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->Raw Water Injection]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Raw Water Injection&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Raw_Water_Injection&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">Raw Water Injection</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehResolvidaPor->Rejeitar TPT]]", :propertyName=>"ehResolvidaPor", :objectProperty=>true, :alias=>"Rejeitar TPT", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Decisao", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision1
+replacement: <a href="/execute/render_target_page?wikiLabel=Rejeitar TPT&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision1&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Rejeitar TPT</a>
+substitution of markup by the replacement
+markup: [[ehResolvidaPor->Rejeitar TPT]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Rejeitar TPT&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision1&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Rejeitar TPT</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehResolvidaPor->Aceitar TPT+PDG]]", :propertyName=>"ehResolvidaPor", :objectProperty=>true, :alias=>"Aceitar TPT+PDG", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Decisao", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#decision2
+replacement: <a href="/execute/render_target_page?wikiLabel=Aceitar TPT+PDG&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision2&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Aceitar TPT+PDG</a>
+substitution of markup by the replacement
+markup: [[ehResolvidaPor->Aceitar TPT+PDG]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=Aceitar TPT+PDG&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23decision2&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Decisao">Aceitar TPT+PDG</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->TPT]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"TPT", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt
+replacement: <a href="/execute/render_target_page?wikiLabel=TPT&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23tpt&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">TPT</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->TPT]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=TPT&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23tpt&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">TPT</a>, type: String
+done
+recovering pre markup
+done
+{:match=>"[[ehRespondidaPor->TPT+PDG]]", :propertyName=>"ehRespondidaPor", :objectProperty=>true, :alias=>"TPT+PDG", :value=>#<["RDFS::Resource", "SWWIKI::WikiPage", "DR::Ideia", "DR::ElementoDeRaciocinio", "RDF::Resource"] http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg>}
+uri: http://www.tecweb.inf.puc-rio.br/ontologies/dr#tpt_pdg
+replacement: <a href="/execute/render_target_page?wikiLabel=TPT+PDG&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23tpt_pdg&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">TPT+PDG</a>
+substitution of markup by the replacement
+markup: [[ehRespondidaPor->TPT+PDG]], type: String
+replacement: <a href="/execute/render_target_page?wikiLabel=TPT+PDG&tgtctx=http%3A%2F%2Fbase%232305df20-e07f-11df-aab6-00264afffe1d&tgtresource=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23tpt_pdg&tgtclass=http%3A%2F%2Fwww.tecweb.inf.puc-rio.br%2Fontologies%2Fdr%23Ideia">TPT+PDG</a>, type: String
+done
+recovering pre markup
+done
